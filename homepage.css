@@ -1,5 +1,33 @@
+@font-face {
+    font-family: Counter-Strike;
+    src: url(cs_regular_font.ttf);
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #242424;
+    font-family: Counter-Strike, Arial;
+}
+
+#title-container {
+    text-align: center;
+    color: aliceblue;
+    width: 1000px;
+}
+
 #title-link {
     text-decoration: underline;
     cursor: pointer;
     user-select: none;
+    font-size: 24px;
 }
+
+#title {
+    font-size: 64px;
+    margin: 20px 0 0;
+}
+
