@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Counter-Strike;
+    src: url(cs_regular_font.ttf);
+}
+
+:root {
+    --glow: #ff9900;
+    --background: #242424;
+    --text: #f0f8ff; /* Aliceblue */
+}
