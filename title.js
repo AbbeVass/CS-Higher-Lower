@@ -9,7 +9,7 @@ function changeTitle(customT = null, customL = null) {
     const TitleLink = document.getElementById("title-link");
     const Title = document.getElementById("title");
 
-    if (customT || customL) { // Custom title 
+    if (customT || customL) { // Custom title
         if (customT) { Title.innerText = customT; }
         if (customL) { TitleLink.innerText = customL; }
     }

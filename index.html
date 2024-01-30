@@ -3,19 +3,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CS2 Higher Lower</title>
-  <link rel="icon" id="icon" href="">
+  <title id="index">CS2 Higher Lower</title>
+  <link rel="icon" id="icon">
 
+  <link rel="stylesheet" href="font.css">
   <link rel="stylesheet" href="homepage.css">
   <script src="icon.js"></script>
 </head>
 <body>
-  <main>
-    <div id="title-container">
-      <a id="title-link" onclick="changeTitle()"></a>
-      <h1 id="title"></h1>
-    </div>
-  </main>
+  <img id="cs-img" src="cs_img.jpg" alt="counter strike 2">
+
+  <div id="title-container">
+    <a id="title-link" onclick="changeTitle()"></a>
+    <h1 id="title"></h1>
+  </div>
+  <button id="start-btn" onclick="window.open('play.html', '_self')">Play</button>
   
   <script src="title.js"></script>
 </body>

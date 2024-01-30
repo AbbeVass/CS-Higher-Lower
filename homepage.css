@@ -1,12 +1,12 @@
-@font-face {
-    font-family: Counter-Strike;
-    src: url(cs_regular_font.ttf);
+:root {
+    --orange: #ff9900;
 }
 
 body {
     margin: 0;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: #242424;
@@ -31,3 +31,28 @@ body {
     margin: 20px 0 0;
 }
 
+#start-btn {
+    margin-top: 50px;
+    font-family: Counter-Strike;
+    font-size: 50px;
+    background-color: aliceblue;
+    color: #242424;
+    border: 0;
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+#start-btn:hover {
+    font-size: 60px;
+    margin-top: 43px;
+    box-shadow: 0 0 40px var(--orange);
+}
+
+#cs-img {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 200px;
+    box-shadow: 0 0 50px var(--orange);
+}
