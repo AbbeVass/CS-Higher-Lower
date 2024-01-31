@@ -1,7 +1,12 @@
 const IconElement = document.getElementById("icon");
+const Icons = ["mix.png", "gold.png", "teal.png", "white.png"];
+
 let icon;
 
-if (document.querySelector("title").id === "index") { // If its the index-page
+if (document.querySelector("title").id === "index"      // If its the index-page
+    || !Icons.includes(localStorage.getItem("icon")))    // If there is not a stored icon
+{                 
+
     const RandomNum = Math.floor(Math.random() * 100);
     if      (RandomNum === 0) { icon = "mix.png"; }   // 1%
     else if (RandomNum <= 10) { icon = "gold.png"; }  // 10%
