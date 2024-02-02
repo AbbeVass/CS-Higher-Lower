@@ -3,8 +3,8 @@ const Icons = ["mix.png", "gold.png", "teal.png", "white.png"];
 
 let icon;
 
-if (document.querySelector("title").id === "index"      // If its the index-page
-    || !Icons.includes(localStorage.getItem("icon")))    // If there is not a stored icon
+if (document.querySelector("title").id === "index"       // If its the index-page
+    || !Icons.includes(localStorage.getItem("icon")))    // If there's not a stored icon
 {                 
 
     const RandomNum = Math.floor(Math.random() * 100);

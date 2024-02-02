@@ -1,4 +1,87 @@
 body {
     background-color: var(--background);
+    font-family: Counter-Strike;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
 }
 
+main {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.display {
+    width: 45%;
+    text-align: center;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 20vw;
+}
+.item-img {
+    height: 100%;
+}
+
+.item-name {
+    margin-top: 50px;
+    font-size: 40px;
+    color: lightsalmon;
+}
+.item-skin {
+    font-size: 55px;
+    color: var(--text);
+}
+.item-price {
+    margin-top: 55px;
+    font-size: 40px;
+    color: aquamarine;
+}
+
+.btn {
+    width: 40%;
+    height: 5vw;
+    font-family: Counter-Strike;
+    font-size: 3.5vw;
+    margin: 0 10px;
+    border: 3px solid;
+    border-radius: 100vh;
+    background-color: transparent;
+    color: var(--text);
+    transition: 0.2s;
+    cursor: pointer;
+}
+.higher-btn {
+    border-color: lightgreen;
+}
+.higher-btn:hover {
+    background-color: lightgreen;
+    color: var(--background);
+}
+.lower-btn {
+    border-color: lightcoral;
+}
+.lower-btn:hover {
+    background-color: lightcoral;
+    color: var(--background);
+}
+.btn:active {
+    opacity: 0.5;
+}
+
+@media (max-width: 600px) {
+    .btn-container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .btn {
+        margin-bottom: 10px;
+    }
+}
