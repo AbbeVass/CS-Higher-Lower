@@ -1,5 +1,0 @@
-let loadedItems = {};
-
-function setup() {
-    
-}

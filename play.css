@@ -16,6 +16,7 @@ main {
 .display {
     width: 45%;
     text-align: center;
+    margin: 0 20px;
 }
 
 .img-container {
@@ -43,12 +44,17 @@ main {
     font-size: 40px;
     color: aquamarine;
 }
+.item-name,
+.item-skin,
+.item-price {
+    text-wrap: wrap;
+}
 
 .btn {
-    width: 40%;
-    height: 5vw;
+    width: 300px;
+    height: 90px;
     font-family: Counter-Strike;
-    font-size: 3.5vw;
+    font-size: 60px;
     margin: 0 10px;
     border: 3px solid;
     border-radius: 100vh;
@@ -75,7 +81,15 @@ main {
     opacity: 0.5;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1430px) {
+    .btn {
+        width: 200px;
+        height: 75px;
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 990px) {
     .btn-container {
         display: flex;
         align-items: center;
@@ -83,5 +97,13 @@ main {
     }
     .btn {
         margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 600px) {
+    .btn {
+        width: 150px;
+        height: 50px;
+        font-size: 30px;
     }
 }
