@@ -11,7 +11,7 @@ fetch(`items/data/items-data.json`)
     .then(response => response.json())
     .then(data => {
         allItems = data;
-        setup(); // Run the setup after all items har fetched
+        setup(); // Run the setup after all items are fetched
     })
     .catch(error => console.error('Error fetching items:', error));
 
@@ -29,12 +29,10 @@ function setup() {
         possibleItems = Object.keys(allItems);
     }
 
-    // Get items
-    items.left = getItem();
+    // Get first item
     items.right = getItem();
-    while (items.right === items.left) {
-        items.right = getItem();
-    }
+
+    changeItems();
 }
 
 function getItem() {
@@ -43,4 +41,35 @@ function getItem() {
 
     // Choose specifik item
     return ItemsByType[Math.floor(Math.random()*ItemsByType.length)];
+}
+
+function changeItems() {
+    items.left = items.right;
+
+    // Make sure the two items aren't the same
+    while (items.right === items.left) {
+        items.right = getItem();
+    }
+
+    const LeftDisplay = document.querySelector(".left");
+    const RightDisplay = document.querySelector(".right");
+    const LeftItem = items.left;
+    const RightItem = items.right;
+
+    LeftDisplay.querySelector(".item-img").src = `items/images/${LeftItem.type}/${LeftItem.id}.webp`;
+    LeftDisplay.querySelector(".item-type").innerHTML = LeftItem.type;
+    LeftDisplay.querySelector(".item-skin").innerHTML = LeftItem.skin;
+    LeftDisplay.querySelector(".item-price").innerHTML = getPrice(LeftItem.price);
+
+    RightDisplay.querySelector(".item-img").src = `items/images/${RightItem.type}/${RightItem.id}.webp`;
+    RightDisplay.querySelector(".item-type").innerHTML = RightItem.type;
+    RightDisplay.querySelector(".item-skin").innerHTML = RightItem.skin;
+}
+
+function guess(higher) {
+    
+}
+
+function getPrice(sek) {
+    return sek + " kr";
 }

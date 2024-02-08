@@ -30,7 +30,7 @@ main {
     height: 100%;
 }
 
-.item-name {
+.item-type {
     margin-top: 50px;
     font-size: 40px;
     color: lightsalmon;
@@ -44,7 +44,7 @@ main {
     font-size: 40px;
     color: aquamarine;
 }
-.item-name,
+.item-type,
 .item-skin,
 .item-price {
     text-wrap: wrap;
