@@ -7,6 +7,17 @@ body {
     align-items: center;
 }
 
+#score,
+#highScore {
+    margin: 0;
+    position: absolute;
+    top: 24px;
+    font-size: 32px;
+    color: var(--text);
+}
+#score { left: 24px; }
+#highScore { right: 24px; }
+
 main {
     display: flex;
     justify-content: space-around;
@@ -40,7 +51,7 @@ main {
     color: var(--text);
 }
 .item-price {
-    margin-top: 55px;
+    margin: 0;
     font-size: 40px;
     color: aquamarine;
 }

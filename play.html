@@ -11,6 +11,8 @@
   <script src="icon.js"></script>
 </head>
 <body>
+  <p id="score"></p> 
+  <p id="highScore"></p> 
   <main>
     <div class="display left">
       <div class="img-container">
@@ -18,7 +20,7 @@
       </div>
       <h2 class="item-type"></h2>
       <h2 class="item-skin"></h2>
-      <h1 class="item-price"></h1>
+      <p class="item-price"></p>
     </div>
     <div class="display right">
       <div class="img-container">
@@ -27,6 +29,7 @@
       <h2 class="item-type"></h2>
       <h2 class="item-skin"></h2>
       <div class="btn-container">
+        <p class="item-price" style="display: none;"></p>
         <button class="higher-btn btn" onclick="guess(true)">Higher</button>
         <button class="lower-btn btn" onclick="guess(false)">Lower</button>
       </div>
