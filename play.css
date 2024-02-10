@@ -64,6 +64,7 @@ main {
 .btn {
     width: 300px;
     height: 90px;
+    display: inline;
     font-family: Counter-Strike;
     font-size: 60px;
     margin: 0 10px;

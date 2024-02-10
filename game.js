@@ -93,7 +93,7 @@ function guess(higher) {
 
     // How many updates will the countup consist of
     const Updates = 2 * 30; // seconds * fps
-    let frame = 1
+    let frame = 1;
 
     // Animate the price reveal
     function updatePrice() {
@@ -116,7 +116,15 @@ function guess(higher) {
             // Update score
             score++;
             document.getElementById("score").innerHTML = "Score: "+score;
-            setTimeout(changeItems, 1000);
+
+            // Wait and then change items and show buttons again
+            setTimeout(() => {
+                changeItems();
+                Price.style.display = "none";
+                for (let btn of Box.querySelectorAll("button")) {
+                    btn.style.display = "inline";
+                }
+            }, 1000);
         }
     }
 }
