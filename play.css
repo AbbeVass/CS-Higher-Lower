@@ -1,8 +1,8 @@
 body {
     background-color: var(--background);
     font-family: Counter-Strike;
-    margin: 0;
-    height: 100vh;
+    margin: 70px 0 0;
+    height: 100%;
     display: flex;
     align-items: center;
 }
@@ -14,6 +14,7 @@ body {
     top: 24px;
     font-size: 32px;
     color: var(--text);
+    transition: 0.2s;
 }
 #score { left: 24px; }
 #highScore { right: 24px; }

@@ -64,13 +64,13 @@ function changeItems() {
     const RightItem = items.right;
 
     // Left item
-    LeftDisplay.querySelector(".item-img").src = `items/images/${LeftItem.type}/${LeftItem.id}.webp`;
+    LeftDisplay.querySelector(".item-img").src = `items/img/${LeftItem.type}/${LeftItem.id}.webp`;
     LeftDisplay.querySelector(".item-type").innerHTML = LeftItem.type;
     LeftDisplay.querySelector(".item-skin").innerHTML = LeftItem.skin;
     LeftDisplay.querySelector(".item-price").innerHTML = getPrice(LeftItem.price);
 
     // Right item
-    RightDisplay.querySelector(".item-img").src = `items/images/${RightItem.type}/${RightItem.id}.webp`;
+    RightDisplay.querySelector(".item-img").src = `items/img/${RightItem.type}/${RightItem.id}.webp`;
     RightDisplay.querySelector(".item-type").innerHTML = RightItem.type;
     RightDisplay.querySelector(".item-skin").innerHTML = RightItem.skin;
 }
@@ -89,7 +89,7 @@ function guess(higher) {
     // Show price element and adjust its margin so nothing moves
     const Price = Box.querySelector(".item-price");
     Price.style.display = "block";
-    Price.style.marginBottom = BoxHeight-Price.offsetHeight + "px";
+    Price.style.marginBottom = BoxHeight - Price.offsetHeight + "px";
 
     // How many updates will the countup consist of
     const Updates = 2 * 30; // seconds * fps
@@ -100,14 +100,14 @@ function guess(higher) {
         Price.innerHTML = getPrice(items["right"].price * ((frame) / Updates));
         if (frame === Updates) { // Stop the countup
             clearInterval(countUp);
-            continueGuess();
+            guessResult();
         } else {
             frame++;
         }
     }
     let countUp = setInterval(updatePrice, 1000/30);
 
-    function continueGuess() {
+    function guessResult() {
         // Check if the guess is correct
         const LP = items["left"].price;
         const RP = items["right"].price;
@@ -115,7 +115,12 @@ function guess(higher) {
             
             // Update score
             score++;
-            document.getElementById("score").innerHTML = "Score: "+score;
+            const ScoreDisplay = document.getElementById("score");
+            ScoreDisplay.innerHTML = "Score: "+score;
+            ScoreDisplay.style.fontSize = "45px";       // Expand
+            setTimeout(() => {
+                ScoreDisplay.style.fontSize = "32px";   // Retract
+            }, 300);
 
             // Wait and then change items and show buttons again
             setTimeout(() => {
@@ -126,12 +131,19 @@ function guess(higher) {
                 }
             }, 1000);
         }
+        else {
+            finishGame();
+        }
     }
 }
 
 /**
- * Rounds the price and returns it in the right currency
+ * Rounds the price and returns it in the selected currency
  */
 function getPrice(sek) {
     return sek.toFixed(2) + " kr";
+}
+
+function finishGame() {
+
 }

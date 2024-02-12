@@ -1,5 +1,5 @@
 const fs = require("fs");
-const Path = "../../images/"
+const Path = "../../img/"
 const Save = "../items-data.json";
 
 let data;
