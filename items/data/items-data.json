@@ -3104,5 +3104,760 @@
       "skin": "Whiteout",
       "price": 2336.8
     }
+  ],
+  "MP9": [
+    {
+      "string": "MP9, Airlock, 113,22 kr.webp",
+      "id": 0,
+      "type": "MP9",
+      "skin": "Airlock",
+      "price": 113.22
+    },
+    {
+      "string": "MP9, Army Sheen, 6,05 kr.webp",
+      "id": 1,
+      "type": "MP9",
+      "skin": "Army Sheen",
+      "price": 6.05
+    },
+    {
+      "string": "MP9, Bioleak, 2,81 kr.webp",
+      "id": 2,
+      "type": "MP9",
+      "skin": "Bioleak",
+      "price": 2.81
+    },
+    {
+      "string": "MP9, Black Sand, 2,50 kr.webp",
+      "id": 3,
+      "type": "MP9",
+      "skin": "Black Sand",
+      "price": 2.5
+    },
+    {
+      "string": "MP9, Bulldozer, 5942,86 kr.webp",
+      "id": 4,
+      "type": "MP9",
+      "skin": "Bulldozer",
+      "price": 5942.86
+    },
+    {
+      "string": "MP9, Capillary, 4,38 kr.webp",
+      "id": 5,
+      "type": "MP9",
+      "skin": "Capillary",
+      "price": 4.38
+    },
+    {
+      "string": "MP9, Dark Age, 1092,26 kr.webp",
+      "id": 6,
+      "type": "MP9",
+      "skin": "Dark Age",
+      "price": 1092.26
+    },
+    {
+      "string": "MP9, Dart, 8,34 kr.webp",
+      "id": 7,
+      "type": "MP9",
+      "skin": "Dart",
+      "price": 8.34
+    },
+    {
+      "string": "MP9, Deadly Poison, 17,41 kr.webp",
+      "id": 8,
+      "type": "MP9",
+      "skin": "Deadly Poison",
+      "price": 17.41
+    },
+    {
+      "string": "MP9, Dry Season, 521,27 kr.webp",
+      "id": 9,
+      "type": "MP9",
+      "skin": "Dry Season",
+      "price": 521.27
+    },
+    {
+      "string": "MP9, Featherweight, 3,13 kr.webp",
+      "id": 10,
+      "type": "MP9",
+      "skin": "Featherweight",
+      "price": 3.13
+    },
+    {
+      "string": "MP9, Food Chain, 89,13 kr.webp",
+      "id": 11,
+      "type": "MP9",
+      "skin": "Food Chain",
+      "price": 89.13
+    },
+    {
+      "string": "MP9, Goo, 15,12 kr.webp",
+      "id": 12,
+      "type": "MP9",
+      "skin": "Goo",
+      "price": 15.12
+    },
+    {
+      "string": "MP9, Green Plaid, 50,46 kr.webp",
+      "id": 13,
+      "type": "MP9",
+      "skin": "Green Plaid",
+      "price": 50.46
+    },
+    {
+      "string": "MP9, Hot Rod, 878,54 kr.webp",
+      "id": 14,
+      "type": "MP9",
+      "skin": "Hot Rod",
+      "price": 878.54
+    },
+    {
+      "string": "MP9, Hydra, 166,28 kr.webp",
+      "id": 15,
+      "type": "MP9",
+      "skin": "Hydra",
+      "price": 166.28
+    },
+    {
+      "string": "MP9, Hypnotic, 117,18 kr.webp",
+      "id": 16,
+      "type": "MP9",
+      "skin": "Hypnotic",
+      "price": 117.18
+    },
+    {
+      "string": "MP9, Modest Threat, 2,61 kr.webp",
+      "id": 17,
+      "type": "MP9",
+      "skin": "Modest Threat",
+      "price": 2.61
+    },
+    {
+      "string": "MP9, Mount Fuji, 92,99 kr.webp",
+      "id": 18,
+      "type": "MP9",
+      "skin": "Mount Fuji",
+      "price": 92.99
+    },
+    {
+      "string": "MP9, Music Box, 169,62 kr.webp",
+      "id": 19,
+      "type": "MP9",
+      "skin": "Music Box",
+      "price": 169.62
+    },
+    {
+      "string": "MP9, Old Roots, 55,05 kr.webp",
+      "id": 20,
+      "type": "MP9",
+      "skin": "Old Roots",
+      "price": 55.05
+    },
+    {
+      "string": "MP9, Orange Peel, 3,44 kr.webp",
+      "id": 21,
+      "type": "MP9",
+      "skin": "Orange Peel",
+      "price": 3.44
+    },
+    {
+      "string": "MP9, Pandora's Box, 1644,60 kr.webp",
+      "id": 22,
+      "type": "MP9",
+      "skin": "Pandora's Box",
+      "price": 1644.6
+    },
+    {
+      "string": "MP9, Rose Iron, 87,05 kr.webp",
+      "id": 23,
+      "type": "MP9",
+      "skin": "Rose Iron",
+      "price": 87.05
+    },
+    {
+      "string": "MP9, Ruby Poison Dart, 20,43 kr.webp",
+      "id": 24,
+      "type": "MP9",
+      "skin": "Ruby Poison Dart",
+      "price": 20.43
+    },
+    {
+      "string": "MP9, Sand Dashed, 0,73 kr.webp",
+      "id": 25,
+      "type": "MP9",
+      "skin": "Sand Dashed",
+      "price": 0.73
+    },
+    {
+      "string": "MP9, Sand Scale, 3,54 kr.webp",
+      "id": 26,
+      "type": "MP9",
+      "skin": "Sand Scale",
+      "price": 3.54
+    },
+    {
+      "string": "MP9, Setting Sun, 90,07 kr.webp",
+      "id": 27,
+      "type": "MP9",
+      "skin": "Setting Sun",
+      "price": 90.07
+    },
+    {
+      "string": "MP9, Slide, 0,63 kr.webp",
+      "id": 28,
+      "type": "MP9",
+      "skin": "Slide",
+      "price": 0.63
+    },
+    {
+      "string": "MP9, Stained Glass, 1344,24 kr.webp",
+      "id": 29,
+      "type": "MP9",
+      "skin": "Stained Glass",
+      "price": 1344.24
+    },
+    {
+      "string": "MP9, Starlight Protector, 211,67 kr.webp",
+      "id": 30,
+      "type": "MP9",
+      "skin": "Starlight Protector",
+      "price": 211.67
+    },
+    {
+      "string": "MP9, Storm, 119,89 kr.webp",
+      "id": 31,
+      "type": "MP9",
+      "skin": "Storm",
+      "price": 119.89
+    },
+    {
+      "string": "MP9, Wild Lily, 18765,59 kr.webp",
+      "id": 32,
+      "type": "MP9",
+      "skin": "Wild Lily",
+      "price": 18765.59
+    }
+  ],
+  "P90": [
+    {
+      "string": "P90, Ancient Earth, 6,98 kr.webp",
+      "id": 0,
+      "type": "P90",
+      "skin": "Ancient Earth",
+      "price": 6.98
+    },
+    {
+      "string": "P90, Ash Wood, 1,67 kr.webp",
+      "id": 1,
+      "type": "P90",
+      "skin": "Ash Wood",
+      "price": 1.67
+    },
+    {
+      "string": "P90, Asiimov, 391,22 kr.webp",
+      "id": 2,
+      "type": "P90",
+      "skin": "Asiimov",
+      "price": 391.22
+    },
+    {
+      "string": "P90, Astral Jörmungandr, 2853,91 kr.webp",
+      "id": 3,
+      "type": "P90",
+      "skin": "Astral Jörmungandr",
+      "price": 2853.91
+    },
+    {
+      "string": "P90, Baroque Red, 261,16 kr.webp",
+      "id": 4,
+      "type": "P90",
+      "skin": "Baroque Red",
+      "price": 261.16
+    },
+    {
+      "string": "P90, Blind Spot, 122,45 kr.webp",
+      "id": 5,
+      "type": "P90",
+      "skin": "Blind Spot",
+      "price": 122.45
+    },
+    {
+      "string": "P90, Chopper, 19,07 kr.webp",
+      "id": 6,
+      "type": "P90",
+      "skin": "Chopper",
+      "price": 19.07
+    },
+    {
+      "string": "P90, Cocoa Rampage, 7,19 kr.webp",
+      "id": 7,
+      "type": "P90",
+      "skin": "Cocoa Rampage",
+      "price": 7.19
+    },
+    {
+      "string": "P90, Cold Blooded, 584,02 kr.webp",
+      "id": 8,
+      "type": "P90",
+      "skin": "Cold Blooded",
+      "price": 584.02
+    },
+    {
+      "string": "P90, Death By Kitty, 539,31 kr.webp",
+      "id": 9,
+      "type": "P90",
+      "skin": "Death By Kitty",
+      "price": 539.31
+    },
+    {
+      "string": "P90, Death Grip, 139,86 kr.webp",
+      "id": 10,
+      "type": "P90",
+      "skin": "Death Grip",
+      "price": 139.86
+    },
+    {
+      "string": "P90, Desert DDPAT, 7,19 kr.webp",
+      "id": 11,
+      "type": "P90",
+      "skin": "Desert DDPAT",
+      "price": 7.19
+    },
+    {
+      "string": "P90, Desert Warfare, 39,08 kr.webp",
+      "id": 12,
+      "type": "P90",
+      "skin": "Desert Warfare",
+      "price": 39.08
+    },
+    {
+      "string": "P90, Elite Build, 11,98 kr.webp",
+      "id": 13,
+      "type": "P90",
+      "skin": "Elite Build",
+      "price": 11.98
+    },
+    {
+      "string": "P90, Emerald Dragon, 2339,93 kr.webp",
+      "id": 14,
+      "type": "P90",
+      "skin": "Emerald Dragon",
+      "price": 2339.93
+    },
+    {
+      "string": "P90, Facility Negative, 5,73 kr.webp",
+      "id": 15,
+      "type": "P90",
+      "skin": "Facility Negative",
+      "price": 5.73
+    },
+    {
+      "string": "P90, Fallout Warning, 2797,01 kr.webp",
+      "id": 16,
+      "type": "P90",
+      "skin": "Fallout Warning",
+      "price": 2797.01
+    },
+    {
+      "string": "P90, Freight, 2,08 kr.webp",
+      "id": 17,
+      "type": "P90",
+      "skin": "Freight",
+      "price": 2.08
+    },
+    {
+      "string": "P90, Glacier Mesh, 226,67 kr.webp",
+      "id": 18,
+      "type": "P90",
+      "skin": "Glacier Mesh",
+      "price": 226.67
+    },
+    {
+      "string": "P90, Grim, 6,67 kr.webp",
+      "id": 19,
+      "type": "P90",
+      "skin": "Grim",
+      "price": 6.67
+    },
+    {
+      "string": "P90, Leather, 202,80 kr.webp",
+      "id": 20,
+      "type": "P90",
+      "skin": "Leather",
+      "price": 202.8
+    },
+    {
+      "string": "P90, Moduel, 28,35 kr.webp",
+      "id": 21,
+      "type": "P90",
+      "skin": "Moduel",
+      "price": 28.35
+    },
+    {
+      "string": "P90, Neoqueen, 18,76 kr.webp",
+      "id": 22,
+      "type": "P90",
+      "skin": "Neoqueen",
+      "price": 18.76
+    },
+    {
+      "string": "P90, Nostalgia, 117,97 kr.webp",
+      "id": 23,
+      "type": "P90",
+      "skin": "Nostalgia",
+      "price": 117.97
+    },
+    {
+      "string": "P90, Off World, 3,02 kr.webp",
+      "id": 24,
+      "type": "P90",
+      "skin": "Off World",
+      "price": 3.02
+    },
+    {
+      "string": "P90, Run And Hide, 3135,71 kr.webp",
+      "id": 25,
+      "type": "P90",
+      "skin": "Run And Hide",
+      "price": 3135.71
+    },
+    {
+      "string": "P90, Sand Spray, 0,73 kr.webp",
+      "id": 26,
+      "type": "P90",
+      "skin": "Sand Spray",
+      "price": 0.73
+    },
+    {
+      "string": "P90, ScaraB Rush, 154,34 kr.webp",
+      "id": 27,
+      "type": "P90",
+      "skin": "ScaraB Rush",
+      "price": 154.34
+    },
+    {
+      "string": "P90, Schematic, 137,98 kr.webp",
+      "id": 28,
+      "type": "P90",
+      "skin": "Schematic",
+      "price": 137.98
+    },
+    {
+      "string": "P90, Scorched, 56,07 kr.webp",
+      "id": 29,
+      "type": "P90",
+      "skin": "Scorched",
+      "price": 56.07
+    },
+    {
+      "string": "P90, Shallow Grave, 57,94 kr.webp",
+      "id": 30,
+      "type": "P90",
+      "skin": "Shallow Grave",
+      "price": 57.94
+    },
+    {
+      "string": "P90, Shapewood, 106,09 kr.webp",
+      "id": 31,
+      "type": "P90",
+      "skin": "Shapewood",
+      "price": 106.09
+    },
+    {
+      "string": "P90, Storm, 126,10 kr.webp",
+      "id": 32,
+      "type": "P90",
+      "skin": "Storm",
+      "price": 126.1
+    },
+    {
+      "string": "P90, Sunset Lily, 213,33 kr.webp",
+      "id": 33,
+      "type": "P90",
+      "skin": "Sunset Lily",
+      "price": 213.33
+    },
+    {
+      "string": "P90, Teardown, 5,52 kr.webp",
+      "id": 34,
+      "type": "P90",
+      "skin": "Teardown",
+      "price": 5.52
+    },
+    {
+      "string": "P90, Tiger Pit, 120,16 kr.webp",
+      "id": 35,
+      "type": "P90",
+      "skin": "Tiger Pit",
+      "price": 120.16
+    },
+    {
+      "string": "P90, Traction, 9,28 kr.webp",
+      "id": 36,
+      "type": "P90",
+      "skin": "Traction",
+      "price": 9.28
+    },
+    {
+      "string": "P90, Trigon, 133,81 kr.webp",
+      "id": 37,
+      "type": "P90",
+      "skin": "Trigon",
+      "price": 133.81
+    },
+    {
+      "string": "P90, Vent Rush, 15,11 kr.webp",
+      "id": 38,
+      "type": "P90",
+      "skin": "Vent Rush",
+      "price": 15.11
+    },
+    {
+      "string": "P90, Verdant Growth, 30,22 kr.webp",
+      "id": 39,
+      "type": "P90",
+      "skin": "Verdant Growth",
+      "price": 30.22
+    },
+    {
+      "string": "P90, Virus, 42,73 kr.webp",
+      "id": 40,
+      "type": "P90",
+      "skin": "Virus",
+      "price": 42.73
+    }
+  ],
+  "PP-Bizon": [
+    {
+      "string": "PP-Bizon, Anolis, 3,97 kr.webp",
+      "id": 0,
+      "type": "PP-Bizon",
+      "skin": "Anolis",
+      "price": 3.97
+    },
+    {
+      "string": "PP-Bizon, Antique, 96,95 kr.webp",
+      "id": 1,
+      "type": "PP-Bizon",
+      "skin": "Antique",
+      "price": 96.95
+    },
+    {
+      "string": "PP-Bizon, Bamboo Print, 54,68 kr.webp",
+      "id": 2,
+      "type": "PP-Bizon",
+      "skin": "Bamboo Print",
+      "price": 54.68
+    },
+    {
+      "string": "PP-Bizon, Blue Streak, 66,37 kr.webp",
+      "id": 3,
+      "type": "PP-Bizon",
+      "skin": "Blue Streak",
+      "price": 66.37
+    },
+    {
+      "string": "PP-Bizon, Brass, 27,65 kr.webp",
+      "id": 4,
+      "type": "PP-Bizon",
+      "skin": "Brass",
+      "price": 27.65
+    },
+    {
+      "string": "PP-Bizon, Breaker Box, 32,04 kr.webp",
+      "id": 5,
+      "type": "PP-Bizon",
+      "skin": "Breaker Box",
+      "price": 32.04
+    },
+    {
+      "string": "PP-Bizon, Candy Apple, 1,15 kr.webp",
+      "id": 6,
+      "type": "PP-Bizon",
+      "skin": "Candy Apple",
+      "price": 1.15
+    },
+    {
+      "string": "PP-Bizon, Carbon Fiber, 116,15 kr.webp",
+      "id": 7,
+      "type": "PP-Bizon",
+      "skin": "Carbon Fiber",
+      "price": 116.15
+    },
+    {
+      "string": "PP-Bizon, Chemical Green, 47,59 kr.webp",
+      "id": 8,
+      "type": "PP-Bizon",
+      "skin": "Chemical Green",
+      "price": 47.59
+    },
+    {
+      "string": "PP-Bizon, Cobalt Halftone, 23,48 kr.webp",
+      "id": 9,
+      "type": "PP-Bizon",
+      "skin": "Cobalt Halftone",
+      "price": 23.48
+    },
+    {
+      "string": "PP-Bizon, Death Rattle, 3,86 kr.webp",
+      "id": 10,
+      "type": "PP-Bizon",
+      "skin": "Death Rattle",
+      "price": 3.86
+    },
+    {
+      "string": "PP-Bizon, Embargo, 56,04 kr.webp",
+      "id": 11,
+      "type": "PP-Bizon",
+      "skin": "Embargo",
+      "price": 56.04
+    },
+    {
+      "string": "PP-Bizon, Facility Sketch, 0,31 kr.webp",
+      "id": 12,
+      "type": "PP-Bizon",
+      "skin": "Facility Sketch",
+      "price": 0.31
+    },
+    {
+      "string": "PP-Bizon, Forest Leaves, 313,18 kr.webp",
+      "id": 13,
+      "type": "PP-Bizon",
+      "skin": "Forest Leaves",
+      "price": 313.18
+    },
+    {
+      "string": "PP-Bizon, Fuel Rod, 24,63 kr.webp",
+      "id": 14,
+      "type": "PP-Bizon",
+      "skin": "Fuel Rod",
+      "price": 24.63
+    },
+    {
+      "string": "PP-Bizon, Harvester, 7,20 kr.webp",
+      "id": 15,
+      "type": "PP-Bizon",
+      "skin": "Harvester",
+      "price": 7.2
+    },
+    {
+      "string": "PP-Bizon, High Roller, 107,28 kr.webp",
+      "id": 16,
+      "type": "PP-Bizon",
+      "skin": "High Roller",
+      "price": 107.28
+    },
+    {
+      "string": "PP-Bizon, Irraditaded Alert, 159,97 kr.webp",
+      "id": 17,
+      "type": "PP-Bizon",
+      "skin": "Irraditaded Alert",
+      "price": 159.97
+    },
+    {
+      "string": "PP-Bizon, Judgement Of Anubis, 97,99 kr.webp",
+      "id": 18,
+      "type": "PP-Bizon",
+      "skin": "Judgement Of Anubis",
+      "price": 97.99
+    },
+    {
+      "string": "PP-Bizon, Jungle Slipstream, 2,92 kr.webp",
+      "id": 19,
+      "type": "PP-Bizon",
+      "skin": "Jungle Slipstream",
+      "price": 2.92
+    },
+    {
+      "string": "PP-Bizon, Lumen, 14,30 kr.webp",
+      "id": 20,
+      "type": "PP-Bizon",
+      "skin": "Lumen",
+      "price": 14.3
+    },
+    {
+      "string": "PP-Bizon, Modern Hunter, 1321,49 kr.webp",
+      "id": 21,
+      "type": "PP-Bizon",
+      "skin": "Modern Hunter",
+      "price": 1321.49
+    },
+    {
+      "string": "PP-Bizon, Night Ops, 0,83 kr.webp",
+      "id": 22,
+      "type": "PP-Bizon",
+      "skin": "Night Ops",
+      "price": 0.83
+    },
+    {
+      "string": "PP-Bizon, Night Riot, 2,19 kr.webp",
+      "id": 23,
+      "type": "PP-Bizon",
+      "skin": "Night Riot",
+      "price": 2.19
+    },
+    {
+      "string": "PP-Bizon, Osiris, 13,88 kr.webp",
+      "id": 24,
+      "type": "PP-Bizon",
+      "skin": "Osiris",
+      "price": 13.88
+    },
+    {
+      "string": "PP-Bizon, Photic Zone, 16,49 kr.webp",
+      "id": 25,
+      "type": "PP-Bizon",
+      "skin": "Photic Zone",
+      "price": 16.49
+    },
+    {
+      "string": "PP-Bizon, Runic, 2,30 kr.webp",
+      "id": 26,
+      "type": "PP-Bizon",
+      "skin": "Runic",
+      "price": 2.3
+    },
+    {
+      "string": "PP-Bizon, Rust Coat, 369,11 kr.webp",
+      "id": 27,
+      "type": "PP-Bizon",
+      "skin": "Rust Coat",
+      "price": 369.11
+    },
+    {
+      "string": "PP-Bizon, Sand Dashed, 0,63 kr.webp",
+      "id": 28,
+      "type": "PP-Bizon",
+      "skin": "Sand Dashed",
+      "price": 0.63
+    },
+    {
+      "string": "PP-Bizon, Seabird, 39,86 kr.webp",
+      "id": 29,
+      "type": "PP-Bizon",
+      "skin": "Seabird",
+      "price": 39.86
+    },
+    {
+      "string": "PP-Bizon, Space Cat, 13,88 kr.webp",
+      "id": 30,
+      "type": "PP-Bizon",
+      "skin": "Space Cat",
+      "price": 13.88
+    },
+    {
+      "string": "PP-Bizon, Urban Dashed, 0,73 kr.webp",
+      "id": 31,
+      "type": "PP-Bizon",
+      "skin": "Urban Dashed",
+      "price": 0.73
+    },
+    {
+      "string": "PP-Bizon, Water Sigil, 21,08 kr.webp",
+      "id": 32,
+      "type": "PP-Bizon",
+      "skin": "Water Sigil",
+      "price": 21.08
+    }
   ]
 }
