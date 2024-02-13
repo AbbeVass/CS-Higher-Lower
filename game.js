@@ -73,6 +73,17 @@ function changeItems() {
     RightDisplay.querySelector(".item-img").src = `items/img/${RightItem.type}/${RightItem.id}.webp`;
     RightDisplay.querySelector(".item-type").innerHTML = RightItem.type;
     RightDisplay.querySelector(".item-skin").innerHTML = RightItem.skin;
+
+    // Wait 100 ms so the images are loaded
+    setTimeout(() => {
+        document.querySelectorAll(".item-img").forEach((img) => {
+            // If the image is too wide its size depends on the display's width instead of hight 
+            if (img.offsetLeft < 0 || (window.innerWidth - img.offsetLeft - img.offsetWidth) <= 0) {
+                img.style.height = "auto";
+                img.style.width = "100%";
+            }
+        });
+    }, 100);
 }
 
 function guess(higher) {
@@ -92,12 +103,13 @@ function guess(higher) {
     Price.style.marginBottom = BoxHeight - Price.offsetHeight + "px";
 
     // How many updates will the countup consist of
-    const Updates = 2 * 30; // seconds * fps
+    const FPS = 30;
+    const Updates = 1.5 * FPS; // seconds * fps
     let frame = 1;
 
     // Animate the price reveal
     function updatePrice() {
-        Price.innerHTML = getPrice(items["right"].price * ((frame) / Updates));
+        Price.innerHTML = getPrice(items["right"].price * (frame / Updates));
         if (frame === Updates) { // Stop the countup
             clearInterval(countUp);
             guessResult();
@@ -105,7 +117,7 @@ function guess(higher) {
             frame++;
         }
     }
-    let countUp = setInterval(updatePrice, 1000/30);
+    let countUp = setInterval(updatePrice, 1000/FPS);
 
     function guessResult() {
         // Check if the guess is correct
@@ -145,5 +157,5 @@ function getPrice(sek) {
 }
 
 function finishGame() {
-
+    document.body.style.backgroundColor = "#b00000";
 }

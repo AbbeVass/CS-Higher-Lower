@@ -5,6 +5,7 @@ body {
     height: 100%;
     display: flex;
     align-items: center;
+    transition: 3s;
 }
 
 #score,
@@ -40,9 +41,9 @@ main {
 }
 .item-img {
     height: 100%;
+    width: auto;
 }
-
-
+ 
 .item-type {
     margin-top: 50px;
     font-size: 40px;
