@@ -1,7 +1,12 @@
 
-View-page where you can study all items and their information
+> View-page where you can study all items and their information
+> Gamemode with timer
+> Credits
+> Information (prices etc) and full explaination about the game
+> Resault-"messages" (e.g motivational words)
 
 # Settings
 Currency (Value at the time: USD = SEK/10.476, Euro = SEK/11,301)
-Which specific weapons to play with - Have a list to choose from
+Which specific weapons to play with - categories with lists
 Dark/Lightmode
+Reset Highscore

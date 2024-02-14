@@ -3859,5 +3859,238 @@
       "skin": "Water Sigil",
       "price": 21.08
     }
+  ],
+  "MAG-7": [
+    {
+      "string": "MAG-7, BI83, 11,49 kr.webp",
+      "id": 0,
+      "type": "MAG-7",
+      "skin": "BI83",
+      "price": 11.49
+    },
+    {
+      "string": "MAG-7, Bulldozer, 1499,56 kr.webp",
+      "id": 1,
+      "type": "MAG-7",
+      "skin": "Bulldozer",
+      "price": 1499.56
+    },
+    {
+      "string": "MAG-7, Carbon Fiber, 12,07 kr.webp",
+      "id": 2,
+      "type": "MAG-7",
+      "skin": "Carbon Fiber",
+      "price": 12.07
+    },
+    {
+      "string": "MAG-7, Chainmail, 294,02 kr.webp",
+      "id": 3,
+      "type": "MAG-7",
+      "skin": "Chainmail",
+      "price": 294.02
+    },
+    {
+      "string": "MAG-7, Cinquedea, 7410,82 kr.webp",
+      "id": 4,
+      "type": "MAG-7",
+      "skin": "Cinquedea",
+      "price": 7410.82
+    },
+    {
+      "string": "MAG-7, Cobalt Core, 16,45 kr.webp",
+      "id": 5,
+      "type": "MAG-7",
+      "skin": "Cobalt Core",
+      "price": 16.45
+    },
+    {
+      "string": "MAG-7, Copper Coated, 24,88 kr.webp",
+      "id": 6,
+      "type": "MAG-7",
+      "skin": "Copper Coated",
+      "price": 24.88
+    },
+    {
+      "string": "MAG-7, Core Breach, 47,66 kr.webp",
+      "id": 7,
+      "type": "MAG-7",
+      "skin": "Core Breach",
+      "price": 47.66
+    },
+    {
+      "string": "MAG-7, Counter Terrace, 1159,84 kr.webp",
+      "id": 8,
+      "type": "MAG-7",
+      "skin": "Counter Terrace",
+      "price": 1159.84
+    },
+    {
+      "string": "MAG-7, Firestarter, 45,13 kr.webp",
+      "id": 9,
+      "type": "MAG-7",
+      "skin": "Firestarter",
+      "price": 45.13
+    },
+    {
+      "string": "MAG-7, Foresight, 2,11 kr.webp",
+      "id": 10,
+      "type": "MAG-7",
+      "skin": "Foresight",
+      "price": 2.11
+    },
+    {
+      "string": "MAG-7, Hard Water, 42,91 kr.webp",
+      "id": 11,
+      "type": "MAG-7",
+      "skin": "Hard Water",
+      "price": 42.91
+    },
+    {
+      "string": "MAG-7, Hazard, 1848,90 kr.webp",
+      "id": 12,
+      "type": "MAG-7",
+      "skin": "Hazard",
+      "price": 1848.9
+    },
+    {
+      "string": "MAG-7, Heat, 26,15 kr.webp",
+      "id": 13,
+      "type": "MAG-7",
+      "skin": "Heat",
+      "price": 26.15
+    },
+    {
+      "string": "MAG-7, Heaven Guard, 4,53 kr.webp",
+      "id": 14,
+      "type": "MAG-7",
+      "skin": "Heaven Guard",
+      "price": 4.53
+    },
+    {
+      "string": "MAG-7, Insomnia, 2,74 kr.webp",
+      "id": 15,
+      "type": "MAG-7",
+      "skin": "Insomnia",
+      "price": 2.74
+    },
+    {
+      "string": "MAG-7, Irradiated Alert, 148,23 kr.webp",
+      "id": 16,
+      "type": "MAG-7",
+      "skin": "Irradiated Alert",
+      "price": 148.23
+    },
+    {
+      "string": "MAG-7, Justice, 106,60 kr.webp",
+      "id": 17,
+      "type": "MAG-7",
+      "skin": "Justice",
+      "price": 106.6
+    },
+    {
+      "string": "MAG-7, Memento, 69,91 kr.webp",
+      "id": 18,
+      "type": "MAG-7",
+      "skin": "Memento",
+      "price": 69.91
+    },
+    {
+      "string": "MAG-7, Metallic DDPAT, 1,91 kr.webp",
+      "id": 19,
+      "type": "MAG-7",
+      "skin": "Metallic DDPAT",
+      "price": 1.91
+    },
+    {
+      "string": "MAG-7, Monster Call, 17,61 kr.webp",
+      "id": 20,
+      "type": "MAG-7",
+      "skin": "Monster Call",
+      "price": 17.61
+    },
+    {
+      "string": "MAG-7, Navy Sheen, 4,34 kr.webp",
+      "id": 21,
+      "type": "MAG-7",
+      "skin": "Navy Sheen",
+      "price": 4.34
+    },
+    {
+      "string": "MAG-7, Petroglyph, 16,76 kr.webp",
+      "id": 22,
+      "type": "MAG-7",
+      "skin": "Petroglyph",
+      "price": 16.76
+    },
+    {
+      "string": "MAG-7, Popdog, 3,06 kr.webp",
+      "id": 23,
+      "type": "MAG-7",
+      "skin": "Popdog",
+      "price": 3.06
+    },
+    {
+      "string": "MAG-7, Praetorian, 26,68 kr.webp",
+      "id": 24,
+      "type": "MAG-7",
+      "skin": "Praetorian",
+      "price": 26.68
+    },
+    {
+      "string": "MAG-7, Prism Terrace, 495,78 kr.webp",
+      "id": 25,
+      "type": "MAG-7",
+      "skin": "Prism Terrace",
+      "price": 495.78
+    },
+    {
+      "string": "MAG-7, Rust Coat, 0,42 kr.webp",
+      "id": 26,
+      "type": "MAG-7",
+      "skin": "Rust Coat",
+      "price": 0.42
+    },
+    {
+      "string": "MAG-7, Sand Dune, 97,09 kr.webp",
+      "id": 27,
+      "type": "MAG-7",
+      "skin": "Sand Dune",
+      "price": 97.09
+    },
+    {
+      "string": "MAG-7, Seabird, 42,35 kr.webp",
+      "id": 28,
+      "type": "MAG-7",
+      "skin": "Seabird",
+      "price": 42.35
+    },
+    {
+      "string": "MAG-7, Silver, 267,86 kr.webp",
+      "id": 29,
+      "type": "MAG-7",
+      "skin": "Silver",
+      "price": 267.86
+    },
+    {
+      "string": "MAG-7, Sonar, 2,21 kr.webp",
+      "id": 30,
+      "type": "MAG-7",
+      "skin": "Sonar",
+      "price": 2.21
+    },
+    {
+      "string": "MAG-7, Storm, 89,68 kr.webp",
+      "id": 31,
+      "type": "MAG-7",
+      "skin": "Storm",
+      "price": 89.68
+    },
+    {
+      "string": "MAG-7, SWAG-7, 11,49 kr.webp",
+      "id": 32,
+      "type": "MAG-7",
+      "skin": "SWAG-7",
+      "price": 11.49
+    }
   ]
 }

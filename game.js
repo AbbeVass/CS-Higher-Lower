@@ -77,6 +77,9 @@ function changeItems() {
     // Wait 100 ms so the images are loaded
     setTimeout(() => {
         document.querySelectorAll(".item-img").forEach((img) => {
+            img.style.width = "auto";
+            img.style.height = "100%";
+
             // If the image is too wide its size depends on the display's width instead of hight 
             if (img.offsetLeft < 0 || (window.innerWidth - img.offsetLeft - img.offsetWidth) <= 0) {
                 img.style.height = "auto";
@@ -109,7 +112,7 @@ function guess(higher) {
 
     // Animate the price reveal
     function updatePrice() {
-        Price.innerHTML = getPrice(items["right"].price * (frame / Updates));
+        Price.innerHTML = getPrice(items.right.price * (frame / Updates));
         if (frame === Updates) { // Stop the countup
             clearInterval(countUp);
             guessResult();
@@ -121,8 +124,8 @@ function guess(higher) {
 
     function guessResult() {
         // Check if the guess is correct
-        const LP = items["left"].price;
-        const RP = items["right"].price;
+        const LP = items.left.price;
+        const RP = items.right.price;
         if ((RP >= LP && higher) || (RP <= LP && !higher)) { // The guess is correct
             
             // Update score
@@ -157,5 +160,13 @@ function getPrice(sek) {
 }
 
 function finishGame() {
-    document.body.style.backgroundColor = "#b00000";
+    const FadingTime = 2000;
+
+    const BodyStyle = document.body.style;
+    BodyStyle.transition = FadingTime/1000 + "s";
+    BodyStyle.backgroundColor = "var(--red)";
+
+    setTimeout(() => {
+        window.open("results.html", "_self");
+    }, FadingTime);
 }
