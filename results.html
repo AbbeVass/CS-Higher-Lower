@@ -13,11 +13,17 @@
 <body>
     <main>
         <p id="score">Score: </p>
-        <p class="high-score">High Score: </p>
+        <p id="highScore">High Score: </p>
         <a href="play.html">Play Again</a>
         <a href="index.html">Home Page</a>
         <!--Gallery-->
         <a onclick="">Settings</a>
     </main>
+    <script src="results.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            document.body.style.backgroundColor = "var(--background)";
+        });
+    </script>
 </body>
 </html>

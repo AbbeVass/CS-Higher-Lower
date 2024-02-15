@@ -160,12 +160,15 @@ function getPrice(sek) {
 }
 
 function finishGame() {
+    localStorage.setItem("score", score);
+
     const FadingTime = 2000;
 
     const BodyStyle = document.body.style;
     BodyStyle.transition = FadingTime/1000 + "s";
     BodyStyle.backgroundColor = "var(--red)";
 
+    // Wait and then open the result page
     setTimeout(() => {
         window.open("results.html", "_self");
     }, FadingTime);
