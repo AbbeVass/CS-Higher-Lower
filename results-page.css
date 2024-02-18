@@ -1,4 +1,14 @@
 body {
     background-color: var(--red);
     transition: 10s;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media (max-width: 700px) {
+    body {
+        background-position: -150px;
+    }
 }
