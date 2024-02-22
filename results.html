@@ -12,18 +12,18 @@
       </head>
 <body>
     <main>
-        <p id="score">Score: </p>
-        <p id="highScore">High Score: </p>
-        <a href="play.html">Play Again</a>
-        <a href="index.html">Home Page</a>
-        <!--Gallery-->
-        <a onclick="">Settings</a>
+        <div class="scores">
+            <p id="score">Score: </p>
+            <p id="highScore">High Score: </p>
+        </div>
+        <div class="links">
+            <a href="play.html">Play Again</a>
+            <a href="index.html">Home Page</a>
+            <!--Gallery-->
+            <a onclick="">Settings</a>
+        </div>
     </main>
     <script src="results.js"></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", () => {
-            document.body.style.backgroundImage = "url('bomb.gif')";
-        });
-    </script>
+    <script src="resaults-bg.js"></script>
 </body>
 </html>

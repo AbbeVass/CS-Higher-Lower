@@ -8,7 +8,15 @@ if (!Score) {
 
 // Get the high score
 let highScore = localStorage.getItem("highScore");
-if (!highScore) { highScore = 0; }
+if (isNaN(highScore)) { highScore = 0; }
 
-document.getElementById("score").innerHTML = "Score: "+Score;
-document.getElementById("highScore").innerHTML = "High Score: "+highScore;
+if (Number(Score) > Number(highScore)) {
+    highScore = Score;
+    localStorage.setItem("highScore", highScore);
+    
+    document.getElementById("score").remove();
+    document.getElementById("highScore").innerHTML = "New High Score: "+highScore;
+} else {
+    document.getElementById("score").innerHTML = "Score: "+Score;
+    document.getElementById("highScore").innerHTML = "High Score: "+highScore;
+}
