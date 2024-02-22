@@ -1,4 +1,5 @@
 const IconElement = document.getElementById("icon");
+const IconsPath = "./img/icons/";
 const Icons = ["mix.png", "gold.png", "teal.png", "white.png"];
 
 let icon;
@@ -19,4 +20,4 @@ else {
     icon = localStorage.getItem("icon");
 }
 
-IconElement.href = "icons/" + icon;
+IconElement.href = IconsPath + icon;
