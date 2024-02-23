@@ -1,10 +1,5 @@
-let settings;
-fetch(`settings.json`)
-    .then(response => response.json())
-    .then(data => {
-        settings = data;
-    })
-    .catch(error => console.error('Error fetching settings:', error));
+let settings = localStorage.getItem("settings");
+if (!settings) { settings = {}; }
 
 let allItems;
 fetch(`items/data/items-data.json`)

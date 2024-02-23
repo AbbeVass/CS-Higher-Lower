@@ -1,3 +1,4 @@
+
 const GifsPath = "./img/background-gifs/";
 const Gifs = [
     {

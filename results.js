@@ -8,7 +8,7 @@ if (!Score) {
 
 // Get the high score
 let highScore = localStorage.getItem("highScore");
-if (isNaN(highScore)) { highScore = 0; }
+if (isNaN(highScore) || highScore === null) { highScore = 0; }
 
 if (Number(Score) > Number(highScore)) {
     highScore = Score;

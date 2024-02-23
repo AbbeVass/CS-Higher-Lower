@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: var(--background);
+    font-family: Counter-Strike;
+}
+
+.exit {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    color: var(--text);
+    font-size: 30px;
+    text-decoration: none;
+}
+.exit-arrow {
+    position: relative;
+    top: 3px;
+    font-size: 40px;
+}
+
+.exit:hover  {
+    color: var(--glow);
+    .exit-arrow {
+        right: 20px;
+    }
+}
