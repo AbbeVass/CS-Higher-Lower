@@ -4092,5 +4092,259 @@
       "skin": "SWAG-7",
       "price": 11.49
     }
+  ],
+  "Nova": [
+    {
+      "string": "Nova, Antique, 105,19 kr.webp",
+      "id": 0,
+      "type": "Nova",
+      "skin": "Antique",
+      "price": 105.19
+    },
+    {
+      "string": "Nova, Army Sheen, 6,59 kr.webp",
+      "id": 1,
+      "type": "Nova",
+      "skin": "Army Sheen",
+      "price": 6.59
+    },
+    {
+      "string": "Nova, Baroque Orange, 956,42 kr.webp",
+      "id": 2,
+      "type": "Nova",
+      "skin": "Baroque Orange",
+      "price": 956.42
+    },
+    {
+      "string": "Nova, Blaze Orange, 1803,53 kr.webp",
+      "id": 3,
+      "type": "Nova",
+      "skin": "Blaze Orange",
+      "price": 1803.53
+    },
+    {
+      "string": "Nova, Bloomstick, 556,85 kr.webp",
+      "id": 4,
+      "type": "Nova",
+      "skin": "Bloomstick",
+      "price": 556.85
+    },
+    {
+      "string": "Nova, Caged Steel, 1,44 kr.webp",
+      "id": 5,
+      "type": "Nova",
+      "skin": "Caged Steel",
+      "price": 1.44
+    },
+    {
+      "string": "Nova, Candy Apple, 0,82 kr.webp",
+      "id": 6,
+      "type": "Nova",
+      "skin": "Candy Apple",
+      "price": 0.82
+    },
+    {
+      "string": "Nova, Clear Polymer, 55,79 kr.webp",
+      "id": 7,
+      "type": "Nova",
+      "skin": "Clear Polymer",
+      "price": 55.79
+    },
+    {
+      "string": "Nova, Exo, 2,26 kr.webp",
+      "id": 8,
+      "type": "Nova",
+      "skin": "Exo",
+      "price": 2.26
+    },
+    {
+      "string": "Nova, Forest Leaves, 217,08 kr.webp",
+      "id": 9,
+      "type": "Nova",
+      "skin": "Forest Leaves",
+      "price": 217.08
+    },
+    {
+      "string": "Nova, Ghost Camo, 22,03 kr.webp",
+      "id": 10,
+      "type": "Nova",
+      "skin": "Ghost Camo",
+      "price": 22.03
+    },
+    {
+      "string": "Nova, Gila, 13,79 kr.webp",
+      "id": 11,
+      "type": "Nova",
+      "skin": "Gila",
+      "price": 13.79
+    },
+    {
+      "string": "Nova, Graphite, 79,77 kr.webp",
+      "id": 12,
+      "type": "Nova",
+      "skin": "Graphite",
+      "price": 79.77
+    },
+    {
+      "string": "Nova, Green Apple, 177,66 kr.webp",
+      "id": 13,
+      "type": "Nova",
+      "skin": "Green Apple",
+      "price": 177.66
+    },
+    {
+      "string": "Nova, Hyper Beast, 376,93 kr.webp",
+      "id": 14,
+      "type": "Nova",
+      "skin": "Hyper Beast",
+      "price": 376.93
+    },
+    {
+      "string": "Nova, Interlock, 152,44 kr.webp",
+      "id": 15,
+      "type": "Nova",
+      "skin": "Interlock",
+      "price": 152.44
+    },
+    {
+      "string": "Nova, Koi, 15,65 kr.webp",
+      "id": 16,
+      "type": "Nova",
+      "skin": "Koi",
+      "price": 15.65
+    },
+    {
+      "string": "Nova, Mandrel, 0,31 kr.webp",
+      "id": 17,
+      "type": "Nova",
+      "skin": "Mandrel",
+      "price": 0.31
+    },
+    {
+      "string": "Nova, Modern Hunter, 2573,13 kr.webp",
+      "id": 18,
+      "type": "Nova",
+      "skin": "Modern Hunter",
+      "price": 2573.13
+    },
+    {
+      "string": "Nova, Moon In Libra, 57,13 kr.webp",
+      "id": 19,
+      "type": "Nova",
+      "skin": "Moon In Libra",
+      "price": 57.13
+    },
+    {
+      "string": "Nova, Plume, 14,92 kr.webp",
+      "id": 20,
+      "type": "Nova",
+      "skin": "Plume",
+      "price": 14.92
+    },
+    {
+      "string": "Nova, Polar Mesh, 0,82 kr.webp",
+      "id": 21,
+      "type": "Nova",
+      "skin": "Polar Mesh",
+      "price": 0.82
+    },
+    {
+      "string": "Nova, Predator, 0,51 kr.webp",
+      "id": 22,
+      "type": "Nova",
+      "skin": "Predator",
+      "price": 0.51
+    },
+    {
+      "string": "Nova, Quick Sand, 236,74 kr.webp",
+      "id": 23,
+      "type": "Nova",
+      "skin": "Quick Sand",
+      "price": 236.74
+    },
+    {
+      "string": "Nova, Ranger, 6,07 kr.webp",
+      "id": 24,
+      "type": "Nova",
+      "skin": "Ranger",
+      "price": 6.07
+    },
+    {
+      "string": "Nova, Red Quartz, 72,98 kr.webp",
+      "id": 25,
+      "type": "Nova",
+      "skin": "Red Quartz",
+      "price": 72.98
+    },
+    {
+      "string": "Nova, Rising Skull, 75,45 kr.webp",
+      "id": 26,
+      "type": "Nova",
+      "skin": "Rising Skull",
+      "price": 75.45
+    },
+    {
+      "string": "Nova, Rust Coat, 30,88 kr.webp",
+      "id": 27,
+      "type": "Nova",
+      "skin": "Rust Coat",
+      "price": 30.88
+    },
+    {
+      "string": "Nova, Sand Dune, 0,62 kr.webp",
+      "id": 28,
+      "type": "Nova",
+      "skin": "Sand Dune",
+      "price": 0.62
+    },
+    {
+      "string": "Nova, Sobek's Bite, 154,81 kr.webp",
+      "id": 29,
+      "type": "Nova",
+      "skin": "Sobek's Bite",
+      "price": 154.81
+    },
+    {
+      "string": "Nova, Temptest, 139,26 kr.webp",
+      "id": 30,
+      "type": "Nova",
+      "skin": "Temptest",
+      "price": 139.26
+    },
+    {
+      "string": "Nova, Toy Soldier, 32,11 kr.webp",
+      "id": 31,
+      "type": "Nova",
+      "skin": "Toy Soldier",
+      "price": 32.11
+    },
+    {
+      "string": "Nova, Walnut, 236,74 kr.webp",
+      "id": 32,
+      "type": "Nova",
+      "skin": "Walnut",
+      "price": 236.74
+    },
+    {
+      "string": "Nova, Wild Six, 20,59 kr.webp",
+      "id": 33,
+      "type": "Nova",
+      "skin": "Wild Six",
+      "price": 20.59
+    },
+    {
+      "string": "Nova, Windblown, 3,60 kr.webp",
+      "id": 34,
+      "type": "Nova",
+      "skin": "Windblown",
+      "price": 3.6
+    },
+    {
+      "string": "Nova, Wood Fired, 1,34 kr.webp",
+      "id": 35,
+      "type": "Nova",
+      "skin": "Wood Fired",
+      "price": 1.34
+    }
   ]
 }
