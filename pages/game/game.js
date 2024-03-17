@@ -1,8 +1,10 @@
+const ImgPath = "./../../items/img/";
+
 let settings = localStorage.getItem("settings");
 if (!settings) { settings = {}; }
 
 let allItems;
-fetch(`items/data/items-data.json`)
+fetch(`./../../items/data/items-data.json`)
     .then(response => response.json())
     .then(data => {
         allItems = data;
@@ -59,13 +61,13 @@ function changeItems() {
     const RightItem = items.right;
 
     // Left item
-    LeftDisplay.querySelector(".item-img").src = `items/img/${LeftItem.type}/${LeftItem.id}.webp`;
+    LeftDisplay.querySelector(".item-img").src = ImgPath+`${LeftItem.type}/${LeftItem.id}.webp`;
     LeftDisplay.querySelector(".item-type").innerHTML = LeftItem.type;
     LeftDisplay.querySelector(".item-skin").innerHTML = LeftItem.skin;
     LeftDisplay.querySelector(".item-price").innerHTML = getPrice(LeftItem.price);
 
     // Right item
-    RightDisplay.querySelector(".item-img").src = `items/img/${RightItem.type}/${RightItem.id}.webp`;
+    RightDisplay.querySelector(".item-img").src = ImgPath+`${RightItem.type}/${RightItem.id}.webp`;
     RightDisplay.querySelector(".item-type").innerHTML = RightItem.type;
     RightDisplay.querySelector(".item-skin").innerHTML = RightItem.skin;
 
@@ -165,6 +167,6 @@ function finishGame() {
 
     // Wait and then open the result page
     setTimeout(() => {
-        window.open("results.html", "_self");
+        window.open("./../results/results.html", "_self");
     }, FadingTime);
 }

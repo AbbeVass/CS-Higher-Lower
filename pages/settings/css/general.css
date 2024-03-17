@@ -1,11 +1,18 @@
+html,
+body {
+    height: 100%;
+}
 body {
     margin: 0;
     background-color: var(--background);
     font-family: Counter-Strike;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .exit {
-    position: absolute;
+    position: fixed;
     top: 20px;
     left: 50px;
     color: var(--text);

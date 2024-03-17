@@ -1,5 +1,5 @@
 const IconElement = document.getElementById("icon");
-const IconsPath = "./img/icons/";
+const IconsPath = "./../../resources/img/icons/";
 const Icons = ["mix.png", "gold.png", "teal.png", "white.png"];
 
 let icon;

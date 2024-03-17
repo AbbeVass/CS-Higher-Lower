@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Settings</title>
+  <link rel="icon" id="icon">
+
+  <link rel="stylesheet" href="./../../resources/font-colors.css">
+  <link rel="stylesheet" href="./css/general.css">
+  <link rel="stylesheet" href="./css/section1.css">
+  <link rel="stylesheet" href="./css/section2.css">
+  <link rel="stylesheet" href="./css/section3.css">
+  <link rel="stylesheet" href="./css/section4.css">
+  <script src="./../../resources/icon.js"></script>
+</head>
+<body>
+  <a href="./../results/results.html" class="exit"><span class="exit-arrow">&#8592; </span>Back</a>
+  <main>
+    <div class="section">
+      <label for="currency">Currency</label>
+      <select id="currency">
+        <option value="USD">USD</option>
+        <option value="EUR">EUR</option>
+        <option value="SEK">SEK</option>
+      </select>
+    </div>
+    <div class="section">
+      <label for="appearance">Lightmode</label>
+      <label class="switch" name="appearance">
+        <input type="checkbox">
+        <span class="slider"></span>
+      </label>
+    </div>
+    <div class="section">
+      <div id="menuBtn">
+        <div class="text">
+          <h1>Weapons</h1>
+          <h2>All weapons</h2>
+        </div>
+      </div>
+      <div class="icon">
+        <p>&#10549;</p> <!--Arrow-->
+      </div>
+      <div id="weaponsMenu">
+        
+      </div>
+    </div>
+    <div class="section">
+      <button id="resetBtn" onclick="resetHighScore()">Reset High Score</button>
+    </div>
+  </main>
+  <script src="settings.js"></script>
+</body>
+</html>
