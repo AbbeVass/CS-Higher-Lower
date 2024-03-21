@@ -20,11 +20,13 @@
     <h1 class="headline">Settings</h1>
     <div class="section">
       <label for="currency">Currency</label>
-      <select id="currency">
-        <option value="USD">USD</option>
-        <option value="EUR">EUR</option>
-        <option value="SEK">SEK</option>
-      </select>
+      <div class="custom-select">
+        <select id="currency">
+          <option value="USD">USD</option>
+          <option value="EUR">EUR</option>
+          <option value="SEK">SEK</option>
+        </select>
+      </div>
     </div>
     <div class="section">
       <label for="appearance">Lightmode</label>
@@ -51,6 +53,7 @@
       <button id="resetBtn" onclick="resetHighScore()">Reset High Score</button>
     </div>
   </main>
+  <script src="currency-menu.js"></script>
   <script src="settings.js"></script>
 </body>
 </html>

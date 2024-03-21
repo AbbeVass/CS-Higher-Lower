@@ -1,5 +1,7 @@
 :root {
     --secondary-bg: #313033;
+    --secondary-text: #aeaaae;
+    --dark-glow: #ff990050;;
 }
 .switch {
     font-size: 17px;
@@ -33,11 +35,11 @@
     border-radius: 6px;
     left: 0.2em;
     bottom: 0.2em;
-    background-color: #aeaaae;
+    background-color: var(--secondary-text);
     transition: .4s;
 }
 input:checked + .slider::before { background-color: var(--glow); }
-input:checked + .slider { background-color: #ff990050; }
-input:focus + .slider { box-shadow: 0 0 1px #ff990050; }
+input:checked + .slider { background-color: var(--dark-glow); }
+input:focus + .slider { box-shadow: 0 0 1px var(--dark-glow); }
 input:checked + .slider:before { transform: translateX(1.9em); }
 
