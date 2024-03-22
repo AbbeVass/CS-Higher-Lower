@@ -2,7 +2,7 @@
 .custom-select {
   position: relative;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .custom-select select {
@@ -11,6 +11,8 @@
 
 .select-selected {
   background-color: var(--secondary-bg);
+  width: 55px;
+  border-radius: 10px;
 }
 
 /*style the arrow inside the select element:*/
@@ -49,6 +51,7 @@
   left: 0;
   right: 0;
   z-index: 99;
+  border-radius: 10px;
 }
 
 /*hide the items when the select box is closed:*/
@@ -58,4 +61,5 @@
 
 .select-items div:hover, .same-as-selected {
   background-color: var(--dark-glow);
+  border-radius: 10px;
 }
