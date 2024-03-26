@@ -1,0 +1,71 @@
+{
+  "Knives": [
+    "Stock Knife (CT)",
+    "Stock Knife (T)",
+    "Bayonet",
+    "Butterfly Knife",
+    "Falchion Knife",
+    "Flip Knife",
+    "Gut Knife",
+    "Huntsman Knife",
+    "Karambit",
+    "M9 Bayonet",
+    "Shadow Daggers",
+    "Bowie Knife",
+    "Ursus Knife",
+    "Navaja Knife",
+    "Stiletto Knife",
+    "Talon Knife",
+    "Classic Knife",
+    "Skeleton Knife",
+    "Paracord Knife",
+    "Survival Knife",
+    "Nomad Knife"
+  ],
+  "Pistols": [
+    "P2000",
+    "USP-S",
+    "Glock-18",
+    "P250",
+    "Five-SeveN",
+    "Tec-9",
+    "CZ75-Auto",
+    "Dual Berettas",
+    "Desert Eagle",
+    "R8 Revolver"
+  ],
+  "Shotguns": [
+    "Nova",
+    "XM1014",
+    "MAG-7",
+    "Sawed-Off"
+  ],
+  "SMG": [
+    "MP9",
+    "MAC-10",
+    "PP-Bizon",
+    "MP7",
+    "UMP-45",
+    "P90",
+    "MP5-SD"
+  ],
+  "Rifles": [
+    "FAMAS",
+    "Galil AR",
+    "M4A4 (CT)",
+    "M4A1-S",
+    "AK-47",
+    "AUG",
+    "SG 553"
+  ],
+  "Sniper Rifles": [
+    "SSG 08",
+    "AWP",
+    "SCAR-20",
+    "G3SG1"
+  ],
+  "Machine Guns": [
+    "M249",
+    "Negev"
+  ]
+}
