@@ -17,7 +17,7 @@ let items = {left: {}, right: {}};
 let possibleItems = []; // Only the keys
 
 function setup() {
-    if (settings.items) {
+    if (settings.items) { // Add choosen items 
         for (let item of settings.items) {
             possibleItems.push(item);
         }

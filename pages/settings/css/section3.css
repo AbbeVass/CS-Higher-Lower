@@ -1,18 +1,19 @@
 .menu-section {
     padding: 0 !important;
+    height: auto;
     width: calc(100% + 20px);
-    cursor: pointer;
-}
-.menu-section:hover {
-    background-color: var(--secondary-bg);
+    display: flex;
+    flex-direction: column;
 }
 
 #menuBtn {
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: calc(100% - 20px);
     padding: 3px 10px 0;
     border-radius: 10px;
+    cursor: pointer;
+    transition: .2s;
 }
 #menuBtn:hover {
     background-color: var(--secondary-bg);
@@ -38,5 +39,5 @@
 }
 
 #weaponsMenu {
-    display: none;
+    
 }

@@ -1,6 +1,6 @@
 const fs = require("fs");
-const Path = "../../img/"
-const Save = "../items-data.json";
+const Path = "./../../img/"
+const Save = "./../items-data.json";
 
 let data;
 try { data = JSON.parse(fs.readFileSync(Save)); }
