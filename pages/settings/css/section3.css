@@ -39,5 +39,71 @@
 }
 
 #weaponsMenu {
-    
+    width: 90%;
+}
+
+.category {
+    border-top: 3px solid var(--background);
+    padding: 12px 0;
+}
+
+.category-head,
+.item {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.category-name {
+    font-size: 50px;
+}
+
+.item-name {
+    font-size: 30px;
+}
+
+
+
+
+/* Define custom checkbox styles */
+.custom-checkbox input[type="checkbox"] {
+    display: none; /* Hide the default checkbox */
+}
+
+.custom-checkbox label {
+    display: inline-block;
+    position: relative;
+    padding-left: 25px; /* Adjust as needed */
+    cursor: pointer;
+}
+
+.custom-checkbox label::before {
+    content: '';
+    display: inline-block;
+    width: 18px; /* Adjust as needed */
+    height: 18px; /* Adjust as needed */
+    border: 1px solid #999; /* Border color */
+    background-color: #fff; /* Unchecked background color */
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.custom-checkbox input[type="checkbox"]:checked + label::before {
+    background-color: #007bff; /* Checked background color */
+}
+
+/* Optional: You can style the checkmark if needed */
+.custom-checkbox label::after {
+    content: '\2713'; /* Unicode checkmark character */
+    font-size: 14px; /* Adjust as needed */
+    color: #fff; /* Checkmark color */
+    position: absolute;
+    left: 4px; /* Adjust as needed */
+    top: 1px; /* Adjust as needed */
+    visibility: hidden;
+}
+
+.custom-checkbox input[type="checkbox"]:checked + label::after {
+    visibility: visible;
 }

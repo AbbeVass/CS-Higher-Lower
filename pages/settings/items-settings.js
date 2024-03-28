@@ -1,4 +1,5 @@
 const MenuDiv = document.getElementById("weaponsMenu");
+let optionNum = 0;
 
 let categories;
 let items;
@@ -44,10 +45,11 @@ function setup() {
                     head.appendChild(createCheckBox(category));
                     
                     // Add the category to the menu
-                    div.appendChild(head)
+                    div.appendChild(head);
                     MenuDiv.appendChild(div);
-                    catDivs.push(category)
+                    catDivs.push(category);
                 }
+
                 // Create new div for the item
                 let div = document.createElement("div");
                 div.className = "item";
@@ -65,15 +67,27 @@ function setup() {
                 MenuDiv.children[catDivs.findIndex((value) => {
                     return value === category;
                 })].appendChild(div);
+
+                optionNum++;
             }
         }
     }
 }
 
 function createCheckBox(value) {
+    let container = document.createElement("div");
+    container.className = "custom-checkbox";
+
     let box = document.createElement("input");
     box.type = "checkbox";
-    box.value = value,
-    box.className = "checkbox";
-    return box;
+    box.value = value;
+    box.id = `checkbox${optionNum}`;
+
+    let label = document.createElement("label");
+    label.htmlFor = `checkbox${optionNum}`;
+
+    container
+    .appendChild(box)
+    .appendChild(label);
+    return container;
 }

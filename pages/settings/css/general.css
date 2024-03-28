@@ -1,7 +1,10 @@
-html,
-body {
-    height: 100%;
+:root {
+    --secondary-bg: #313033;
+    --secondary-text: #aeaaae;
+    --dark-glow: #ff990050;
+    --dark-bg: #1c1c1c;
 }
+
 body {
     margin: 0;
     background-color: var(--background);
@@ -49,7 +52,7 @@ main * {
 }
 
 .headline {
-    margin-bottom: 20px;
+    margin: 50px 0 20px;
     font-size: 50px;
     color: var(--text);
 }
@@ -61,7 +64,7 @@ main * {
     justify-content: space-between;
     align-items: center;
     padding: 0 10px;
-    background-color: #464646;
+    background-color: #5a5a5a;
     border: 3px solid #7d4b01;
     border-radius: 12px;
     font-size: 40px;
