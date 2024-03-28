@@ -19,8 +19,7 @@
     background-color: var(--secondary-bg);
 }
 #menuBtn:active {
-    background-color: var(--dark-glow);
-    opacity: 0.5;
+    background-color: var(--dark-bg);
 }
 
 .text > h1 {
@@ -40,70 +39,95 @@
 
 #weaponsMenu {
     width: 90%;
+    display: none;
 }
 
 .category {
-    border-top: 3px solid var(--background);
-    padding: 12px 0;
+    margin: 20px 0;
 }
-
+.category-head {
+    border-bottom: 5px solid var(--background);
+    align-items: end;
+}
+.item {
+    border-bottom: 2px solid var(--background);
+}
 .category-head,
 .item {
     display: flex;
     justify-content: space-between;
-    margin-top: 10px;
+    padding: 10px 0;
 }
 
 .category-name {
     font-size: 50px;
 }
-
 .item-name {
     font-size: 30px;
 }
-
-
-
-
-/* Define custom checkbox styles */
-.custom-checkbox input[type="checkbox"] {
-    display: none; /* Hide the default checkbox */
+.category-name,
+.item-name {
+    align-self: end;
 }
 
-.custom-checkbox label {
-    display: inline-block;
+
+/* Checkboxes */
+.container {
+    display: block; 
     position: relative;
-    padding-left: 25px; /* Adjust as needed */
+    padding-left: 25px;
+    height: 25px;
     cursor: pointer;
+    font-size: 22px;
+    user-select: none;
 }
-
-.custom-checkbox label::before {
-    content: '';
-    display: inline-block;
-    width: 18px; /* Adjust as needed */
-    height: 18px; /* Adjust as needed */
-    border: 1px solid #999; /* Border color */
-    background-color: #fff; /* Unchecked background color */
+/* Hide the browser's default checkbox */
+.container input {
+    display: none;
+}
+/* Create a custom checkbox */
+.checkmark {
     position: absolute;
-    left: 0;
     top: 0;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    background-color: var(--secondary-bg);
 }
-
-.custom-checkbox input[type="checkbox"]:checked + label::before {
-    background-color: #007bff; /* Checked background color */
+.container:hover input ~ .checkmark {
+    background-color: var(--dark-bg);
 }
-
-/* Optional: You can style the checkmark if needed */
-.custom-checkbox label::after {
-    content: '\2713'; /* Unicode checkmark character */
-    font-size: 14px; /* Adjust as needed */
-    color: #fff; /* Checkmark color */
+.checkmark:after {
+    content: "";
     position: absolute;
-    left: 4px; /* Adjust as needed */
-    top: 1px; /* Adjust as needed */
-    visibility: hidden;
+    display: none;
+}
+.container input:checked ~ .checkmark:after {
+    display: block;
+}
+.container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid var(--glow);
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
 }
 
-.custom-checkbox input[type="checkbox"]:checked + label::after {
-    visibility: visible;
+/* Bigger checkboxes for categories */
+.category-head .container {
+    padding-left: 35px;
+}
+.category-head .checkmark {
+    top: -10px;
+    width: 35px;
+    height: 35px;
+}
+.category-head .checkmark:after {
+    left: 12px;
+    top: 5px;
+    width: 8px;
+    height: 17px;
+    border-width: 0 4px 4px 0;
 }

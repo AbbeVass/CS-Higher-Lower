@@ -1,6 +1,6 @@
 const MenuDiv = document.getElementById("weaponsMenu");
-let optionNum = 0;
 
+// Get all items and the category structure
 let categories;
 let items;
 fetch(`./../../items/data/categories.json`)
@@ -67,27 +67,37 @@ function setup() {
                 MenuDiv.children[catDivs.findIndex((value) => {
                     return value === category;
                 })].appendChild(div);
-
-                optionNum++;
             }
         }
     }
 }
 
+/**
+ * Creates a checkbox that can be customized
+ * @param {String} value The checkbox's value
+ * @returns A customizable checkbox element
+ */
 function createCheckBox(value) {
-    let container = document.createElement("div");
-    container.className = "custom-checkbox";
-
-    let box = document.createElement("input");
-    box.type = "checkbox";
-    box.value = value;
-    box.id = `checkbox${optionNum}`;
-
     let label = document.createElement("label");
-    label.htmlFor = `checkbox${optionNum}`;
+    label.className = "container";
 
-    container
-    .appendChild(box)
-    .appendChild(label);
-    return container;
+    let input = document.createElement("input");
+    input.type = "checkbox";
+    input.value = value;
+
+    let span = document.createElement("span");
+    span.className = "checkmark";
+
+    label.appendChild(input);
+    label.appendChild(span);
+    return label;
 }
+
+// Listen for the menu section being clicked
+document.getElementById("menuBtn").addEventListener("click", () => {
+    if (MenuDiv.style.display !== "initial") {
+        MenuDiv.style.display = "initial";
+    } else {
+        MenuDiv.style.display = "none";
+    }
+});
