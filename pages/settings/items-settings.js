@@ -7,6 +7,7 @@ fetch(`./../../items/data/categories.json`)
     .then(response => response.json())
     .then(data => {
         categories = data;
+        categoryKeys = Object.keys(categories);
         fetch(`./../../items/data/items-data.json`)
         .then(response => response.json())
         .then(data => {
@@ -25,7 +26,7 @@ function setup() {
 
     // Add items and their respective categories to the weapons menu
     for (item of Object.keys(items)) {
-        for (category of Object.keys(categories)) {
+        for (category of categoryKeys) {
             if (categories[category].includes(item)) { // Find the right category
                 if (!catDivs.includes(category)) { // Create new div for the category
                     let div = document.createElement("div");
@@ -70,6 +71,21 @@ function setup() {
             }
         }
     }
+
+    // Add event listeners for all items checkboxes
+    let checkboxes = document.querySelectorAll(".checkbox");
+    let choosenItems = [];
+    checkboxes.forEach((checkbox) => {
+        checkbox.addEventListener('change', () => {
+            choosenItems = 
+                Array.from(checkboxes)  // Convert checkboxes to an array
+                .filter(i => i.checked) // Remove unchecked checkboxes
+                .map(i => i.value);     // Get the remaining checkbox values
+            
+            updateItemSelection(Array.from(checkboxes), checkbox);
+            saveSettings();
+        });
+    });
 }
 
 /**
@@ -83,6 +99,7 @@ function createCheckBox(value) {
 
     let input = document.createElement("input");
     input.type = "checkbox";
+    input.className = "checkbox";
     input.value = value;
 
     let span = document.createElement("span");
@@ -91,6 +108,49 @@ function createCheckBox(value) {
     label.appendChild(input);
     label.appendChild(span);
     return label;
+}
+
+/**
+ * Updates the checkboxes for the weapons selection
+ * so the category checkbox reflects the selected items
+ */
+function updateItemSelection(allBoxes, clickedBox) {
+
+    // If a category was clicked
+    // Change all those items to the same state
+    if (categoryKeys.includes(clickedBox.value)) {
+        for (box of allBoxes) {
+            if (categories[clickedBox.value].includes(box.value)) {
+                if (clickedBox.checked) {
+                    box.checked = true;
+                } else {
+                    box.checked = false;
+                }
+            }
+        }
+    }
+    
+    // If an item was clicked
+    // Check if the category checkbox should change state
+    else {
+        for (category of categoryKeys) {
+            if (categories[category].includes(clickedBox.value)) { // Find the item's category
+                if (!clickedBox.checked) {
+                    document.querySelector(`input[value="${category}"]`).checked = false;;
+                } else {
+                    // Change the category checkbox if all items of the category are checked
+                    for (boxValue of categories[category]) {
+                        const Box = document.querySelector(`input[value="${boxValue}"]`); // Returns null if the item isn't in the game
+                        if (Box !== null && !Box.checked) {
+                            return;
+                        }
+                    }
+                    document.querySelector(`input[value="${category}"]`).checked = true;
+                }
+                return;
+            }
+        }
+    }
 }
 
 // Listen for the menu section being clicked
