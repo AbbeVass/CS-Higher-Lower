@@ -147,7 +147,7 @@ function updateItemSelection(allBoxes, clickedBox) {
                     }
                     document.querySelector(`input[value="${category}"]`).checked = true;
                 }
-                return;
+                break;
             }
         }
     }
