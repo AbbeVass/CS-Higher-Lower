@@ -2,6 +2,7 @@ const MenuDiv = document.getElementById("weaponsMenu");
 
 // Get all items and the category structure
 let categories;
+let categoryKeys;
 let items;
 fetch(`./../../items/data/categories.json`)
     .then(response => response.json())
@@ -74,16 +75,19 @@ function setup() {
 
     // Add event listeners for all items checkboxes
     let checkboxes = document.querySelectorAll(".checkbox");
-    let choosenItems = [];
+    let selectedItems = [];
     checkboxes.forEach((checkbox) => {
         checkbox.addEventListener('change', () => {
-            choosenItems = 
+            updateItemSelection(Array.from(checkboxes), checkbox);
+            selectedItems = 
                 Array.from(checkboxes)  // Convert checkboxes to an array
                 .filter(i => i.checked) // Remove unchecked checkboxes
                 .map(i => i.value);     // Get the remaining checkbox values
             
-            updateItemSelection(Array.from(checkboxes), checkbox);
-            saveSettings();
+            updateBtnDisplay(selectedItems);
+            saveSettings("items",
+                selectedItems.filter(i => !categoryKeys.includes(i))
+            );
         });
     });
 }
@@ -151,6 +155,16 @@ function updateItemSelection(allBoxes, clickedBox) {
             }
         }
     }
+}
+
+function updateBtnDisplay(selectedItems) {
+    let output = [];
+    output.push(
+        selectedItems.filter(i => categoryKeys.includes(i))
+    );
+    -// Continue
+    output = output.flat().join(" / ");
+    console.log(output);
 }
 
 // Listen for the menu section being clicked
