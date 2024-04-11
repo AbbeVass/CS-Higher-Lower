@@ -12,5 +12,5 @@ Which specific weapons to play with - categories with lists
 Dark/Lightmode
 Reset Highscore
 
-There should not be a high score if not every item is in play
-All items should be in play if no items are choosen 
+- There should not be a high score if not every item is in play
+- All items should be in play if no items are choosen 

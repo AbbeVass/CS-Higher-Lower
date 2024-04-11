@@ -157,14 +157,38 @@ function updateItemSelection(allBoxes, clickedBox) {
     }
 }
 
+/**
+ * Update the text that displays the selected weapons
+ * @param {Array} selectedItems 
+ */
 function updateBtnDisplay(selectedItems) {
     let output = [];
+
+    // Add selected categories
     output.push(
         selectedItems.filter(i => categoryKeys.includes(i))
     );
-    -// Continue
-    output = output.flat().join(" / ");
-    console.log(output);
+
+    // Check if all categories are selected or if no item are selected
+    // Because then all items are selected
+    if (output[0].length === document.querySelectorAll(".category").length
+        || selectedItems.length === 0) {
+        output = "All weapons";
+    }
+    else {
+        // Add selected weapons outside of the selected categories
+        for (category of categoryKeys) {
+            if (!selectedItems.includes(category)) {
+                output.push(
+                    selectedItems.filter(i => categories[category].includes(i))
+                );
+            }
+        }
+        // Create a string and change the display
+        output = output.flat().join(" / ");
+    }
+
+    document.getElementById("selectedWeapons").innerHTML = output;
 }
 
 // Listen for the menu section being clicked

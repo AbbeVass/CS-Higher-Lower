@@ -4346,5 +4346,613 @@
       "skin": "Wood Fired",
       "price": 1.34
     }
+  ],
+  "Sawed-Off": [
+    {
+      "string": "Sawed-Off, Amber Fade, 5,81 kr.webp",
+      "id": 0,
+      "type": "Sawed-Off",
+      "skin": "Amber Fade",
+      "price": 5.81
+    },
+    {
+      "string": "Sawed-Off, Apocalypto, 14,86 kr.webp",
+      "id": 1,
+      "type": "Sawed-Off",
+      "skin": "Apocalypto",
+      "price": 14.86
+    },
+    {
+      "string": "Sawed-Off, Bamboo Shadow, 55,06 kr.webp",
+      "id": 2,
+      "type": "Sawed-Off",
+      "skin": "Bamboo Shadow",
+      "price": 55.06
+    },
+    {
+      "string": "Sawed-Off, Black Sand, 2,90 kr.webp",
+      "id": 3,
+      "type": "Sawed-Off",
+      "skin": "Black Sand",
+      "price": 2.9
+    },
+    {
+      "string": "Sawed-Off, Brake Light, 10,32 kr.webp",
+      "id": 4,
+      "type": "Sawed-Off",
+      "skin": "Brake Light",
+      "price": 10.32
+    },
+    {
+      "string": "Sawed-Off, Clay Ambush, 9,25 kr.webp",
+      "id": 5,
+      "type": "Sawed-Off",
+      "skin": "Clay Ambush",
+      "price": 9.25
+    },
+    {
+      "string": "Sawed-Off, Copper, 1455,13 kr.webp",
+      "id": 6,
+      "type": "Sawed-Off",
+      "skin": "Copper",
+      "price": 1455.13
+    },
+    {
+      "string": "Sawed-Off, Devourer, 161,11 kr.webp",
+      "id": 7,
+      "type": "Sawed-Off",
+      "skin": "Devourer",
+      "price": 161.11
+    },
+    {
+      "string": "Sawed-Off, First Class, 532,43 kr.webp",
+      "id": 8,
+      "type": "Sawed-Off",
+      "skin": "First Class",
+      "price": 532.43
+    },
+    {
+      "string": "Sawed-Off, Forest DDPAT, 0,43 kr.webp",
+      "id": 9,
+      "type": "Sawed-Off",
+      "skin": "Forest DDPAT",
+      "price": 0.43
+    },
+    {
+      "string": "Sawed-Off, Fubar, 1,29 kr.webp",
+      "id": 10,
+      "type": "Sawed-Off",
+      "skin": "Fubar",
+      "price": 1.29
+    },
+    {
+      "string": "Sawed-Off, Full Stop, 5,91 kr.webp",
+      "id": 11,
+      "type": "Sawed-Off",
+      "skin": "Full Stop",
+      "price": 5.91
+    },
+    {
+      "string": "Sawed-Off, Highwayman, 37,21 kr.webp",
+      "id": 12,
+      "type": "Sawed-Off",
+      "skin": "Highwayman",
+      "price": 37.21
+    },
+    {
+      "string": "Sawed-Off, Irradiated Alert, 158,73 kr.webp",
+      "id": 13,
+      "type": "Sawed-Off",
+      "skin": "Irradiated Alert",
+      "price": 158.73
+    },
+    {
+      "string": "Sawed-Off, Jungle Thicket, 58,82 kr.webp",
+      "id": 14,
+      "type": "Sawed-Off",
+      "skin": "Jungle Thicket",
+      "price": 58.82
+    },
+    {
+      "string": "Sawed-Off, Kiss♥Love, 119,22.webp",
+      "id": 15,
+      "type": "Sawed-Off",
+      "skin": "Kiss♥Love",
+      "price": null
+    },
+    {
+      "string": "Sawed-Off, Limelight, 11,23 kr.webp",
+      "id": 16,
+      "type": "Sawed-Off",
+      "skin": "Limelight",
+      "price": 11.23
+    },
+    {
+      "string": "Sawed-Off, Morris, 3,33 kr.webp",
+      "id": 17,
+      "type": "Sawed-Off",
+      "skin": "Morris",
+      "price": 3.33
+    },
+    {
+      "string": "Sawed-Off, Mosaico, 387,25 kr.webp",
+      "id": 18,
+      "type": "Sawed-Off",
+      "skin": "Mosaico",
+      "price": 387.25
+    },
+    {
+      "string": "Sawed-Off, Orange DDPAT, 440,16 kr.webp",
+      "id": 19,
+      "type": "Sawed-Off",
+      "skin": "Orange DDPAT",
+      "price": 440.16
+    },
+    {
+      "string": "Sawed-Off, Origami, 3,33 kr.webp",
+      "id": 20,
+      "type": "Sawed-Off",
+      "skin": "Origami",
+      "price": 3.33
+    },
+    {
+      "string": "Sawed-Off, Parched, 12,90 kr.webp",
+      "id": 21,
+      "type": "Sawed-Off",
+      "skin": "Parched",
+      "price": 12.9
+    },
+    {
+      "string": "Sawed-Off, Rust Coat, 262,72 kr.webp",
+      "id": 22,
+      "type": "Sawed-Off",
+      "skin": "Rust Coat",
+      "price": 262.72
+    },
+    {
+      "string": "Sawed-Off, Sage Spray, 69,26 kr.webp",
+      "id": 23,
+      "type": "Sawed-Off",
+      "skin": "Sage Spray",
+      "price": 69.26
+    },
+    {
+      "string": "Sawed-Off, Serenity, 35,55 kr.webp",
+      "id": 24,
+      "type": "Sawed-Off",
+      "skin": "Serenity",
+      "price": 35.55
+    },
+    {
+      "string": "Sawed-Off, Snake Camo, 2,04 kr.webp",
+      "id": 25,
+      "type": "Sawed-Off",
+      "skin": "Snake Camo",
+      "price": 2.04
+    },
+    {
+      "string": "Sawed-Off, Spirit Board, 2,58 kr.webp",
+      "id": 26,
+      "type": "Sawed-Off",
+      "skin": "Spirit Board",
+      "price": 2.58
+    },
+    {
+      "string": "Sawed-Off, The Kraken, 62,26 kr.webp",
+      "id": 27,
+      "type": "Sawed-Off",
+      "skin": "The Kraken",
+      "price": 62.26
+    },
+    {
+      "string": "Sawed-Off, Wasteland Princess, 78,79 kr.webp",
+      "id": 28,
+      "type": "Sawed-Off",
+      "skin": "Wasteland Princess",
+      "price": 78.79
+    },
+    {
+      "string": "Sawed-Off, Yorick, 4,95 kr.webp",
+      "id": 29,
+      "type": "Sawed-Off",
+      "skin": "Yorick",
+      "price": 4.95
+    },
+    {
+      "string": "Sawed-Off, Zander, 5,91 kr.webp",
+      "id": 30,
+      "type": "Sawed-Off",
+      "skin": "Zander",
+      "price": 5.91
+    }
+  ],
+  "M249": [
+    {
+      "string": "M249, Aztec, 20,76 kr.webp",
+      "id": 0,
+      "type": "M249",
+      "skin": "Aztec",
+      "price": 20.76
+    },
+    {
+      "string": "M249, Blizzard Marbleized, 1052,07 kr.webp",
+      "id": 1,
+      "type": "M249",
+      "skin": "Blizzard Marbleized",
+      "price": 1052.07
+    },
+    {
+      "string": "M249, Contrast Spray, 62,59 kr.webp",
+      "id": 2,
+      "type": "M249",
+      "skin": "Contrast Spray",
+      "price": 62.59
+    },
+    {
+      "string": "M249, Deep Relief, 10,00 kr.webp",
+      "id": 3,
+      "type": "M249",
+      "skin": "Deep Relief",
+      "price": 10
+    },
+    {
+      "string": "M249, Downtown, 21,72 kr.webp",
+      "id": 4,
+      "type": "M249",
+      "skin": "Downtown",
+      "price": 21.72
+    },
+    {
+      "string": "M249, Emerald Poison Dart, 35,92 kr.webp",
+      "id": 5,
+      "type": "M249",
+      "skin": "Emerald Poison Dart",
+      "price": 35.92
+    },
+    {
+      "string": "M249, Gator Mesh, 1,29 kr.webp",
+      "id": 6,
+      "type": "M249",
+      "skin": "Gator Mesh",
+      "price": 1.29
+    },
+    {
+      "string": "M249, Humidor, 215,30 kr.webp",
+      "id": 7,
+      "type": "M249",
+      "skin": "Humidor",
+      "price": 215.3
+    },
+    {
+      "string": "M249, Impact Drill, 65,49 kr.webp",
+      "id": 8,
+      "type": "M249",
+      "skin": "Impact Drill",
+      "price": 65.49
+    },
+    {
+      "string": "M249, Jungle DDPAT, 258,10 kr.webp",
+      "id": 9,
+      "type": "M249",
+      "skin": "Jungle DDPAT",
+      "price": 258.1
+    },
+    {
+      "string": "M249, Jungle, 65,28 kr.webp",
+      "id": 10,
+      "type": "M249",
+      "skin": "Jungle",
+      "price": 65.28
+    },
+    {
+      "string": "M249, Magma, 93,13 kr.webp",
+      "id": 11,
+      "type": "M249",
+      "skin": "Magma",
+      "price": 93.13
+    },
+    {
+      "string": "M249, Midnight Palm, 71,08 kr.webp",
+      "id": 12,
+      "type": "M249",
+      "skin": "Midnight Palm",
+      "price": 71.08
+    },
+    {
+      "string": "M249, Nebula Crusader, 50,65 kr.webp",
+      "id": 13,
+      "type": "M249",
+      "skin": "Nebula Crusader",
+      "price": 50.65
+    },
+    {
+      "string": "M249, O.S.I.P.R, 4,84 kr.webp",
+      "id": 14,
+      "type": "M249",
+      "skin": "O.S.I.P.R",
+      "price": 4.84
+    },
+    {
+      "string": "M249, Predator, 14,63 kr.webp",
+      "id": 15,
+      "type": "M249",
+      "skin": "Predator",
+      "price": 14.63
+    },
+    {
+      "string": "M249, Shipping Forecast, 238,63 kr.webp",
+      "id": 16,
+      "type": "M249",
+      "skin": "Shipping Forecast",
+      "price": 238.63
+    },
+    {
+      "string": "M249, Spectre, 2,90 kr.webp",
+      "id": 17,
+      "type": "M249",
+      "skin": "Spectre",
+      "price": 2.9
+    },
+    {
+      "string": "M249, Submerged, 1,29 kr.webp",
+      "id": 18,
+      "type": "M249",
+      "skin": "Submerged",
+      "price": 1.29
+    },
+    {
+      "string": "M249, System Lock, 6,24 kr.webp",
+      "id": 19,
+      "type": "M249",
+      "skin": "System Lock",
+      "price": 6.24
+    },
+    {
+      "string": "M249, Warbird, 13,01 kr.webp",
+      "id": 20,
+      "type": "M249",
+      "skin": "Warbird",
+      "price": 13.01
+    }
+  ],
+  "XM1014": [
+    {
+      "string": "XM1014, Ancient Lore, 583,30 kr.webp",
+      "id": 0,
+      "type": "XM1014",
+      "skin": "Ancient Lore",
+      "price": 583.3
+    },
+    {
+      "string": "XM1014, Banana Leaf, 263,15 kr.webp",
+      "id": 1,
+      "type": "XM1014",
+      "skin": "Banana Leaf",
+      "price": 263.15
+    },
+    {
+      "string": "XM1014, Black Tie, 27,64 kr.webp",
+      "id": 2,
+      "type": "XM1014",
+      "skin": "Black Tie",
+      "price": 27.64
+    },
+    {
+      "string": "XM1014, Blaze Orange, 490,17 kr.webp",
+      "id": 3,
+      "type": "XM1014",
+      "skin": "Blaze Orange",
+      "price": 490.17
+    },
+    {
+      "string": "XM1014, Blue Spruce, 2,37 kr.webp",
+      "id": 4,
+      "type": "XM1014",
+      "skin": "Blue Spruce",
+      "price": 2.37
+    },
+    {
+      "string": "XM1014, Blue Steel, 2,37 kr.webp",
+      "id": 5,
+      "type": "XM1014",
+      "skin": "Blue Steel",
+      "price": 2.37
+    },
+    {
+      "string": "XM1014, Blue Tire, 13,23 kr.webp",
+      "id": 6,
+      "type": "XM1014",
+      "skin": "Blue Tire",
+      "price": 13.23
+    },
+    {
+      "string": "XM1014, Bone Machine, 92,91 kr.webp",
+      "id": 7,
+      "type": "XM1014",
+      "skin": "Bone Machine",
+      "price": 92.91
+    },
+    {
+      "string": "XM1014, CaliCamo, 1,08 kr.webp",
+      "id": 8,
+      "type": "XM1014",
+      "skin": "CaliCamo",
+      "price": 1.08
+    },
+    {
+      "string": "XM1014, Charter, 10,11 kr.webp",
+      "id": 9,
+      "type": "XM1014",
+      "skin": "Charter",
+      "price": 10.11
+    },
+    {
+      "string": "XM1014, Elegant Vines, 797,84 kr.webp",
+      "id": 10,
+      "type": "XM1014",
+      "skin": "Elegant Vines",
+      "price": 797.84
+    },
+    {
+      "string": "XM1014, Entombed, 105,60 kr.webp",
+      "id": 11,
+      "type": "XM1014",
+      "skin": "Entombed",
+      "price": 105.6
+    },
+    {
+      "string": "XM1014, Fallout Warning, 1097,02 kr.webp",
+      "id": 12,
+      "type": "XM1014",
+      "skin": "Fallout Warning",
+      "price": 1097.02
+    },
+    {
+      "string": "XM1014, Frost Borre, 1355,44 kr.webp",
+      "id": 13,
+      "type": "XM1014",
+      "skin": "Frost Borre",
+      "price": 1355.44
+    },
+    {
+      "string": "XM1014, Grassland, 451,88 kr.webp",
+      "id": 14,
+      "type": "XM1014",
+      "skin": "Grassland",
+      "price": 451.88
+    },
+    {
+      "string": "XM1014, Heaven Guard, 144,86 kr.webp",
+      "id": 15,
+      "type": "XM1014",
+      "skin": "Heaven Guard",
+      "price": 144.86
+    },
+    {
+      "string": "XM1014, Hieroglyph, 1,29 kr.webp",
+      "id": 16,
+      "type": "XM1014",
+      "skin": "Hieroglyph",
+      "price": 1.29
+    },
+    {
+      "string": "XM1014, Incinegator, 138,94 kr.webp",
+      "id": 17,
+      "type": "XM1014",
+      "skin": "Incinegator",
+      "price": 138.94
+    },
+    {
+      "string": "XM1014, Jungle, 806,55 kr.webp",
+      "id": 18,
+      "type": "XM1014",
+      "skin": "Jungle",
+      "price": 806.55
+    },
+    {
+      "string": "XM1014, Oxide Blaze, 2,15 kr.webp",
+      "id": 19,
+      "type": "XM1014",
+      "skin": "Oxide Blaze",
+      "price": 2.15
+    },
+    {
+      "string": "XM1014, Quicksilver, 4,52 kr.webp",
+      "id": 20,
+      "type": "XM1014",
+      "skin": "Quicksilver",
+      "price": 4.52
+    },
+    {
+      "string": "XM1014, Red Leather, 548,24 kr.webp",
+      "id": 21,
+      "type": "XM1014",
+      "skin": "Red Leather",
+      "price": 548.24
+    },
+    {
+      "string": "XM1014, Red Python, 29,25 kr.webp",
+      "id": 22,
+      "type": "XM1014",
+      "skin": "Red Python",
+      "price": 29.25
+    },
+    {
+      "string": "XM1014, Scumbria, 9,46 kr.webp",
+      "id": 23,
+      "type": "XM1014",
+      "skin": "Scumbria",
+      "price": 9.46
+    },
+    {
+      "string": "XM1014, Seasons, 39,47 kr.webp",
+      "id": 24,
+      "type": "XM1014",
+      "skin": "Seasons",
+      "price": 39.47
+    },
+    {
+      "string": "XM1014, Slipstream, 4,09 kr.webp",
+      "id": 25,
+      "type": "XM1014",
+      "skin": "Slipstream",
+      "price": 4.09
+    },
+    {
+      "string": "XM1014, Teclu Burner, 27,53 kr.webp",
+      "id": 26,
+      "type": "XM1014",
+      "skin": "Teclu Burner",
+      "price": 27.53
+    },
+    {
+      "string": "XM1014, Tranquility, 268,96 kr.webp",
+      "id": 27,
+      "type": "XM1014",
+      "skin": "Tranquility",
+      "price": 268.96
+    },
+    {
+      "string": "XM1014, Urban Perforated, 97,97 kr.webp",
+      "id": 28,
+      "type": "XM1014",
+      "skin": "Urban Perforated",
+      "price": 97.97
+    },
+    {
+      "string": "XM1014, VariCamo Blue, 251,54 kr.webp",
+      "id": 29,
+      "type": "XM1014",
+      "skin": "VariCamo Blue",
+      "price": 251.54
+    },
+    {
+      "string": "XM1014, Watchdog, 51,19 kr.webp",
+      "id": 30,
+      "type": "XM1014",
+      "skin": "Watchdog",
+      "price": 51.19
+    },
+    {
+      "string": "XM1014, XOXO, 112,70 kr.webp",
+      "id": 31,
+      "type": "XM1014",
+      "skin": "XOXO",
+      "price": 112.7
+    },
+    {
+      "string": "XM1014, Ziggy, 16,88 kr.webp",
+      "id": 32,
+      "type": "XM1014",
+      "skin": "Ziggy",
+      "price": 16.88
+    },
+    {
+      "string": "XM1014, Zombie Offensive, 14,20 kr.webp",
+      "id": 33,
+      "type": "XM1014",
+      "skin": "Zombie Offensive",
+      "price": 14.2
+    }
   ]
 }
