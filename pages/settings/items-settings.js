@@ -1,5 +1,8 @@
 const MenuDiv = document.getElementById("weaponsMenu");
 
+const Settings = localStorage.getItem("settings") ? localStorage.getItem("settings") : 
+    {currency: "Dollar", lightmode: false, items: "All items"};
+
 // Get all items and the category structure
 let categories;
 let categoryKeys;
@@ -89,6 +92,10 @@ function setup() {
                 selectedItems.filter(i => !categoryKeys.includes(i))
             );
         });
+        if (Settings.items === "All items"
+            || Settings.items.includes(checkbox.value)) {
+                checkbox.checked = true;
+            }
     });
 }
 
