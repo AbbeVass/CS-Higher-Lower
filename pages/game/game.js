@@ -1,7 +1,11 @@
 const ImgPath = "./../../items/img/";
 
-let settings = localStorage.getItem("settings");
-if (!settings) { settings = {}; }
+let settings;
+try {
+    settings = JSON.parse(localStorage.getItem("settings"));
+} catch {
+    settings = {};
+}
 
 let allItems;
 fetch(`./../../items/data/items-data.json`)
@@ -16,10 +20,16 @@ let score = 0;
 let items = {left: {}, right: {}};
 let possibleItems = []; // Only the keys
 
+/**
+ * Set up the page
+ */
 function setup() {
-    if (settings.items) { // Add choosen items 
+    // Add choosen items if the stored settings are correct
+    if (settings.items && typeof settings.items === "object") {
         for (let item of settings.items) {
-            possibleItems.push(item);
+            if (Object.keys(allItems).includes(item)) {
+                possibleItems.push(item);
+            }
         }
     }
     else { // If there's no settings, all items will be set as possible
@@ -30,14 +40,21 @@ function setup() {
     items.right = getItem();
 
     // Set up scores before adding items
-    let highScore = localStorage.getItem("highScore");
-    if (!highScore) { highScore = 0; }
+    // There's only a high score if all weapons are in play
+    if (settings.items === "All items") {
+        let highScore = localStorage.getItem("highScore");
+        if (!highScore) { highScore = 0; }
+        document.getElementById("highScore").innerHTML = "High Score: "+highScore;
+    }
     document.getElementById("score").innerHTML = "Score: "+score;
-    document.getElementById("highScore").innerHTML = "High Score: "+highScore;
 
     changeItems();
 }
 
+/**
+ * Get a new random item
+ * @returns A item object
+ */
 function getItem() {
     // Choose type
     const ItemsByType = allItems[possibleItems[Math.floor(Math.random()*possibleItems.length)]];
@@ -46,6 +63,9 @@ function getItem() {
     return ItemsByType[Math.floor(Math.random()*ItemsByType.length)];
 }
 
+/**
+ * Chenges the items for a new guess
+ */
 function changeItems() {
     items.left = items.right;
 
@@ -86,6 +106,11 @@ function changeItems() {
     }, 100);
 }
 
+/**
+ * Makes a guess whether the right item
+ * is higher or lower than the right item
+ * @param {boolean} higher 
+ */
 function guess(higher) {
     const Box = document.querySelector(".btn-container");
 
@@ -156,11 +181,15 @@ function getPrice(sek) {
     return sek.toFixed(2) + " kr";
 }
 
+/**
+ * Save the score,
+ * fade the background
+ * and open the results page
+ */
 function finishGame() {
     localStorage.setItem("score", score);
-
+    
     const FadingTime = 2000;
-
     const BodyStyle = document.body.style;
     BodyStyle.transition = FadingTime/1000 + "s";
     BodyStyle.backgroundColor = "var(--red)";

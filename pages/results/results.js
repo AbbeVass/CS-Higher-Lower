@@ -6,17 +6,23 @@ if (!Score) {
     window.open("./../home/index.html", "_self");
 }
 
-// Get the high score
-let highScore = localStorage.getItem("highScore");
-if (isNaN(highScore) || highScore === null) { highScore = 0; }
-
-if (Number(Score) > Number(highScore)) {
-    highScore = Score;
-    localStorage.setItem("highScore", highScore);
+// Get the high score if all weapons are in play
+if (JSON.parse(localStorage.getItem("settings")).items === "All items") {
     
-    document.getElementById("score").remove();
-    document.getElementById("highScore").innerHTML = "New High Score: "+highScore;
+    let highScore = localStorage.getItem("highScore");
+    if (isNaN(highScore) || highScore === null) { highScore = 0; }
+
+    if (Number(Score) > Number(highScore)) { // New high score
+        highScore = Score;
+        localStorage.setItem("highScore", highScore);
+        
+        document.getElementById("score").remove();
+        document.getElementById("highScore").innerHTML = "New High Score: "+highScore;
+    } else {
+        document.getElementById("score").innerHTML = "Score: "+Score;
+        document.getElementById("highScore").innerHTML = "High Score: "+highScore;
+    }
 } else {
+    document.getElementById("highScore").remove();
     document.getElementById("score").innerHTML = "Score: "+Score;
-    document.getElementById("highScore").innerHTML = "High Score: "+highScore;
 }

@@ -1,8 +1,5 @@
 const MenuDiv = document.getElementById("weaponsMenu");
 
-const Settings = localStorage.getItem("settings") ? localStorage.getItem("settings") : 
-    {currency: "Dollar", lightmode: false, items: "All items"};
-
 // Get all items and the category structure
 let categories;
 let categoryKeys;
@@ -80,23 +77,36 @@ function setup() {
     let checkboxes = document.querySelectorAll(".checkbox");
     let selectedItems = [];
     checkboxes.forEach((checkbox) => {
-        checkbox.addEventListener('change', () => {
-            updateItemSelection(Array.from(checkboxes), checkbox);
-            selectedItems = 
-                Array.from(checkboxes)  // Convert checkboxes to an array
-                .filter(i => i.checked) // Remove unchecked checkboxes
-                .map(i => i.value);     // Get the remaining checkbox values
+        checkbox.addEventListener("change", () => {
+            checkboxEvent(checkbox, true);
+        });
+        
+        // Last, display the current item selection
+        if (settings.items === "All items"
+            || (settings.items).includes(checkbox.value)) {
             
-            updateBtnDisplay(selectedItems);
-            saveSettings("items",
+            checkbox.checked = true;
+            checkboxEvent(checkbox, false);
+        }
+    });
+
+    function checkboxEvent(checkbox, save) {
+        // Update checkboxes
+        updateItemSelection(Array.from(checkboxes), checkbox);
+        selectedItems = 
+            Array.from(checkboxes)  // Convert checkboxes to an array
+            .filter(i => i.checked) // Remove unchecked checkboxes
+            .map(i => i.value);     // Get the remaining checkbox values
+        updateBtnDisplay(selectedItems);
+    
+        // Save changes
+        if (save) {
+            saveSettings("items", allItems?
+                "All items":
                 selectedItems.filter(i => !categoryKeys.includes(i))
             );
-        });
-        if (Settings.items === "All items"
-            || Settings.items.includes(checkbox.value)) {
-                checkbox.checked = true;
-            }
-    });
+        }
+    }
 }
 
 /**
@@ -170,7 +180,7 @@ function updateItemSelection(allBoxes, clickedBox) {
  */
 function updateBtnDisplay(selectedItems) {
     let output = [];
-
+    
     // Add selected categories
     output.push(
         selectedItems.filter(i => categoryKeys.includes(i))
@@ -181,6 +191,7 @@ function updateBtnDisplay(selectedItems) {
     if (output[0].length === document.querySelectorAll(".category").length
         || selectedItems.length === 0) {
         output = "All weapons";
+        allItems = true;
     }
     else {
         // Add selected weapons outside of the selected categories
@@ -191,10 +202,12 @@ function updateBtnDisplay(selectedItems) {
                 );
             }
         }
-        // Create a string and change the display
+        // Create a string
         output = output.flat().join(" / ");
+        allItems = false;
     }
 
+    // Update text
     document.getElementById("selectedWeapons").innerHTML = output;
 }
 
