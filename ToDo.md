@@ -7,7 +7,7 @@
 > RWD
 
 # Settings
-Currency (Value at the time: USD = SEK/10.476, Euro = SEK/11,301)
+Currency (Value at the time: USD = SEK/10.476, Euro = SEK/11.301)
 Which specific weapons to play with - categories with lists
 Dark/Lightmode
 Reset Highscore

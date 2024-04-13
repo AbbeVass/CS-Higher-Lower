@@ -1,6 +1,6 @@
 body {
     background-color: var(--background);
-    font-family: Counter-Strike;
+    font-family: Counter-Strike, Arial;
     margin: 70px 0 0;
     height: 100%;
     display: flex;

@@ -178,7 +178,14 @@ function guess(higher) {
  * Rounds the price and returns it in the selected currency
  */
 function getPrice(sek) {
-    return sek.toFixed(2) + " kr";
+    switch (settings.currency) {
+        case "EUR":
+            return (sek/11.301).toFixed(2) + " &#8364;";
+        case "SEK":
+            return sek.toFixed(2) + " kr";
+        default:
+            return "&#36;" + (sek/10.476).toFixed(2);
+    }
 }
 
 /**

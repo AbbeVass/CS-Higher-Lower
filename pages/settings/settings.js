@@ -3,7 +3,7 @@ let settings;
 try {
     settings = JSON.parse(localStorage.getItem("settings"));
 } catch {
-    settings = {currency: "Dollar", lightmode: false, items: "All items"};
+    settings = {currency: "USD", lightmode: false, items: "All items"};
 }
 
 let allItems = settings.items === "All items" ? true: false;
@@ -17,3 +17,4 @@ function saveSettings(setting, value) {
     settings[setting] = value;
     localStorage.setItem("settings", JSON.stringify(settings));
 }
+

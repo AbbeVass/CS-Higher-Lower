@@ -13,6 +13,7 @@
   background-color: var(--secondary-bg);
   width: 55px;
   border-radius: 10px;
+  transition: .2s;
 }
 .select-selected:hover {
   background-color: var(--dark-bg);
