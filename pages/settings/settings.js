@@ -18,3 +18,8 @@ function saveSettings(setting, value) {
     localStorage.setItem("settings", JSON.stringify(settings));
 }
 
+function resetHighScore() {
+    if (confirm("Are you sure that you want to Reset the High Score back to 0?")) {
+        localStorage.setItem("highScore", 0);
+    }
+}
