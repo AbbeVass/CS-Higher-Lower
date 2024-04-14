@@ -4,12 +4,12 @@ const MenuDiv = document.getElementById("weaponsMenu");
 let categories;
 let categoryKeys;
 let items;
-fetch(`./../../items/data/categories.json`)
+fetch(`/items/data/categories.json`)
     .then(response => response.json())
     .then(data => {
         categories = data;
         categoryKeys = Object.keys(categories);
-        fetch(`./../../items/data/items-data.json`)
+        fetch(`/items/data/items-data.json`)
         .then(response => response.json())
         .then(data => {
             items = data;

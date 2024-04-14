@@ -1,5 +1,5 @@
 
-const GifsPath = "./../../resources/img/background-gifs/";
+const GifsPath = "/resources/img/background-gifs/";
 const Gifs = [
     {
         url: GifsPath+"dance.gif",

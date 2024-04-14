@@ -1,4 +1,4 @@
-const ImgPath = "./../../items/img/";
+const ImgPath = "/items/img/";
 
 let settings;
 try {
@@ -8,7 +8,7 @@ try {
 }
 
 let allItems;
-fetch(`./../../items/data/items-data.json`)
+fetch(`/items/data/items-data.json`)
     .then(response => response.json())
     .then(data => {
         allItems = data;
@@ -203,6 +203,6 @@ function finishGame() {
 
     // Wait and then open the result page
     setTimeout(() => {
-        window.open("./../results/results.html", "_self");
+        window.open("/pages/results/results.html", "_self");
     }, FadingTime);
 }
