@@ -1,10 +1,13 @@
 // Get current settings
-let settings;
-try {
-    settings = JSON.parse(localStorage.getItem("settings"));
-} catch {
-    settings = {currency: "USD", lightmode: false, items: "All items"};
+let settings = JSON.parse(localStorage.getItem("settings"));
+if (settings === null) {
+    settings = {
+        currency: "USD",
+        lightmode: false,
+        items: "All items"
+    }
 }
+
 let allItems = settings.items === "All items" ? true: false;
 
 /**

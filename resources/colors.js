@@ -1,15 +1,35 @@
-let colors;
-fetch(`/resources/colors.json`)
-    .then(response => response.json())
-    .then(data => {
-        colors = data;
-        try {
-            setLightmode(JSON.parse(localStorage.getItem("settings")).lightmode);
-        } catch {
-            setLightmode(false); // Default
-        }
-    })
-    .catch(error => console.error('Error fetching items:', error));
+const Colors = {
+    darkmode: `
+        --glow: #ff9900;
+        --background: #242424;
+        --text: #dadada;
+        --red: #b00000;
+        --secondary-bg: #313033;
+        --secondary-text: #aeaaae;
+        --dark-glow: #ff990050;
+        --dark-bg: #1c1c1c;
+        --block-bg: #6e6e6e;
+        --block-border: #7d4b01;
+    `,
+    lightmode: `
+        --glow: #ff9900;
+        --background: #dadada;
+        --text: #242424;
+        --red: #b00000;
+        --secondary-bg: #313033;
+        --secondary-text: #aeaaae;
+        --dark-glow: #ff990050;
+        --dark-bg: #1c1c1c;
+        --block-bg: #919191;
+        --block-border: #7d4b01;
+    `
+}
+
+try {
+    setLightmode(JSON.parse(localStorage.getItem("settings")).lightmode);
+} catch {
+    setLightmode(false); // Default
+}
 
 /**
  * Set lightmode 
@@ -18,5 +38,6 @@ fetch(`/resources/colors.json`)
 function setLightmode(light) {
     const Mode = light ? "lightmode" : "darkmode";
     const Root = document.querySelector(":root");
-    Root.style.cssText = colors[Mode];
+    Root.style.cssText = Colors[Mode];
 }
+
