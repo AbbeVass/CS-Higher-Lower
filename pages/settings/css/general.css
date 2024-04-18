@@ -29,11 +29,14 @@ body {
     top: 3px;
     font-size: 40px;
 }
-
-.exit:hover  {
+.exit:hover {
     color: var(--glow);
-    .exit-arrow {
-        right: 20px;
+}
+@media (min-width: 801px) {
+    .exit:hover  {
+        .exit-arrow {
+            right: 20px;
+        }
     }
 }
 
@@ -54,7 +57,7 @@ main * {
 }
 
 .headline {
-    margin: 50px 0 20px;
+    margin: 55px 0 20px;
     font-size: 50px;
     color: var(--text);
 }
@@ -70,4 +73,55 @@ main * {
     border: 3px solid var(--block-border);
     border-radius: 12px;
     font-size: 40px;
+}
+
+@media (max-width: 800px) {
+    .exit {
+        left: 20px;
+        font-size: 25px;
+    }
+    .exit-arrow {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 600px) {
+    .exit {
+        text-decoration: underline;
+    }
+    .exit-arrow {
+        display: none;
+    }
+    body {
+        justify-content: right;
+    }
+    main {
+        margin-right: 30px;
+        width: calc(100% - 140px);
+    }
+}
+
+@media (max-width: 450px) {
+    body {
+        justify-content: space-around;
+    }
+    main {
+        width: calc(100% - 70px);
+        margin: 0;
+    }
+    .header {
+        position: fixed;
+        background-color: var(--background);
+        width: calc(100%);
+        border-bottom: 3px solid var(--block-border);
+        z-index: 100;
+        display: flex;
+        justify-content: center;
+    }
+    .header + .section {
+        margin-top: 150px;
+    }
+    .section {
+        font-size: 25px;
+    }
 }

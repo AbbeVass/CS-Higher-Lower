@@ -75,8 +75,7 @@
     align-self: end;
 }
 
-
-/* Checkboxes */
+/*--------------------------- Copied from W3 schools */
 .container {
     display: block; 
     position: relative;
@@ -86,11 +85,9 @@
     font-size: 22px;
     user-select: none;
 }
-/* Hide the browser's default checkbox */
 .container input {
     display: none;
 }
-/* Create a custom checkbox */
 .checkmark {
     position: absolute;
     top: 0;
@@ -119,8 +116,8 @@
     border-width: 0 3px 3px 0;
     transform: rotate(45deg);
 }
+/*---------------------------*/
 
-/* Bigger checkboxes for categories */
 .category-head .container {
     padding-left: 35px;
 }
@@ -135,4 +132,26 @@
     width: 8px;
     height: 17px;
     border-width: 0 4px 4px 0;
+}
+
+
+@media (max-width: 800px) {
+    .text > h2 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .category-name {
+        font-size: 36px;
+    }
+    .item-name {
+        font-size: 24px;
+    }
+    .item {
+        padding: 5px;
+    }
+}
+@media (max-width: 450px) {
+    .text > h1 {
+        font-size: 25px;
+    }
 }
