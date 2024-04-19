@@ -62,6 +62,7 @@
     display: flex;
     justify-content: space-between;
     padding: 10px 0;
+    gap: 10px;
 }
 
 .category-name {
@@ -153,5 +154,30 @@
 @media (max-width: 450px) {
     .text > h1 {
         font-size: 25px;
+    }
+    .category-name {
+        font-size: 25px;
+    }
+    .item-name {
+        font-size: 18px;
+    }
+    .category-head .container {
+        padding-left: 30px;
+    }
+    .category-head .checkmark {
+        top: 0px;
+        width: 25px;
+        height: 25px;
+    }
+    .category-head .checkmark:after {
+        left: 9px;
+        top: 5px;
+        width: 5px;
+        height: 10px;
+        border-width: 0 3px 3px 0;
+    }
+    .category-head,
+    .item {
+        flex-wrap: wrap;
     }
 }

@@ -19,3 +19,19 @@
 #resetBtn:active {
     opacity: 0.7;
 }
+
+@media (max-width: 450px) {
+    #resetBtn {
+        width: 200px;
+        height: 40px;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+}
+@media (max-width: 300px) {
+    #resetBtn {
+        width: 150px;
+        height: 50px;
+        font-size: 20px;
+    }
+}

@@ -1,3 +1,5 @@
+/*--------------------------- Copied from Uiverse.io */
+
 .switch {
     font-size: 17px;
     position: relative;
@@ -42,3 +44,19 @@ input:checked + .slider::before { background-color: var(--glow); }
 input:checked + .slider { background-color: var(--dark-glow); }
 input:focus + .slider { box-shadow: 0 0 1px var(--dark-glow); }
 input:checked + .slider:before { transform: translateX(1.9em); }
+
+/*---------------------------*/
+
+@media (max-width: 450px) {
+    .switch {
+        width: 2.5em;
+        height: 1.4em;
+    }
+    .slider:before {
+        width: 1em;
+        height: 1em;
+    }
+    input:checked + .slider:before {
+        transform: translateX(1em);
+    }
+}

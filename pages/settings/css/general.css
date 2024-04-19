@@ -119,9 +119,18 @@ main * {
         justify-content: center;
     }
     .header + .section {
-        margin-top: 150px;
+        margin-top: 130px;
     }
     .section {
         font-size: 25px;
+        flex-wrap: wrap;
+        height: 60px;
+        overflow: hidden;
+    }
+    .header + .section {
+        overflow: visible;
+    }
+    .headline {
+        font-size: 35px;
     }
 }
