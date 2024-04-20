@@ -18,7 +18,7 @@
     transition: .2s;
 }
 .select-selected:hover {
-    background-color: var(--dark-bg);
+    background-color: var(--hover);
 }
 
 /*style the arrow inside the select element:*/
@@ -30,12 +30,12 @@
     width: 0;
     height: 0;
     border: 6px solid transparent;
-    border-color: #fff transparent transparent transparent;
+    border-color: var(--secondary-text) transparent transparent transparent;
 }
 
 /*point the arrow upwards when the select box is open (active):*/
 .select-selected.select-arrow-active:after {
-    border-color: transparent transparent #fff transparent;
+    border-color: transparent transparent var(--secondary-text) transparent;
     top: 7px;
 }
 
@@ -66,7 +66,7 @@
     display: none;
 }
 
-.select-items div:hover, .same-as-selected {
+.select-items div:hover {
     background-color: var(--dark-glow);
     border-radius: 10px;
 }

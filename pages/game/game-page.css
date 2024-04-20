@@ -1,9 +1,17 @@
+:root {
+    --item-type: #ffa07a;
+    --item-price: #7fffd4;
+    --higher-btn: #90ee90;
+    --lower-btn: #f08080;
+}
+
 body {
     background-color: var(--background);
     font-family: Counter-Strike, Arial;
     margin: 70px 0 0;
     height: 100%;
     display: flex;
+    justify-content: space-around;
     align-items: center;
     transition: 2s;
 }
@@ -47,7 +55,7 @@ main {
 .item-type {
     margin-top: 50px;
     font-size: 40px;
-    color: lightsalmon;
+    color: var(--item-type);
 }
 .item-skin {
     font-size: 55px;
@@ -56,7 +64,7 @@ main {
 .item-price {
     margin: 0;
     font-size: 40px;
-    color: aquamarine;
+    color: var(--item-price);
 }
 .item-type,
 .item-skin,
@@ -79,46 +87,19 @@ main {
     cursor: pointer;
 }
 .higher-btn {
-    border-color: lightgreen;
+    border-color: var(--higher-btn);
 }
 .higher-btn:hover {
-    background-color: lightgreen;
+    background-color: var(--higher-btn);
     color: var(--background);
 }
 .lower-btn {
-    border-color: lightcoral;
+    border-color: var(--lower-btn);
 }
 .lower-btn:hover {
-    background-color: lightcoral;
+    background-color: var(--lower-btn);
     color: var(--background);
 }
 .btn:active {
     opacity: 0.5;
-}
-
-@media (max-width: 1430px) {
-    .btn {
-        width: 200px;
-        height: 75px;
-        font-size: 40px;
-    }
-}
-
-@media (max-width: 990px) {
-    .btn-container {
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-    }
-    .btn {
-        margin-bottom: 10px;
-    }
-}
-
-@media (max-width: 600px) {
-    .btn {
-        width: 150px;
-        height: 50px;
-        font-size: 30px;
-    }
 }

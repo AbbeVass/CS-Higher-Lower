@@ -37,11 +37,10 @@
     transition: .4s;
 }
 .slider:hover {
-    background-color: var(--dark-bg);
+    background-color: var(--hover);
 }
 
-input:checked + .slider::before { background-color: var(--glow); }
-input:checked + .slider { background-color: var(--dark-glow); }
+input:checked + .slider::before { background-color: var(--dark-glow); }
 input:focus + .slider { box-shadow: 0 0 1px var(--dark-glow); }
 input:checked + .slider:before { transform: translateX(1.9em); }
 

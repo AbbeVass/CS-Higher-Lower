@@ -6,6 +6,7 @@
 :root {
     --glow: #ff9900;
     --background: #242424;
+    --transparant-bg: #242424ab;
     --text: #dadada;
     --red: #b00000;
 }

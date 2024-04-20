@@ -18,10 +18,10 @@
     transition: .2s;
 }
 #menuBtn:hover {
-    background-color: var(--secondary-bg);
+    background-color: var(--menuBtn-hover);
 }
 #menuBtn:active {
-    background-color: var(--dark-bg);
+    background-color: var(--secondary-bg);
 }
 
 .text > h1 {
@@ -98,7 +98,7 @@
     background-color: var(--secondary-bg);
 }
 .container:hover input ~ .checkmark {
-    background-color: var(--dark-bg);
+    background-color: var(--hover);
 }
 .checkmark:after {
     content: "";
