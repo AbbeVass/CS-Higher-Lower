@@ -10,21 +10,35 @@ const Gifs = [
     },
     {
         url: GifsPath+"wiggle.gif"
-    }
+    },
+    {
+        url: GifsPath+"vibing.gif",
+        phonePosition: "-170px"
+    },
+    {
+        url: GifsPath+"walking.gif"
+    },
+    {
+        url: GifsPath+"group-dance.gif"
+    },
+    
 ];
 
 // Randomize a background
 const BackgroundGif = Gifs[Math.floor(Math.random()*Gifs.length)];
+document.body.style.backgroundImage = `url(${BackgroundGif.url})`;
 
-document.addEventListener("DOMContentLoaded", () => {
+// Change tha backgrounds position if it has a specific position for phone screens
+if (BackgroundGif.phonePosition) {
+    window.addEventListener("resize", updateBgPosition);
+}
 
-    // Change tha backgrounds position if it has a specific position for phone screens
+function updateBgPosition() {
     if (window.innerWidth < 700) {
-        try {
-            document.body.style.backgroundPosition = BackgroundGif.phonePosition;
-        } catch {}
+        document.body.style.backgroundPosition = BackgroundGif.phonePosition;
+    } else {
+        document.body.style.backgroundPosition = "center center";
     }
+}
 
-    // Set the background
-    document.body.style.backgroundImage = `url(${BackgroundGif.url})`;
-});
+updateBgPosition();

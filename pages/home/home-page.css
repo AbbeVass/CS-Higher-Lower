@@ -30,6 +30,13 @@ body {
     margin: 20px 50px 0;
     max-width: 1000px;
 }
+.sub-title {
+    display: block;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: lighter;
+    font-style: italic;
+}
 
 #start-btn {
     font-size: 50px;
@@ -65,6 +72,10 @@ body {
     #title {
         font-size: 40px;
     }
+    .sub-title {
+        margin-top: 20px;
+        font-size: 20px;
+    }
 }
 @media (max-width: 600px) {
     body {
@@ -79,8 +90,23 @@ body {
     #title {
         font-size: 30px;
     }
+    .sub-title {
+        margin-top: 15px;
+        font-size: 15px;
+    }
     #start-btn {
+        width: 90px;
+        height: 35px;
         margin-top: 30px;
+        font-size: 30px;
+        border-radius: 8px;
+    }
+    #start-btn:hover {
+        font-size: 40px;
+        width: 120px;
+        height: 40px;
+        margin-top: 25px;
+        box-shadow: 0 0 20px var(--glow);
     }
     #cs-img {
         position: static;
@@ -96,17 +122,14 @@ body {
     }
     #title {
         font-size: 20px;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin: 10px 20px 0;
+    }
+    .sub-title {
+        margin-top: 10px;
+        font-size: 10px;
     }
     #start-btn {
-        width: 90px;
-        height: 35px;
-        font-size: 30px;
-        border-radius: 8px;
-    }
-    #start-btn:hover {
-        box-shadow: 0 0 30px var(--glow);
+        margin-top: 20px;
     }
     #cs-img {
         width: 120px;
