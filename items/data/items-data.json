@@ -4454,11 +4454,11 @@
       "price": 58.82
     },
     {
-      "string": "Sawed-Off, Kiss♥Love, 119,22.webp",
+      "string": "Sawed-Off, Kiss♥Love, 119,22 kr.webp",
       "id": 15,
       "type": "Sawed-Off",
       "skin": "Kiss♥Love",
-      "price": null
+      "price": 119.22
     },
     {
       "string": "Sawed-Off, Limelight, 11,23 kr.webp",
@@ -4953,6 +4953,479 @@
       "type": "XM1014",
       "skin": "Zombie Offensive",
       "price": 14.2
+    }
+  ],
+  "Negev": [
+    {
+      "string": "Negev, Anodized Navy, 5080,41 kr.webp",
+      "id": 0,
+      "type": "Negev",
+      "skin": "Anodized Navy",
+      "price": 5080.41
+    },
+    {
+      "string": "Negev, Army Sheen, 0,33 kr.webp",
+      "id": 1,
+      "type": "Negev",
+      "skin": "Army Sheen",
+      "price": 0.33
+    },
+    {
+      "string": "Negev, Boroque Sand, 52,82 kr.webp",
+      "id": 2,
+      "type": "Negev",
+      "skin": "Boroque Sand",
+      "price": 52.82
+    },
+    {
+      "string": "Negev, Bratatat, 86,33 kr.webp",
+      "id": 3,
+      "type": "Negev",
+      "skin": "Bratatat",
+      "price": 86.33
+    },
+    {
+      "string": "Negev, Bulkhead, 1,09 kr.webp",
+      "id": 4,
+      "type": "Negev",
+      "skin": "Bulkhead",
+      "price": 1.09
+    },
+    {
+      "string": "Negev, CaliCamo, 162,72 kr.webp",
+      "id": 5,
+      "type": "Negev",
+      "skin": "CaliCamo",
+      "price": 162.72
+    },
+    {
+      "string": "Negev, Dazzle, 6,33 kr.webp",
+      "id": 6,
+      "type": "Negev",
+      "skin": "Dazzle",
+      "price": 6.33
+    },
+    {
+      "string": "Negev, Desert-Strike, 2,95 kr.webp",
+      "id": 7,
+      "type": "Negev",
+      "skin": "Desert-Strike",
+      "price": 2.95
+    },
+    {
+      "string": "Negev, dev_texture, 14,52 kr.webp",
+      "id": 8,
+      "type": "Negev",
+      "skin": "dev_texture",
+      "price": 14.52
+    },
+    {
+      "string": "Negev, Drop Me, 2,95 kr.webp",
+      "id": 9,
+      "type": "Negev",
+      "skin": "Drop Me",
+      "price": 2.95
+    },
+    {
+      "string": "Negev, Infrastructure, 177,35 kr.webp",
+      "id": 10,
+      "type": "Negev",
+      "skin": "Infrastructure",
+      "price": 177.35
+    },
+    {
+      "string": "Negev, Lionfish, 15,06 kr.webp",
+      "id": 11,
+      "type": "Negev",
+      "skin": "Lionfish",
+      "price": 15.06
+    },
+    {
+      "string": "Negev, Loudmouth, 60,35 kr.webp",
+      "id": 12,
+      "type": "Negev",
+      "skin": "Loudmouth",
+      "price": 60.35
+    },
+    {
+      "string": "Negev, Man-o'-war, 1,64 kr.webp",
+      "id": 13,
+      "type": "Negev",
+      "skin": "Man-o'-war",
+      "price": 1.64
+    },
+    {
+      "string": "Negev, Mjölnir, 19644,57 kr.webp",
+      "id": 14,
+      "type": "Negev",
+      "skin": "Mjölnir",
+      "price": 19644.57
+    },
+    {
+      "string": "Negev, Nuclear Waste, 35,14 kr.webp",
+      "id": 15,
+      "type": "Negev",
+      "skin": "Nuclear Waste",
+      "price": 35.14
+    },
+    {
+      "string": "Negev, Palm, 486,42 kr.webp",
+      "id": 16,
+      "type": "Negev",
+      "skin": "Palm",
+      "price": 486.42
+    },
+    {
+      "string": "Negev, Phoenix Stencil, 163,05 kr.webp",
+      "id": 17,
+      "type": "Negev",
+      "skin": "Phoenix Stencil",
+      "price": 163.05
+    },
+    {
+      "string": "Negev, Power Loader, 82,83 kr.webp",
+      "id": 18,
+      "type": "Negev",
+      "skin": "Power Loader",
+      "price": 82.83
+    },
+    {
+      "string": "Negev, Terrain, 7,09 kr.webp",
+      "id": 19,
+      "type": "Negev",
+      "skin": "Terrain",
+      "price": 7.09
+    },
+    {
+      "string": "Negev, Ultralight, 2,18 kr.webp",
+      "id": 20,
+      "type": "Negev",
+      "skin": "Ultralight",
+      "price": 2.18
+    },
+    {
+      "string": "Negev, Prototype, 1,96 kr.webp",
+      "id": 21,
+      "type": "Negev",
+      "skin": "Prototype",
+      "price": 1.96
+    }
+  ],
+  "AK-47": [
+    {
+      "string": "AK-47, Aquamarine Revenge, 1200,61 kr.webp",
+      "id": 0,
+      "type": "AK-47",
+      "skin": "Aquamarine Revenge",
+      "price": 1200.61
+    },
+    {
+      "string": "AK-47, Asiimov, 2524,55 kr.webp",
+      "id": 1,
+      "type": "AK-47",
+      "skin": "Asiimov",
+      "price": 2524.55
+    },
+    {
+      "string": "AK-47, Baroque, 297,18 kr.webp",
+      "id": 2,
+      "type": "AK-47",
+      "skin": "Baroque",
+      "price": 297.18
+    },
+    {
+      "string": "AK-47, Black Laminate, 1821,49 kr.webp",
+      "id": 3,
+      "type": "AK-47",
+      "skin": "Black Laminate",
+      "price": 1821.49
+    },
+    {
+      "string": "AK-47, Bloodsport, 1658,98 kr.webp",
+      "id": 4,
+      "type": "AK-47",
+      "skin": "Bloodsport",
+      "price": 1658.98
+    },
+    {
+      "string": "AK-47, Blue Laminate, 579,30 kr.webp",
+      "id": 5,
+      "type": "AK-47",
+      "skin": "Blue Laminate",
+      "price": 579.3
+    },
+    {
+      "string": "AK-47, Cartel, 316,50 kr.webp",
+      "id": 6,
+      "type": "AK-47",
+      "skin": "Cartel",
+      "price": 316.5
+    },
+    {
+      "string": "AK-47, Case Hardened, 5396,80 kr.webp",
+      "id": 7,
+      "type": "AK-47",
+      "skin": "Case Hardened",
+      "price": 5396.8
+    },
+    {
+      "string": "AK-47, Elite Build, 69,30 kr.webp",
+      "id": 8,
+      "type": "AK-47",
+      "skin": "Elite Build",
+      "price": 69.3
+    },
+    {
+      "string": "AK-47, Emerald Pinstripe, 104,66 kr.webp",
+      "id": 9,
+      "type": "AK-47",
+      "skin": "Emerald Pinstripe",
+      "price": 104.66
+    },
+    {
+      "string": "AK-47, Fire Serpent, 20762,67 kr.webp",
+      "id": 10,
+      "type": "AK-47",
+      "skin": "Fire Serpent",
+      "price": 20762.67
+    },
+    {
+      "string": "AK-47, First Class, 1800,75 kr.webp",
+      "id": 11,
+      "type": "AK-47",
+      "skin": "First Class",
+      "price": 1800.75
+    },
+    {
+      "string": "AK-47, Frontside Misty, 838,06 kr.webp",
+      "id": 12,
+      "type": "AK-47",
+      "skin": "Frontside Misty",
+      "price": 838.06
+    },
+    {
+      "string": "AK-47, Fuel Injector, 5584,73 kr.webp",
+      "id": 13,
+      "type": "AK-47",
+      "skin": "Fuel Injector",
+      "price": 5584.73
+    },
+    {
+      "string": "AK-47, Gold Arabesque, 18544,47 kr.webp",
+      "id": 14,
+      "type": "AK-47",
+      "skin": "Gold Arabesque",
+      "price": 18544.47
+    },
+    {
+      "string": "AK-47, Green Laminate, 290,85 kr.webp",
+      "id": 15,
+      "type": "AK-47",
+      "skin": "Green Laminate",
+      "price": 290.85
+    },
+    {
+      "string": "AK-47, Head Shot, 916,75 kr.webp",
+      "id": 16,
+      "type": "AK-47",
+      "skin": "Head Shot",
+      "price": 916.75
+    },
+    {
+      "string": "AK-47, Hydroponic, 17621,94 kr.webp",
+      "id": 17,
+      "type": "AK-47",
+      "skin": "Hydroponic",
+      "price": 17621.94
+    },
+    {
+      "string": "AK-47, Ice Coaled, 368,12 kr.webp",
+      "id": 18,
+      "type": "AK-47",
+      "skin": "Ice Coaled",
+      "price": 368.12
+    },
+    {
+      "string": "AK-47, Jaguar, 2933,81 kr.webp",
+      "id": 19,
+      "type": "AK-47",
+      "skin": "Jaguar",
+      "price": 2933.81
+    },
+    {
+      "string": "AK-47, Jet Set, 9357,58 kr.webp",
+      "id": 20,
+      "type": "AK-47",
+      "skin": "Jet Set",
+      "price": 9357.58
+    },
+    {
+      "string": "AK-47, Jungle Spray, 1884,68 kr.webp",
+      "id": 21,
+      "type": "AK-47",
+      "skin": "Jungle Spray",
+      "price": 1884.68
+    },
+    {
+      "string": "AK-47, Leet Museo, 887,50 kr.webp",
+      "id": 22,
+      "type": "AK-47",
+      "skin": "Leet Museo",
+      "price": 887.5
+    },
+    {
+      "string": "AK-47, Legion of Anubis, 227,44 kr.webp",
+      "id": 23,
+      "type": "AK-47",
+      "skin": "Legion of Anubis",
+      "price": 227.44
+    },
+    {
+      "string": "AK-47, Neon Revolution, 789,17 kr.webp",
+      "id": 24,
+      "type": "AK-47",
+      "skin": "Neon Revolution",
+      "price": 789.17
+    },
+    {
+      "string": "AK-47, Neon Rider, 1859,03 kr.webp",
+      "id": 25,
+      "type": "AK-47",
+      "skin": "Neon Rider",
+      "price": 1859.03
+    },
+    {
+      "string": "AK-47, Nightwish, 927,77 kr.webp",
+      "id": 26,
+      "type": "AK-47",
+      "skin": "Nightwish",
+      "price": 927.77
+    },
+    {
+      "string": "AK-47, Orbit Mk01, 284,52 kr.webp",
+      "id": 27,
+      "type": "AK-47",
+      "skin": "Orbit Mk01",
+      "price": 284.52
+    },
+    {
+      "string": "AK-47, Panthera onca, 4188,11 kr.webp",
+      "id": 28,
+      "type": "AK-47",
+      "skin": "Panthera onca",
+      "price": 4188.11
+    },
+    {
+      "string": "AK-47, Phantom Disruptor, 131,84 kr.webp",
+      "id": 29,
+      "type": "AK-47",
+      "skin": "Phantom Disruptor",
+      "price": 131.84
+    },
+    {
+      "string": "AK-47, Point Disarray, 398,57 kr.webp",
+      "id": 30,
+      "type": "AK-47",
+      "skin": "Point Disarray",
+      "price": 398.57
+    },
+    {
+      "string": "AK-47, Predator, 695,85 kr.webp",
+      "id": 31,
+      "type": "AK-47",
+      "skin": "Predator",
+      "price": 695.85
+    },
+    {
+      "string": "AK-47, Rat Rod, 157,92 kr.webp",
+      "id": 32,
+      "type": "AK-47",
+      "skin": "Rat Rod",
+      "price": 157.92
+    },
+    {
+      "string": "AK-47, Red Laminate, 4669,08 kr.webp",
+      "id": 33,
+      "type": "AK-47",
+      "skin": "Red Laminate",
+      "price": 4669.08
+    },
+    {
+      "string": "AK-47, Redline, 1117,99 kr.webp",
+      "id": 34,
+      "type": "AK-47",
+      "skin": "Redline",
+      "price": 1117.99
+    },
+    {
+      "string": "AK-47, Safari Mesh, 28,92 kr.webp",
+      "id": 35,
+      "type": "AK-47",
+      "skin": "Safari Mesh",
+      "price": 28.92
+    },
+    {
+      "string": "AK-47, Safety Net, 93,20 kr.webp",
+      "id": 36,
+      "type": "AK-47",
+      "skin": "Safety Net",
+      "price": 93.2
+    },
+    {
+      "string": "AK-47, Slate, 133,80 kr.webp",
+      "id": 37,
+      "type": "AK-47",
+      "skin": "Slate",
+      "price": 133.8
+    },
+    {
+      "string": "AK-47, Steel Delta, 34,49 kr.webp",
+      "id": 38,
+      "type": "AK-47",
+      "skin": "Steel Delta",
+      "price": 34.49
+    },
+    {
+      "string": "AK-47, The Empress, 1597,43 kr.webp",
+      "id": 39,
+      "type": "AK-47",
+      "skin": "The Empress",
+      "price": 1597.43
+    },
+    {
+      "string": "AK-47, Uncharted, 15,06 kr.webp",
+      "id": 40,
+      "type": "AK-47",
+      "skin": "Uncharted",
+      "price": 15.06
+    },
+    {
+      "string": "AK-47, Vulcan, 10802,33 kr.webp",
+      "id": 41,
+      "type": "AK-47",
+      "skin": "Vulcan",
+      "price": 10802.33
+    },
+    {
+      "string": "AK-47, Wasteland Rebel, 3120,32 kr.webp",
+      "id": 42,
+      "type": "AK-47",
+      "skin": "Wasteland Rebel",
+      "price": 3120.32
+    },
+    {
+      "string": "AK-47, Wild Lotus, 15631,18 kr.webp",
+      "id": 43,
+      "type": "AK-47",
+      "skin": "Wild Lotus",
+      "price": 15631.18
+    },
+    {
+      "string": "AK-47, X-ray, 21156,77 kr.webp",
+      "id": 44,
+      "type": "AK-47",
+      "skin": "X-ray",
+      "price": 21156.77
     }
   ]
 }
