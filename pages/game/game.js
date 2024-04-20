@@ -91,19 +91,19 @@ function changeItems() {
     RightDisplay.querySelector(".item-type").innerHTML = RightItem.type;
     RightDisplay.querySelector(".item-skin").innerHTML = RightItem.skin;
 
-    // Wait 100 ms so the images are loaded
+    // Wait 50 ms so the images are loaded
     setTimeout(() => {
         document.querySelectorAll(".item-img").forEach((img) => {
             img.style.width = "auto";
             img.style.height = "100%";
 
             // If the image is too wide its size depends on the display's width instead of hight 
-            if (img.offsetLeft < 0 || (window.innerWidth - img.offsetLeft - img.offsetWidth) <= 0) {
+            if (img.offsetWidth > LeftDisplay.offsetWidth) {
                 img.style.height = "auto";
                 img.style.width = "100%";
             }
         });
-    }, 100);
+    }, 50);
 }
 
 /**
@@ -154,9 +154,11 @@ function guess(higher) {
             score++;
             const ScoreDisplay = document.getElementById("score");
             ScoreDisplay.innerHTML = "Score: "+score;
-            ScoreDisplay.style.fontSize = "45px";       // Expand
+
+            const ScoreFonstSize = window.getComputedStyle(ScoreDisplay).getPropertyValue('font-size');
+            ScoreDisplay.style.fontSize = parseFloat(ScoreFonstSize)*2 + "px"; // Expand
             setTimeout(() => {
-                ScoreDisplay.style.fontSize = "32px";   // Retract
+                ScoreDisplay.style.fontSize = ScoreFonstSize;                   // Retract
             }, 300);
 
             // Wait and then change items and show buttons again
@@ -183,7 +185,7 @@ function getPrice(sek) {
             return (sek/11.301).toFixed(2) + " &#8364;";
         case "SEK":
             return sek.toFixed(2) + " kr";
-        default:
+        default: // USD
             return "&#36;" + (sek/10.476).toFixed(2);
     }
 }
@@ -201,7 +203,7 @@ function finishGame() {
     BodyStyle.transition = FadingTime/1000 + "s";
     BodyStyle.backgroundColor = "var(--red)";
 
-    // Wait and then open the result page
+    // Wait before opening the result page
     setTimeout(() => {
         window.open("/pages/results/results.html", "_self");
     }, FadingTime);
