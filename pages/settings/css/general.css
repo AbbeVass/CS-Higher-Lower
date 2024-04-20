@@ -10,7 +10,6 @@
 body {
     margin: 0;
     background-color: var(--background);
-    font-family: Counter-Strike;
     display: flex;
     justify-content: center;
     align-items: center;

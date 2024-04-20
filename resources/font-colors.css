@@ -9,3 +9,7 @@
     --text: #dadada;
     --red: #b00000;
 }
+
+body {
+    font-family: Counter-Strike, Arial;
+}
