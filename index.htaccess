@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ /pages/home/home.html [L]
