@@ -93,19 +93,26 @@ function changeItems() {
     RightDisplay.querySelector(".item-type").innerHTML = RightItem.type;
     RightDisplay.querySelector(".item-skin").innerHTML = RightItem.skin;
 
-    // Wait 50 ms so the images are loaded
-    setTimeout(() => {
-        document.querySelectorAll(".item-img").forEach((img) => {
+    document.querySelectorAll(".item-img").forEach((img) => {
+        function imgLoaded() {
             img.style.width = "auto";
             img.style.height = "100%";
-
+    
             // If the image is too wide its size depends on the display's width instead of hight 
             if (img.offsetWidth > LeftDisplay.offsetWidth) {
                 img.style.height = "auto";
                 img.style.width = "100%";
             }
-        });
-    }, 50);
+        }
+    
+        if (img.complete) {
+            imgLoaded();
+        } else {
+            img.addEventListener('load', imgLoaded);
+        }
+    });
+
+    
 }
 
 /**
