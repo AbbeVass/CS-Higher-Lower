@@ -3,7 +3,7 @@ const Score = localStorage.getItem("score");
 // If there's not a score from a completed game
 if (!Score) {
     alert("Could not find a completed game. You will be directed to the home page.");
-    window.open("/pages/home/index.html", "_self");
+    window.open("./../home/home.html", "_self");
 }
 
 // Get the high score if all weapons are in play

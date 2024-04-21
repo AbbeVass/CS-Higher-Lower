@@ -1,23 +1,24 @@
 const MenuDiv = document.getElementById("weaponsMenu");
+const DataPath = "./../../items/data/";
 
 // Get all items and the category structure
 let categories;
 let categoryKeys;
 let items;
-fetch(`/items/data/categories.json`)
+fetch(DataPath + "categories.json")
     .then(response => response.json())
     .then(data => {
         categories = data;
         categoryKeys = Object.keys(categories);
-        fetch(`/items/data/items-data.json`)
+        fetch(DataPath + "items-data.json")
         .then(response => response.json())
         .then(data => {
             items = data;
             setup(); // Run the setup after the data is fetched
         })
-        .catch(error => console.error('Error fetching items:', error));
+        .catch(error => console.error("Error fetching items:", error));
     })
-    .catch(error => console.error('Error fetching items:', error));
+    .catch(error => console.error("Error fetching items:", error));
 
 /**
  * Set up the menu with all existing items and their categories

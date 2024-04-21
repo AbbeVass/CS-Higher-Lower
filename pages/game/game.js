@@ -1,4 +1,4 @@
-const ImgPath = "/items/img/";
+const ImgPath = "./../../items/img/";
 
 let settings = JSON.parse(localStorage.getItem("settings"));
 if (settings === null) {
@@ -10,7 +10,7 @@ if (settings === null) {
 } 
 
 let allItems;
-fetch(`/items/data/items-data.json`)
+fetch(`./../../items/data/items-data.json`)
     .then(response => response.json())
     .then(data => {
         allItems = data;
@@ -207,6 +207,6 @@ function finishGame() {
 
     // Wait before opening the result page
     setTimeout(() => {
-        window.open("/pages/results/results.html", "_self");
+        window.open("./../results/results.html", "_self");
     }, FadingTime);
 }
