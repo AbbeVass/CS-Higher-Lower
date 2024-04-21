@@ -2,7 +2,7 @@ const LinkWhenLong = "The Much Longer Title"
 const LinkWhenShort = "The Short Title";
 
 const ShortTitle = "CS2 Higher Lower Game";
-const LongTitle = "A Higher Lower Game with CS2 Weapons and their Skins where You have to Guess which one is more Expensive<span class='sub-title'>BASED ON PRICES FROM 2024</span>";
+const LongTitle = "A Higher Lower Game with CS2 Weapons and their Skins where You have to Guess which one is more Expensive<span class='sub-title'>BASED ON PRICES FROM EARLY 2024</span>";
 
 let currentTitle = "Short";
 function changeTitle(customT = null, customL = null) {

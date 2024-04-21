@@ -1,11 +1,13 @@
 const ImgPath = "/items/img/";
 
-let settings;
-try {
-    settings = JSON.parse(localStorage.getItem("settings"));
-} catch {
-    settings = {};
-}
+let settings = JSON.parse(localStorage.getItem("settings"));
+if (settings === null) {
+    settings = {
+        currency: "USD",
+        lightmode: false,
+        items: "All items"
+    }
+} 
 
 let allItems;
 fetch(`/items/data/items-data.json`)
@@ -25,14 +27,14 @@ let possibleItems = []; // Only the keys
  */
 function setup() {
     // Add choosen items if the stored settings are correct
-    if (settings.items && typeof settings.items === "object") {
+    if (typeof settings.items === "object") {
         for (let item of settings.items) {
             if (Object.keys(allItems).includes(item)) {
                 possibleItems.push(item);
             }
         }
     }
-    else { // If there's no settings, all items will be set as possible
+    else { // Set all items as possible
         possibleItems = Object.keys(allItems);
     }
 

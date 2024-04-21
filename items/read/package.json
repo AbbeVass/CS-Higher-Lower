@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "console-colors": "^1.0.1",
+    "node-console-colors": "^1.1.5",
     "require": "^0.4.4"
   }
 }

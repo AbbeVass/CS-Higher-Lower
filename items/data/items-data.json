@@ -5,224 +5,256 @@
       "id": 0,
       "type": "CZ75-Auto",
       "skin": "Army Sheen",
-      "price": 34.06
+      "price": 34.06,
+      "link": "https://i.postimg.cc/htBBy3BN/0.webp"
     },
     {
       "string": "CZ75-Auto, Chalice, 4808,70 kr.webp",
       "id": 1,
       "type": "CZ75-Auto",
       "skin": "Chalice",
-      "price": 4808.7
+      "price": 4808.7,
+      "link": "https://i.postimg.cc/rpyLc0zJ/1.webp"
     },
     {
       "string": "CZ75-Auto, Circaetus, 5,55 kr.webp",
       "id": 2,
       "type": "CZ75-Auto",
       "skin": "Circaetus",
-      "price": 5.55
+      "price": 5.55,
+      "link": "https://i.postimg.cc/fRK6Hz50/2.webp"
     },
     {
       "string": "CZ75-Auto, Crimson Web, 188,66 kr.webp",
       "id": 3,
       "type": "CZ75-Auto",
       "skin": "Crimson Web",
-      "price": 188.66
+      "price": 188.66,
+      "link": "https://i.postimg.cc/13rZLcRX/3.webp"
     },
     {
       "string": "CZ75-Auto, Distressed, 2,20 kr.webp",
       "id": 4,
       "type": "CZ75-Auto",
       "skin": "Distressed",
-      "price": 2.2
+      "price": 2.2,
+      "link": "https://i.postimg.cc/m2QxHNHj/4.webp"
     },
     {
       "string": "CZ75-Auto, Eco, 31,97 kr.webp",
       "id": 5,
       "type": "CZ75-Auto",
       "skin": "Eco",
-      "price": 31.97
+      "price": 31.97,
+      "link": "https://i.postimg.cc/tC0QJmY7/5.webp"
     },
     {
       "string": "CZ75-Auto, Emerald Quartz, 1045,80 kr.webp",
       "id": 6,
       "type": "CZ75-Auto",
       "skin": "Emerald Quartz",
-      "price": 1045.8
+      "price": 1045.8,
+      "link": "https://i.postimg.cc/prFwkK12/6.webp"
     },
     {
       "string": "CZ75-Auto, Emerald, 279,01 kr.webp",
       "id": 7,
       "type": "CZ75-Auto",
       "skin": "Emerald",
-      "price": 279.01
+      "price": 279.01,
+      "link": "https://i.postimg.cc/NG2vgwGW/7.webp"
     },
     {
       "string": "CZ75-Auto, Framework, 8,38 kr.webp",
       "id": 8,
       "type": "CZ75-Auto",
       "skin": "Framework",
-      "price": 8.38
+      "price": 8.38,
+      "link": "https://i.postimg.cc/8598hZ4K/8.webp"
     },
     {
       "string": "CZ75-Auto, Green Plaid, 39,30 kr.webp",
       "id": 9,
       "type": "CZ75-Auto",
       "skin": "Green Plaid",
-      "price": 39.3
+      "price": 39.3,
+      "link": "https://i.postimg.cc/25HN5kZf/9.webp"
     },
     {
       "string": "CZ75-Auto, Hexane, 55,76 kr.webp",
       "id": 10,
       "type": "CZ75-Auto",
       "skin": "Hexane",
-      "price": 55.76
+      "price": 55.76,
+      "link": "https://i.postimg.cc/63yJ2kr4/10.webp"
     },
     {
       "string": "CZ75-Auto, Imprint, 3,88 kr.webp",
       "id": 11,
       "type": "CZ75-Auto",
       "skin": "Imprint",
-      "price": 3.88
+      "price": 3.88,
+      "link": "https://i.postimg.cc/kXNZ4J0h/11.webp"
     },
     {
       "string": "CZ75-Auto, Indigo, 47,48 kr.webp",
       "id": 12,
       "type": "CZ75-Auto",
       "skin": "Indigo",
-      "price": 47.48
+      "price": 47.48,
+      "link": "https://i.postimg.cc/K8F6rk72/12.webp"
     },
     {
       "string": "CZ75-Auto, Jungle Dashed, 17,08 kr.webp",
       "id": 13,
       "type": "CZ75-Auto",
       "skin": "Jungle Dashed",
-      "price": 17.08
+      "price": 17.08,
+      "link": "https://i.postimg.cc/xd1BhwFp/13.webp"
     },
     {
       "string": "CZ75-Auto, Midnight Palm, 28,82 kr.webp",
       "id": 14,
       "type": "CZ75-Auto",
       "skin": "Midnight Palm",
-      "price": 28.82
+      "price": 28.82,
+      "link": "https://i.postimg.cc/0Q6F2pvp/14.webp"
     },
     {
       "string": "CZ75-Auto, Nitro, 584,84 kr.webp",
       "id": 15,
       "type": "CZ75-Auto",
       "skin": "Nitro",
-      "price": 584.84
+      "price": 584.84,
+      "link": "https://i.postimg.cc/d0NgY5bs/15.webp"
     },
     {
       "string": "CZ75-Auto, Poison Dart, 90,77 kr.webp",
       "id": 16,
       "type": "CZ75-Auto",
       "skin": "Poison Dart",
-      "price": 90.77
+      "price": 90.77,
+      "link": "https://i.postimg.cc/V63TSds2/16.webp"
     },
     {
       "string": "CZ75-Auto, Pole Position, 21,59 kr.webp",
       "id": 17,
       "type": "CZ75-Auto",
       "skin": "Pole Position",
-      "price": 21.59
+      "price": 21.59,
+      "link": "https://i.postimg.cc/L6Fw2Yb1/17.webp"
     },
     {
       "string": "CZ75-Auto, Polymer, 2,83 kr.webp",
       "id": 18,
       "type": "CZ75-Auto",
       "skin": "Polymer",
-      "price": 2.83
+      "price": 2.83,
+      "link": "https://i.postimg.cc/NFmnRB5F/18.webp"
     },
     {
       "string": "CZ75-Auto, Red Astor, 15,20 kr.webp",
       "id": 19,
       "type": "CZ75-Auto",
       "skin": "Red Astor",
-      "price": 15.2
+      "price": 15.2,
+      "link": "https://i.postimg.cc/xjzhwytQ/19.webp"
     },
     {
       "string": "CZ75-Auto, Silver, 11,42 kr.webp",
       "id": 20,
       "type": "CZ75-Auto",
       "skin": "Silver",
-      "price": 11.42
+      "price": 11.42,
+      "link": "https://i.postimg.cc/K8ZWgXFc/20.webp"
     },
     {
       "string": "CZ75-Auto, Syndicate, 81,65 kr.webp",
       "id": 21,
       "type": "CZ75-Auto",
       "skin": "Syndicate",
-      "price": 81.65
+      "price": 81.65,
+      "link": "https://i.postimg.cc/bw3Bx6Nx/21.webp"
     },
     {
       "string": "CZ75-Auto, Tacticat, 17,29 kr.webp",
       "id": 22,
       "type": "CZ75-Auto",
       "skin": "Tacticat",
-      "price": 17.29
+      "price": 17.29,
+      "link": "https://i.postimg.cc/rsXnV3Qk/22.webp"
     },
     {
       "string": "CZ75-Auto, The Fuschia Is Now, 657,79 kr.webp",
       "id": 23,
       "type": "CZ75-Auto",
       "skin": "The Fuschia Is Now",
-      "price": 657.79
+      "price": 657.79,
+      "link": "https://i.postimg.cc/1zXYJpfL/23.webp"
     },
     {
       "string": "CZ75-Auto, Tigris, 19,91 kr.webp",
       "id": 24,
       "type": "CZ75-Auto",
       "skin": "Tigris",
-      "price": 19.91
+      "price": 19.91,
+      "link": "https://i.postimg.cc/qByDbBvM/24.webp"
     },
     {
       "string": "CZ75-Auto, Tread Plate, 77,35 kr.webp",
       "id": 25,
       "type": "CZ75-Auto",
       "skin": "Tread Plate",
-      "price": 77.35
+      "price": 77.35,
+      "link": "https://i.postimg.cc/hj7Zqc8s/25.webp"
     },
     {
       "string": "CZ75-Auto, Tuxedo, 12,58 kr.webp",
       "id": 26,
       "type": "CZ75-Auto",
       "skin": "Tuxedo",
-      "price": 12.58
+      "price": 12.58,
+      "link": "https://i.postimg.cc/TPsNSpbh/26.webp"
     },
     {
       "string": "CZ75-Auto, Twist, 23,27 kr.webp",
       "id": 27,
       "type": "CZ75-Auto",
       "skin": "Twist",
-      "price": 23.27
+      "price": 23.27,
+      "link": "https://i.postimg.cc/zvCdV7cR/27.webp"
     },
     {
       "string": "CZ75-Auto, Vendetta, 9,85 kr.webp",
       "id": 28,
       "type": "CZ75-Auto",
       "skin": "Vendetta",
-      "price": 9.85
+      "price": 9.85,
+      "link": "https://i.postimg.cc/TYx7Z8Kj/28.webp"
     },
     {
       "string": "CZ75-Auto, Victoria, 139,29 kr.webp",
       "id": 29,
       "type": "CZ75-Auto",
       "skin": "Victoria",
-      "price": 139.29
+      "price": 139.29,
+      "link": "https://i.postimg.cc/CL4P0v83/29.webp"
     },
     {
       "string": "CZ75-Auto, Xiangliu, 135,52 kr.webp",
       "id": 30,
       "type": "CZ75-Auto",
       "skin": "Xiangliu",
-      "price": 135.52
+      "price": 135.52,
+      "link": "https://i.postimg.cc/3xJLxgCd/30.webp"
     },
     {
       "string": "CZ75-Auto, Yellow Jacket, 121,48 kr.webp",
       "id": 31,
       "type": "CZ75-Auto",
       "skin": "Yellow Jacket",
-      "price": 121.48
+      "price": 121.48,
+      "link": "https://i.postimg.cc/kg1T6Bfw/31.webp"
     }
   ],
   "Desert Eagle": [
@@ -231,245 +263,280 @@
       "id": 0,
       "type": "Desert Eagle",
       "skin": "Blaze",
-      "price": 6591.14
+      "price": 6591.14,
+      "link": "https://i.postimg.cc/0QqDbvRc/0.webp"
     },
     {
       "string": "Desert Eagle, Blue Ply, 11,21 kr.webp",
       "id": 1,
       "type": "Desert Eagle",
       "skin": "Blue Ply",
-      "price": 11.21
+      "price": 11.21,
+      "link": "https://i.postimg.cc/jdkfyPYW/1.webp"
     },
     {
       "string": "Desert Eagle, Bronze Deco, 6,71 kr.webp",
       "id": 2,
       "type": "Desert Eagle",
       "skin": "Bronze Deco",
-      "price": 6.71
+      "price": 6.71,
+      "link": "https://i.postimg.cc/k49R7yKH/2.webp"
     },
     {
       "string": "Desert Eagle, Cobalt Disruption, 867,29 kr.webp",
       "id": 3,
       "type": "Desert Eagle",
       "skin": "Cobalt Disruption",
-      "price": 867.29
+      "price": 867.29,
+      "link": "https://i.postimg.cc/C1HD82wY/3.webp"
     },
     {
       "string": "Desert Eagle, Code Red, 738,53 kr.webp",
       "id": 4,
       "type": "Desert Eagle",
       "skin": "Code Red",
-      "price": 738.53
+      "price": 738.53,
+      "link": "https://i.postimg.cc/3Jwpy9V5/4.webp"
     },
     {
       "string": "Desert Eagle, Conspiracy, 92,55 kr.webp",
       "id": 5,
       "type": "Desert Eagle",
       "skin": "Conspiracy",
-      "price": 92.55
+      "price": 92.55,
+      "link": "https://i.postimg.cc/BbmKY18V/5.webp"
     },
     {
       "string": "Desert Eagle, Corinthian, 7,13 kr.webp",
       "id": 6,
       "type": "Desert Eagle",
       "skin": "Corinthian",
-      "price": 7.13
+      "price": 7.13,
+      "link": "https://i.postimg.cc/JzDkx0Rp/6.webp"
     },
     {
       "string": "Desert Eagle, Crimson Web, 1080,06 kr.webp",
       "id": 7,
       "type": "Desert Eagle",
       "skin": "Crimson Web",
-      "price": 1080.06
+      "price": 1080.06,
+      "link": "https://i.postimg.cc/pdKnNSh8/7.webp"
     },
     {
       "string": "Desert Eagle, Directive, 98,01 kr.webp",
       "id": 8,
       "type": "Desert Eagle",
       "skin": "Directive",
-      "price": 98.01
+      "price": 98.01,
+      "link": "https://i.postimg.cc/Df6LyRCP/8.webp"
     },
     {
       "string": "Desert Eagle, Emerald Jörmungandr, 3667,20 kr.webp",
       "id": 9,
       "type": "Desert Eagle",
       "skin": "Emerald Jörmungandr",
-      "price": 3667.2
+      "price": 3667.2,
+      "link": "https://i.postimg.cc/J0rX5QhX/9.webp"
     },
     {
       "string": "Desert Eagle, Fennec Fox, 4941,91 kr.webp",
       "id": 10,
       "type": "Desert Eagle",
       "skin": "Fennec Fox",
-      "price": 4941.91
+      "price": 4941.91,
+      "link": "https://i.postimg.cc/3NxyvJLC/10.webp"
     },
     {
       "string": "Desert Eagle, Golden Koi, 908 kr.webp",
       "id": 11,
       "type": "Desert Eagle",
       "skin": "Golden Koi",
-      "price": 908
+      "price": 908,
+      "link": "https://i.postimg.cc/Kjp1rSwX/11.webp"
     },
     {
       "string": "Desert Eagle, Hand Cannon, 5763,62 kr.webp",
       "id": 12,
       "type": "Desert Eagle",
       "skin": "Hand Cannon",
-      "price": 5763.62
+      "price": 5763.62,
+      "link": "https://i.postimg.cc/59sQML0P/12.webp"
     },
     {
       "string": "Desert Eagle, Heirloom, 151,11 kr.webp",
       "id": 13,
       "type": "Desert Eagle",
       "skin": "Heirloom",
-      "price": 151.11
+      "price": 151.11,
+      "link": "https://i.postimg.cc/TYhL215T/13.webp"
     },
     {
       "string": "Desert Eagle, Hypnotic, 998,56 kr.webp",
       "id": 14,
       "type": "Desert Eagle",
       "skin": "Hypnotic",
-      "price": 998.56
+      "price": 998.56,
+      "link": "https://i.postimg.cc/6302qGhp/14.webp"
     },
     {
       "string": "Desert Eagle, Kumicho Dragon, 338,94 kr.webp",
       "id": 15,
       "type": "Desert Eagle",
       "skin": "Kumicho Dragon",
-      "price": 338.94
+      "price": 338.94,
+      "link": "https://i.postimg.cc/7Z257RNc/15.webp"
     },
     {
       "string": "Desert Eagle, Light Rail, 41,24 kr.webp",
       "id": 16,
       "type": "Desert Eagle",
       "skin": "Light Rail",
-      "price": 41.24
+      "price": 41.24,
+      "link": "https://i.postimg.cc/CLtZR0bk/16.webp"
     },
     {
       "string": "Desert Eagle, Mecha Industries, 94,55 kr.webp",
       "id": 17,
       "type": "Desert Eagle",
       "skin": "Mecha Industries",
-      "price": 94.55
+      "price": 94.55,
+      "link": "https://i.postimg.cc/KcpjWbqw/17.webp"
     },
     {
       "string": "Desert Eagle, Meteorite, 12,57 kr.webp",
       "id": 18,
       "type": "Desert Eagle",
       "skin": "Meteorite",
-      "price": 12.57
+      "price": 12.57,
+      "link": "https://i.postimg.cc/MGJvYYPG/18.webp"
     },
     {
       "string": "Desert Eagle, Midnight Storm, 261,76 kr.webp",
       "id": 19,
       "type": "Desert Eagle",
       "skin": "Midnight Storm",
-      "price": 261.76
+      "price": 261.76,
+      "link": "https://i.postimg.cc/Px2JTntL/19.webp"
     },
     {
       "string": "Desert Eagle, Mudder, 6,08 kr.webp",
       "id": 20,
       "type": "Desert Eagle",
       "skin": "Mudder",
-      "price": 6.08
+      "price": 6.08,
+      "link": "https://i.postimg.cc/25d39BM7/20.webp"
     },
     {
       "string": "Desert Eagle, Naga, 65,69 kr.webp",
       "id": 21,
       "type": "Desert Eagle",
       "skin": "Naga",
-      "price": 65.69
+      "price": 65.69,
+      "link": "https://i.postimg.cc/ZnnRqsRw/21.webp"
     },
     {
       "string": "Desert Eagle, Night Heist, 136,23 kr.webp",
       "id": 22,
       "type": "Desert Eagle",
       "skin": "Night Heist",
-      "price": 136.23
+      "price": 136.23,
+      "link": "https://i.postimg.cc/SRPKYLYk/22.webp"
     },
     {
       "string": "Desert Eagle, Night, 729,33 kr.webp",
       "id": 23,
       "type": "Desert Eagle",
       "skin": "Night",
-      "price": 729.33
+      "price": 729.33,
+      "link": "https://i.postimg.cc/B6qbrnG9/23.webp"
     },
     {
       "string": "Desert Eagle, Ocean Drive, 1517,67 kr.webp",
       "id": 24,
       "type": "Desert Eagle",
       "skin": "Ocean Drive",
-      "price": 1517.67
+      "price": 1517.67,
+      "link": "https://i.postimg.cc/dt73Pfg1/24.webp"
     },
     {
       "string": "Desert Eagle, Oxid Blaze, 4,19 kr.webp",
       "id": 25,
       "type": "Desert Eagle",
       "skin": "Oxid Blaze",
-      "price": 4.19
+      "price": 4.19,
+      "link": "https://i.postimg.cc/fT6LwKhv/25.webp"
     },
     {
       "string": "Desert Eagle, Pilot, 1479,94 kr.webp",
       "id": 26,
       "type": "Desert Eagle",
       "skin": "Pilot",
-      "price": 1479.94
+      "price": 1479.94,
+      "link": "https://i.postimg.cc/Qd1MVT8Z/26.webp"
     },
     {
       "string": "Desert Eagle, Printstream, 968,97 kr.webp",
       "id": 27,
       "type": "Desert Eagle",
       "skin": "Printstream",
-      "price": 968.97
+      "price": 968.97,
+      "link": "https://i.postimg.cc/LsS8P85Y/27.webp"
     },
     {
       "string": "Desert Eagle, Sputnik, 18,97 kr.webp",
       "id": 28,
       "type": "Desert Eagle",
       "skin": "Sputnik",
-      "price": 18.97
+      "price": 18.97,
+      "link": "https://i.postimg.cc/Pxrf6Vmd/28.webp"
     },
     {
       "string": "Desert Eagle, Sunset Storm 壱, 2956,63 kr.webp",
       "id": 29,
       "type": "Desert Eagle",
       "skin": "Sunset Storm 壱",
-      "price": 2956.63
+      "price": 2956.63,
+      "link": "https://i.postimg.cc/C1Ph9CNk/29.webp"
     },
     {
       "string": "Desert Eagle, Sunset Storm 弐, 2942,27 kr.webp",
       "id": 30,
       "type": "Desert Eagle",
       "skin": "Sunset Storm 弐",
-      "price": 2942.27
+      "price": 2942.27,
+      "link": "https://i.postimg.cc/J0sr8y6g/30.webp"
     },
     {
       "string": "Desert Eagle, The Bronze, 40,34 kr.webp",
       "id": 31,
       "type": "Desert Eagle",
       "skin": "The Bronze",
-      "price": 40.34
+      "price": 40.34,
+      "link": "https://i.postimg.cc/GpjhxnTM/31.webp"
     },
     {
       "string": "Desert Eagle, Trigger Discipline, 24,55 kr.webp",
       "id": 32,
       "type": "Desert Eagle",
       "skin": "Trigger Discipline",
-      "price": 24.55
+      "price": 24.55,
+      "link": "https://i.postimg.cc/tRcR557H/32.webp"
     },
     {
       "string": "Desert Eagle, Urban DDPAT, 174,37 kr.webp",
       "id": 33,
       "type": "Desert Eagle",
       "skin": "Urban DDPAT",
-      "price": 174.37
+      "price": 174.37,
+      "link": "https://i.postimg.cc/Rh2MZM20/33.webp"
     },
     {
       "string": "Desert Eagle, Urban Rubble, 5,87 kr.webp",
       "id": 34,
       "type": "Desert Eagle",
       "skin": "Urban Rubble",
-      "price": 5.87
+      "price": 5.87,
+      "link": "https://i.postimg.cc/kXtJhbtR/34.webp"
     }
   ],
   "Dual Berettas": [
@@ -478,238 +545,272 @@
       "id": 0,
       "type": "Dual Berettas",
       "skin": "Anodized Navy",
-      "price": 20.69
+      "price": 20.69,
+      "link": "https://i.postimg.cc/V6dvfH5D/0.webp"
     },
     {
       "string": "Dual Berettas, Balance, 21,83 kr.webp",
       "id": 1,
       "type": "Dual Berettas",
       "skin": "Balance",
-      "price": 21.83
+      "price": 21.83,
+      "link": "https://i.postimg.cc/6qC9TsKL/1.webp"
     },
     {
       "string": "Dual Berettas, Black Limba, 196,40 kr.webp",
       "id": 2,
       "type": "Dual Berettas",
       "skin": "Black Limba",
-      "price": 196.4
+      "price": 196.4,
+      "link": "https://i.postimg.cc/K8f8nyM0/2.webp"
     },
     {
       "string": "Dual Berettas, Briar, 50,74 kr.webp",
       "id": 3,
       "type": "Dual Berettas",
       "skin": "Briar",
-      "price": 50.74
+      "price": 50.74,
+      "link": "https://i.postimg.cc/Y9Z9hfWk/3.webp"
     },
     {
       "string": "Dual Berettas, Cartel, 15,28 kr.webp",
       "id": 4,
       "type": "Dual Berettas",
       "skin": "Cartel",
-      "price": 15.28
+      "price": 15.28,
+      "link": "https://i.postimg.cc/bNXrPgP9/4.webp"
     },
     {
       "string": "Dual Berettas, Cobalt Quartz, 2,70 kr.webp",
       "id": 5,
       "type": "Dual Berettas",
       "skin": "Cobalt Quartz",
-      "price": 2.7
+      "price": 2.7,
+      "link": "https://i.postimg.cc/T251BSzP/5.webp"
     },
     {
       "string": "Dual Berettas, Cobra Strike, 668,85 kr.webp",
       "id": 6,
       "type": "Dual Berettas",
       "skin": "Cobra Strike",
-      "price": 668.85
+      "price": 668.85,
+      "link": "https://i.postimg.cc/HkdLcLVJ/6.webp"
     },
     {
       "string": "Dual Berettas, Colony, 0,83 kr.webp",
       "id": 7,
       "type": "Dual Berettas",
       "skin": "Colony",
-      "price": 0.83
+      "price": 0.83,
+      "link": "https://i.postimg.cc/nrmL7j4m/7.webp"
     },
     {
       "string": "Dual Berettas, Contractor, 0,73 kr.webp",
       "id": 8,
       "type": "Dual Berettas",
       "skin": "Contractor",
-      "price": 0.73
+      "price": 0.73,
+      "link": "https://i.postimg.cc/7Yg6ZzY8/8.webp"
     },
     {
       "string": "Dual Berettas, Demolition, 135,06 kr.webp",
       "id": 9,
       "type": "Dual Berettas",
       "skin": "Demolition",
-      "price": 135.06
+      "price": 135.06,
+      "link": "https://i.postimg.cc/PqqryFbT/9.webp"
     },
     {
       "string": "Dual Berettas, Dezastre, 22,77 kr.webp",
       "id": 10,
       "type": "Dual Berettas",
       "skin": "Dezastre",
-      "price": 22.77
+      "price": 22.77,
+      "link": "https://i.postimg.cc/q7ZB5XQn/10.webp"
     },
     {
       "string": "Dual Berettas, Drift Wood, 27,86 kr.webp",
       "id": 11,
       "type": "Dual Berettas",
       "skin": "Drift Wood",
-      "price": 27.86
+      "price": 27.86,
+      "link": "https://i.postimg.cc/bJDYcDF5/11.webp"
     },
     {
       "string": "Dual Berettas, Dualing Dragons, 20,48 kr.webp",
       "id": 12,
       "type": "Dual Berettas",
       "skin": "Dualing Dragons",
-      "price": 20.48
+      "price": 20.48,
+      "link": "https://i.postimg.cc/d1bsqsbV/12.webp"
     },
     {
       "string": "Dual Berettas, Duelist, 1428,67 kr.webp",
       "id": 13,
       "type": "Dual Berettas",
       "skin": "Duelist",
-      "price": 1428.67
+      "price": 1428.67,
+      "link": "https://i.postimg.cc/jdQxbrZR/13.webp"
     },
     {
       "string": "Dual Berettas, Elite 1.6, 2,91 kr.webp",
       "id": 14,
       "type": "Dual Berettas",
       "skin": "Elite 1.6",
-      "price": 2.91
+      "price": 2.91,
+      "link": "https://i.postimg.cc/Qxr8wMg6/14.webp"
     },
     {
       "string": "Dual Berettas, Emerald, 349,34 kr.webp",
       "id": 15,
       "type": "Dual Berettas",
       "skin": "Emerald",
-      "price": 349.34
+      "price": 349.34,
+      "link": "https://i.postimg.cc/QN7Nf779/15.webp"
     },
     {
       "string": "Dual Berettas, Flora Carnivora, 22,77 kr.webp",
       "id": 16,
       "type": "Dual Berettas",
       "skin": "Flora Carnivora",
-      "price": 22.77
+      "price": 22.77,
+      "link": "https://i.postimg.cc/bwyzYFBk/16.webp"
     },
     {
       "string": "Dual Berettas, Heist, 4,47 kr.webp",
       "id": 17,
       "type": "Dual Berettas",
       "skin": "Heist",
-      "price": 4.47
+      "price": 4.47,
+      "link": "https://i.postimg.cc/MHJSCsBc/17.webp"
     },
     {
       "string": "Dual Berettas, Hemoglobin, 109,59 kr.webp",
       "id": 18,
       "type": "Dual Berettas",
       "skin": "Hemoglobin",
-      "price": 109.59
+      "price": 109.59,
+      "link": "https://i.postimg.cc/52sfXqhG/18.webp"
     },
     {
       "string": "Dual Berettas, Melondrama, 68,93 kr.webp",
       "id": 19,
       "type": "Dual Berettas",
       "skin": "Melondrama",
-      "price": 68.93
+      "price": 68.93,
+      "link": "https://i.postimg.cc/tCybDMyw/19.webp"
     },
     {
       "string": "Dual Berettas, Mirana, 178,10 kr.webp",
       "id": 20,
       "type": "Dual Berettas",
       "skin": "Mirana",
-      "price": 178.1
+      "price": 178.1,
+      "link": "https://i.postimg.cc/Xvh38N7k/20.webp"
     },
     {
       "string": "Dual Berettas, Moon In Libra, 38,68 kr.webp",
       "id": 21,
       "type": "Dual Berettas",
       "skin": "Moon In Libra",
-      "price": 38.68
+      "price": 38.68,
+      "link": "https://i.postimg.cc/zBgNPmyZ/21.webp"
     },
     {
       "string": "Dual Berettas, Oil Change, 5,72 kr.webp",
       "id": 22,
       "type": "Dual Berettas",
       "skin": "Oil Change",
-      "price": 5.72
+      "price": 5.72,
+      "link": "https://i.postimg.cc/Df1FrTV1/22.webp"
     },
     {
       "string": "Dual Berettas, Panther, 31,61 kr.webp",
       "id": 23,
       "type": "Dual Berettas",
       "skin": "Panther",
-      "price": 31.61
+      "price": 31.61,
+      "link": "https://i.postimg.cc/43nsVHZ3/23.webp"
     },
     {
       "string": "Dual Berettas, Pyre, 346,23 kr.webp",
       "id": 24,
       "type": "Dual Berettas",
       "skin": "Pyre",
-      "price": 346.23
+      "price": 346.23,
+      "link": "https://i.postimg.cc/6qVXtdVM/24.webp"
     },
     {
       "string": "Dual Berettas, Retribution, 50,01 kr.webp",
       "id": 25,
       "type": "Dual Berettas",
       "skin": "Retribution",
-      "price": 50.01
+      "price": 50.01,
+      "link": "https://i.postimg.cc/RVRBYLZF/25.webp"
     },
     {
       "string": "Dual Berettas, Royal Consorts, 31,71 kr.webp",
       "id": 26,
       "type": "Dual Berettas",
       "skin": "Royal Consorts",
-      "price": 31.71
+      "price": 31.71,
+      "link": "https://i.postimg.cc/Qdd3ZKFq/26.webp"
     },
     {
       "string": "Dual Berettas, Shred, 3,74 kr.webp",
       "id": 27,
       "type": "Dual Berettas",
       "skin": "Shred",
-      "price": 3.74
+      "price": 3.74,
+      "link": "https://i.postimg.cc/0yXqk5m1/27.webp"
     },
     {
       "string": "Dual Berettas, Stained, 2,70 kr.webp",
       "id": 28,
       "type": "Dual Berettas",
       "skin": "Stained",
-      "price": 2.7
+      "price": 2.7,
+      "link": "https://i.postimg.cc/wBtY7Kcy/28.webp"
     },
     {
       "string": "Dual Berettas, Switch Board, 52,82 kr.webp",
       "id": 29,
       "type": "Dual Berettas",
       "skin": "Switch Board",
-      "price": 52.82
+      "price": 52.82,
+      "link": "https://i.postimg.cc/R0j5tPXP/29.webp"
     },
     {
       "string": "Dual Berettas, Tread, 11,33 kr.webp",
       "id": 30,
       "type": "Dual Berettas",
       "skin": "Tread",
-      "price": 11.33
+      "price": 11.33,
+      "link": "https://i.postimg.cc/mky00TRq/30.webp"
     },
     {
       "string": "Dual Berettas, Twin Turbo, 86,09 kr.webp",
       "id": 31,
       "type": "Dual Berettas",
       "skin": "Twin Turbo",
-      "price": 86.09
+      "price": 86.09,
+      "link": "https://i.postimg.cc/T16z7K8g/31.webp"
     },
     {
       "string": "Dual Berettas, Urban Shock, 28,18 kr.webp",
       "id": 32,
       "type": "Dual Berettas",
       "skin": "Urban Shock",
-      "price": 28.18
+      "price": 28.18,
+      "link": "https://i.postimg.cc/8kdQFmWH/32.webp"
     },
     {
       "string": "Dual Berettas, Ventilators, 2,18 kr.webp",
       "id": 33,
       "type": "Dual Berettas",
       "skin": "Ventilators",
-      "price": 2.18
+      "price": 2.18,
+      "link": "https://i.postimg.cc/028g7K0q/33.webp"
     }
   ],
   "Five-SeveN": [
@@ -718,238 +819,272 @@
       "id": 0,
       "type": "Five-SeveN",
       "skin": "Angry Mob",
-      "price": 322.63
+      "price": 322.63,
+      "link": "https://i.postimg.cc/vZkS24fT/0.webp"
     },
     {
       "string": "Five-SeveN, Anodized Gunmetal, 86,17 kr.webp",
       "id": 1,
       "type": "Five-SeveN",
       "skin": "Anodized Gunmetal",
-      "price": 86.17
+      "price": 86.17,
+      "link": "https://i.postimg.cc/3N8L0m5S/1.webp"
     },
     {
       "string": "Five-SeveN, Berries And Cream, 937,71 kr.webp",
       "id": 2,
       "type": "Five-SeveN",
       "skin": "Berries And Cream",
-      "price": 937.71
+      "price": 937.71,
+      "link": "https://i.postimg.cc/zD72ZtK9/2.webp"
     },
     {
       "string": "Five-SeveN, Boost Protocol, 20,71 kr.webp",
       "id": 3,
       "type": "Five-SeveN",
       "skin": "Boost Protocol",
-      "price": 20.71
+      "price": 20.71,
+      "link": "https://i.postimg.cc/VLNGYqF5/3.webp"
     },
     {
       "string": "Five-SeveN, Buddy, 15,61 kr.webp",
       "id": 4,
       "type": "Five-SeveN",
       "skin": "Buddy",
-      "price": 15.61
+      "price": 15.61,
+      "link": "https://i.postimg.cc/L60yhJyD/4.webp"
     },
     {
       "string": "Five-SeveN, Candy Apple, 826,45 kr.webp",
       "id": 5,
       "type": "Five-SeveN",
       "skin": "Candy Apple",
-      "price": 826.45
+      "price": 826.45,
+      "link": "https://i.postimg.cc/cJ3kpdBm/5.webp"
     },
     {
       "string": "Five-SeveN, Capillary, 2,60 kr.webp",
       "id": 6,
       "type": "Five-SeveN",
       "skin": "Capillary",
-      "price": 2.6
+      "price": 2.6,
+      "link": "https://i.postimg.cc/nhj3mngJ/6.webp"
     },
     {
       "string": "Five-SeveN, Case Hardened, 243,85 kr.webp",
       "id": 7,
       "type": "Five-SeveN",
       "skin": "Case Hardened",
-      "price": 243.85
+      "price": 243.85,
+      "link": "https://i.postimg.cc/MTbPGt4f/7.webp"
     },
     {
       "string": "Five-SeveN, Contractor, 302,34 kr.webp",
       "id": 8,
       "type": "Five-SeveN",
       "skin": "Contractor",
-      "price": 302.34
+      "price": 302.34,
+      "link": "https://i.postimg.cc/j5r3KB8r/8.webp"
     },
     {
       "string": "Five-SeveN, Coolant, 0,31 kr.webp",
       "id": 9,
       "type": "Five-SeveN",
       "skin": "Coolant",
-      "price": 0.31
+      "price": 0.31,
+      "link": "https://i.postimg.cc/hv22LvKS/9.webp"
     },
     {
       "string": "Five-SeveN, Copper Galaxy, 101,26 kr.webp",
       "id": 10,
       "type": "Five-SeveN",
       "skin": "Copper Galaxy",
-      "price": 101.26
+      "price": 101.26,
+      "link": "https://i.postimg.cc/JzfPc9CB/10.webp"
     },
     {
       "string": "Five-SeveN, Crimson Blossom, 964,77 kr.webp",
       "id": 11,
       "type": "Five-SeveN",
       "skin": "Crimson Blossom",
-      "price": 964.77
+      "price": 964.77,
+      "link": "https://i.postimg.cc/1zDMWJy7/11.webp"
     },
     {
       "string": "Five-SeveN, Fairy Tale, 443,77 kr.webp",
       "id": 12,
       "type": "Five-SeveN",
       "skin": "Fairy Tale",
-      "price": 443.77
+      "price": 443.77,
+      "link": "https://i.postimg.cc/QNfmnBrD/12.webp"
     },
     {
       "string": "Five-SeveN, Fall Hazard, 4625,38 kr.webp",
       "id": 13,
       "type": "Five-SeveN",
       "skin": "Fall Hazard",
-      "price": 4625.38
+      "price": 4625.38,
+      "link": "https://i.postimg.cc/vHDhRQQV/13.webp"
     },
     {
       "string": "Five-SeveN, Flame Test, 1,77 kr.webp",
       "id": 14,
       "type": "Five-SeveN",
       "skin": "Flame Test",
-      "price": 1.77
+      "price": 1.77,
+      "link": "https://i.postimg.cc/630cKq2d/14.webp"
     },
     {
       "string": "Five-SeveN, Forest Night, 0,94 kr.webp",
       "id": 15,
       "type": "Five-SeveN",
       "skin": "Forest Night",
-      "price": 0.94
+      "price": 0.94,
+      "link": "https://i.postimg.cc/V61g2n6f/15.webp"
     },
     {
       "string": "Five-SeveN, Fowl Play, 89,71 kr.webp",
       "id": 16,
       "type": "Five-SeveN",
       "skin": "Fowl Play",
-      "price": 89.71
+      "price": 89.71,
+      "link": "https://i.postimg.cc/rswJwTx7/16.webp"
     },
     {
       "string": "Five-SeveN, Hot Shot, 101,78 kr.webp",
       "id": 17,
       "type": "Five-SeveN",
       "skin": "Hot Shot",
-      "price": 101.78
+      "price": 101.78,
+      "link": "https://i.postimg.cc/3NfZyqZN/17.webp"
     },
     {
       "string": "Five-SeveN, Hyper Beast, 883,18 kr.webp",
       "id": 18,
       "type": "Five-SeveN",
       "skin": "Hyper Beast",
-      "price": 883.18
+      "price": 883.18,
+      "link": "https://i.postimg.cc/GpPJPtjZ/18.webp"
     },
     {
       "string": "Five-SeveN, Jungle, 327,42 kr.webp",
       "id": 19,
       "type": "Five-SeveN",
       "skin": "Jungle",
-      "price": 327.42
+      "price": 327.42,
+      "link": "https://i.postimg.cc/pX7ZRgT1/19.webp"
     },
     {
       "string": "Five-SeveN, Kami, 14,78 kr.webp",
       "id": 20,
       "type": "Five-SeveN",
       "skin": "Kami",
-      "price": 14.78
+      "price": 14.78,
+      "link": "https://i.postimg.cc/Z5dLRVvY/20.webp"
     },
     {
       "string": "Five-SeveN, Monkey Business, 135,09 kr.webp",
       "id": 21,
       "type": "Five-SeveN",
       "skin": "Monkey Business",
-      "price": 135.09
+      "price": 135.09,
+      "link": "https://i.postimg.cc/k4nNTC1D/21.webp"
     },
     {
       "string": "Five-SeveN, Neon Kimono, 3339,23 kr.webp",
       "id": 22,
       "type": "Five-SeveN",
       "skin": "Neon Kimono",
-      "price": 3339.23
+      "price": 3339.23,
+      "link": "https://i.postimg.cc/RFX78Yyd/22.webp"
     },
     {
       "string": "Five-SeveN, Nightshade, 21,44 kr.webp",
       "id": 23,
       "type": "Five-SeveN",
       "skin": "Nightshade",
-      "price": 21.44
+      "price": 21.44,
+      "link": "https://i.postimg.cc/hGR17TVL/23.webp"
     },
     {
       "string": "Five-SeveN, Nitro, 393,09 kr.png",
       "id": 24,
       "type": "Five-SeveN",
       "skin": "Nitro",
-      "price": 393.09
+      "price": 393.09,
+      "link": "https://i.postimg.cc/BbbTGgG0/24.png"
     },
     {
       "string": "Five-SeveN, Orange Peel, 3,02 kr.webp",
       "id": 25,
       "type": "Five-SeveN",
       "skin": "Orange Peel",
-      "price": 3.02
+      "price": 3.02,
+      "link": "https://i.postimg.cc/T1sr2DRW/25.webp"
     },
     {
       "string": "Five-SeveN, Retrobution, 28,41 kr.webp",
       "id": 26,
       "type": "Five-SeveN",
       "skin": "Retrobution",
-      "price": 28.41
+      "price": 28.41,
+      "link": "https://i.postimg.cc/T2NjJZrY/26.webp"
     },
     {
       "string": "Five-SeveN, Scrawl, 2,50 kr.webp",
       "id": 27,
       "type": "Five-SeveN",
       "skin": "Scrawl",
-      "price": 2.5
+      "price": 2.5,
+      "link": "https://i.postimg.cc/ZK1r1p7G/27.webp"
     },
     {
       "string": "Five-SeveN, Scrumbia, 3,33 kr.webp",
       "id": 28,
       "type": "Five-SeveN",
       "skin": "Scrumbia",
-      "price": 3.33
+      "price": 3.33,
+      "link": "https://i.postimg.cc/HLtXcKYm/28.webp"
     },
     {
       "string": "Five-SeveN, Silver Quartz, 5,93 kr.webp",
       "id": 29,
       "type": "Five-SeveN",
       "skin": "Silver Quartz",
-      "price": 5.93
+      "price": 5.93,
+      "link": "https://i.postimg.cc/RV37sXR1/29.webp"
     },
     {
       "string": "Five-SeveN, Triumvirate, 41,32 kr.webp",
       "id": 30,
       "type": "Five-SeveN",
       "skin": "Triumvirate",
-      "price": 41.32
+      "price": 41.32,
+      "link": "https://i.postimg.cc/bvP1v8jL/30.webp"
     },
     {
       "string": "Five-SeveN, Urban Hazard, 10,82 kr.webp",
       "id": 31,
       "type": "Five-SeveN",
       "skin": "Urban Hazard",
-      "price": 10.82
+      "price": 10.82,
+      "link": "https://i.postimg.cc/x1MKY8Bc/31.webp"
     },
     {
       "string": "Five-SeveN, Violent Daimyo, 4,37 kr.webp",
       "id": 32,
       "type": "Five-SeveN",
       "skin": "Violent Daimyo",
-      "price": 4.37
+      "price": 4.37,
+      "link": "https://i.postimg.cc/KzvLnNjM/32.webp"
     },
     {
       "string": "Five-SeveN, Withered Vine, 45,69 kr.webp",
       "id": 33,
       "type": "Five-SeveN",
       "skin": "Withered Vine",
-      "price": 45.69
+      "price": 45.69,
+      "link": "https://i.postimg.cc/85Kvw6fn/33.webp"
     }
   ],
   "Glock-18": [
@@ -958,280 +1093,320 @@
       "id": 0,
       "type": "Glock-18",
       "skin": "Blue Fissure",
-      "price": 188.25
+      "price": 188.25,
+      "link": "https://i.postimg.cc/rFWJyfrV/0.webp"
     },
     {
       "string": "Glock-18, Brass, 1045,89 kr.webp",
       "id": 1,
       "type": "Glock-18",
       "skin": "Brass",
-      "price": 1045.89
+      "price": 1045.89,
+      "link": "https://i.postimg.cc/g0Myt5fD/1.webp"
     },
     {
       "string": "Glock-18, Bullet Queen, 449,33 kr.webp",
       "id": 2,
       "type": "Glock-18",
       "skin": "Bullet Queen",
-      "price": 449.33
+      "price": 449.33,
+      "link": "https://i.postimg.cc/Df4Q5x5r/2.webp"
     },
     {
       "string": "Glock-18, Bunsen Burner, 12,07 kr.webp",
       "id": 3,
       "type": "Glock-18",
       "skin": "Bunsen Burner",
-      "price": 12.07
+      "price": 12.07,
+      "link": "https://i.postimg.cc/zBVCs7N1/3.webp"
     },
     {
       "string": "Glock-18, Candy Apple, 8,08 kr.webp",
       "id": 4,
       "type": "Glock-18",
       "skin": "Candy Apple",
-      "price": 8.08
+      "price": 8.08,
+      "link": "https://i.postimg.cc/GmCj4vFk/4.webp"
     },
     {
       "string": "Glock-18, Catacombs, 4,20 kr.webp",
       "id": 5,
       "type": "Glock-18",
       "skin": "Catacombs",
-      "price": 4.2
+      "price": 4.2,
+      "link": "https://i.postimg.cc/wvZXgNxR/5.webp"
     },
     {
       "string": "Glock-18, Clear Polymer, 5,56 kr.webp",
       "id": 6,
       "type": "Glock-18",
       "skin": "Clear Polymer",
-      "price": 5.56
+      "price": 5.56,
+      "link": "https://i.postimg.cc/KjTnzY4q/6.webp"
     },
     {
       "string": "Glock-18, Death Rattle, 1,05 kr.webp",
       "id": 7,
       "type": "Glock-18",
       "skin": "Death Rattle",
-      "price": 1.05
+      "price": 1.05,
+      "link": "https://i.postimg.cc/Fsty60n2/7.webp"
     },
     {
       "string": "Glock-18, Dragon Tattoo, 911,99 kr.webp",
       "id": 8,
       "type": "Glock-18",
       "skin": "Dragon Tattoo",
-      "price": 911.99
+      "price": 911.99,
+      "link": "https://i.postimg.cc/k5MFc9hG/8.webp"
     },
     {
       "string": "Glock-18, Fade, 17 838,93 kr.webp",
       "id": 9,
       "type": "Glock-18",
       "skin": "Fade",
-      "price": 17838.93
+      "price": 17838.93,
+      "link": "https://i.postimg.cc/g2HH8rs1/9.webp"
     },
     {
       "string": "Glock-18, Franklin, 424,57 kr.webp",
       "id": 10,
       "type": "Glock-18",
       "skin": "Franklin",
-      "price": 424.57
+      "price": 424.57,
+      "link": "https://i.postimg.cc/yYFmCWMW/10.webp"
     },
     {
       "string": "Glock-18, Grinder, 11,44 kr.webp",
       "id": 11,
       "type": "Glock-18",
       "skin": "Grinder",
-      "price": 11.44
+      "price": 11.44,
+      "link": "https://i.postimg.cc/P5TmXTHy/11.webp"
     },
     {
       "string": "Glock-18, Groundwater, 1044,63 kr.webp",
       "id": 12,
       "type": "Glock-18",
       "skin": "Groundwater",
-      "price": 1044.63
+      "price": 1044.63,
+      "link": "https://i.postimg.cc/wBBLN27s/12.webp"
     },
     {
       "string": "Glock-18, High Beam, 1,26 kr.webp",
       "id": 13,
       "type": "Glock-18",
       "skin": "High Beam",
-      "price": 1.26
+      "price": 1.26,
+      "link": "https://i.postimg.cc/sgm51qDr/13.webp"
     },
     {
       "string": "Glock-18, Ironwork, 12,28 kr.webp",
       "id": 14,
       "type": "Glock-18",
       "skin": "Ironwork",
-      "price": 12.28
+      "price": 12.28,
+      "link": "https://i.postimg.cc/DZ9XtK5q/14.webp"
     },
     {
       "string": "Glock-18, Moonrise, 13,64 kr.webp",
       "id": 15,
       "type": "Glock-18",
       "skin": "Moonrise",
-      "price": 13.64
+      "price": 13.64,
+      "link": "https://i.postimg.cc/bJDnCv0y/15.webp"
     },
     {
       "string": "Glock-18, Neo-Noir, 670,64 kr.webp",
       "id": 16,
       "type": "Glock-18",
       "skin": "Neo-Noir",
-      "price": 670.64
+      "price": 670.64,
+      "link": "https://i.postimg.cc/7hS24QQj/16.webp"
     },
     {
       "string": "Glock-18, Night, 473,99 kr.webp",
       "id": 17,
       "type": "Glock-18",
       "skin": "Night",
-      "price": 473.99
+      "price": 473.99,
+      "link": "https://i.postimg.cc/yNr9yRZp/17.webp"
     },
     {
       "string": "Glock-18, Nuclear Garden, 80,07 kr.webp",
       "id": 18,
       "type": "Glock-18",
       "skin": "Nuclear Garden",
-      "price": 80.07
+      "price": 80.07,
+      "link": "https://i.postimg.cc/h4mxVfPM/18.webp"
     },
     {
       "string": "Glock-18, Off World, 4,51 kr.webp",
       "id": 19,
       "type": "Glock-18",
       "skin": "Off World",
-      "price": 4.51
+      "price": 4.51,
+      "link": "https://i.postimg.cc/3JHG1Ykh/19.webp"
     },
     {
       "string": "Glock-18, Oxide Blaze, 2,73 kr.webp",
       "id": 20,
       "type": "Glock-18",
       "skin": "Oxide Blaze",
-      "price": 2.73
+      "price": 2.73,
+      "link": "https://i.postimg.cc/Mp6Qk50r/20.webp"
     },
     {
       "string": "Glock-18, Pink DDPAT, 769,91 kr.webp",
       "id": 21,
       "type": "Glock-18",
       "skin": "Pink DDPAT",
-      "price": 769.91
+      "price": 769.91,
+      "link": "https://i.postimg.cc/5NqCkTzC/21.webp"
     },
     {
       "string": "Glock-18, Ramese's Reach, 181,01 kr.webp",
       "id": 22,
       "type": "Glock-18",
       "skin": "Ramese's Reach",
-      "price": 181.01
+      "price": 181.01,
+      "link": "https://i.postimg.cc/CKtBqV3W/22.webp"
     },
     {
       "string": "Glock-18, Reactor, 124,24 kr.webp",
       "id": 23,
       "type": "Glock-18",
       "skin": "Reactor",
-      "price": 124.24
+      "price": 124.24,
+      "link": "https://i.postimg.cc/pLsnPjqV/23.webp"
     },
     {
       "string": "Glock-18, Red Tire, 37,36 kr.webp",
       "id": 24,
       "type": "Glock-18",
       "skin": "Red Tire",
-      "price": 37.36
+      "price": 37.36,
+      "link": "https://i.postimg.cc/pdy5rd6f/24.webp"
     },
     {
       "string": "Glock-18, Royal Legion, 71,46 kr.webp",
       "id": 25,
       "type": "Glock-18",
       "skin": "Royal Legion",
-      "price": 71.46
+      "price": 71.46,
+      "link": "https://i.postimg.cc/G2yBP5r9/25.webp"
     },
     {
       "string": "Glock-18, Sacrifice, 10,70 kr.webp",
       "id": 26,
       "type": "Glock-18",
       "skin": "Sacrifice",
-      "price": 10.7
+      "price": 10.7,
+      "link": "https://i.postimg.cc/vTw40tHh/26.webp"
     },
     {
       "string": "Glock-18, Sand Dune, 1148,93 kr.webp",
       "id": 27,
       "type": "Glock-18",
       "skin": "Sand Dune",
-      "price": 1148.93
+      "price": 1148.93,
+      "link": "https://i.postimg.cc/QMBVsyFS/27.webp"
     },
     {
       "string": "Glock-18, Snack Attack, 196,65 kr.webp",
       "id": 28,
       "type": "Glock-18",
       "skin": "Snack Attack",
-      "price": 196.65
+      "price": 196.65,
+      "link": "https://i.postimg.cc/pVKhp4q6/28.webp"
     },
     {
       "string": "Glock-18, Steel Disruption, 56,25 kr.webp",
       "id": 29,
       "type": "Glock-18",
       "skin": "Steel Disruption",
-      "price": 56.25
+      "price": 56.25,
+      "link": "https://i.postimg.cc/7h1fdJ5k/29.webp"
     },
     {
       "string": "Glock-18, Synth Leaf, 3273,97 kr.webp",
       "id": 30,
       "type": "Glock-18",
       "skin": "Synth Leaf",
-      "price": 3273.97
+      "price": 3273.97,
+      "link": "https://i.postimg.cc/9FV4TbkF/30.webp"
     },
     {
       "string": "Glock-18, Twilight Galaxy, 2623,37 kr.webp",
       "id": 31,
       "type": "Glock-18",
       "skin": "Twilight Galaxy",
-      "price": 2623.37
+      "price": 2623.37,
+      "link": "https://i.postimg.cc/26h6LLFZ/31.webp"
     },
     {
       "string": "Glock-18, Umbral Rabbit, 17 kr.webp",
       "id": 32,
       "type": "Glock-18",
       "skin": "Umbral Rabbit",
-      "price": 17
+      "price": 17,
+      "link": "https://i.postimg.cc/133f7tPk/32.webp"
     },
     {
       "string": "Glock-18, Vogue, 83,21 kr.webp",
       "id": 33,
       "type": "Glock-18",
       "skin": "Vogue",
-      "price": 83.21
+      "price": 83.21,
+      "link": "https://i.postimg.cc/CLNR4DyC/33.webp"
     },
     {
       "string": "Glock-18, Warhawk, 6,72 kr.webp",
       "id": 34,
       "type": "Glock-18",
       "skin": "Warhawk",
-      "price": 6.72
+      "price": 6.72,
+      "link": "https://i.postimg.cc/BvdbvBD3/34.webp"
     },
     {
       "string": "Glock-18, Wasteland Rebel, 64,74 kr.webp",
       "id": 35,
       "type": "Glock-18",
       "skin": "Wasteland Rebel",
-      "price": 64.74
+      "price": 64.74,
+      "link": "https://i.postimg.cc/2yY5Qj2X/35.webp"
     },
     {
       "string": "Glock-18, Water Elemental, 119,21 kr.webp",
       "id": 36,
       "type": "Glock-18",
       "skin": "Water Elemental",
-      "price": 119.21
+      "price": 119.21,
+      "link": "https://i.postimg.cc/4y1xBC04/36.webp"
     },
     {
       "string": "Glock-18, Weasel, 20,57 kr.webp",
       "id": 37,
       "type": "Glock-18",
       "skin": "Weasel",
-      "price": 20.57
+      "price": 20.57,
+      "link": "https://i.postimg.cc/PfbJtZqG/37.webp"
     },
     {
       "string": "Glock-18, Winterized, 2,83 kr.webp",
       "id": 38,
       "type": "Glock-18",
       "skin": "Winterized",
-      "price": 2.83
+      "price": 2.83,
+      "link": "https://i.postimg.cc/yYvNRH9v/38.webp"
     },
     {
       "string": "Glock-18, Wraiths, 7,66 kr.webp",
       "id": 39,
       "type": "Glock-18",
       "skin": "Wraiths",
-      "price": 7.66
+      "price": 7.66,
+      "link": "https://i.postimg.cc/c4sH6HKv/39.webp"
     }
   ],
   "MAC-10": [
@@ -1240,315 +1415,360 @@
       "id": 0,
       "type": "MAC-10",
       "skin": "Allure",
-      "price": 15.83
+      "price": 15.83,
+      "link": "https://i.postimg.cc/XJVhdT9k/0.webp"
     },
     {
       "string": "MAC-10, Aloha, 1,68 kr.webp",
       "id": 1,
       "type": "MAC-10",
       "skin": "Aloha",
-      "price": 1.68
+      "price": 1.68,
+      "link": "https://i.postimg.cc/BnHwyqgC/1.webp"
     },
     {
       "string": "MAC-10, Amber Fade, 204,59 kr.webp",
       "id": 2,
       "type": "MAC-10",
       "skin": "Amber Fade",
-      "price": 204.59
+      "price": 204.59,
+      "link": "https://i.postimg.cc/7hRWvhdK/2.webp"
     },
     {
       "string": "MAC-10, Button Masher, 11,63 kr.webp",
       "id": 3,
       "type": "MAC-10",
       "skin": "Button Masher",
-      "price": 11.63
+      "price": 11.63,
+      "link": "https://i.postimg.cc/Xvg1jQtG/3.webp"
     },
     {
       "string": "MAC-10, Calf Skin, 2,62 kr.webp",
       "id": 4,
       "type": "MAC-10",
       "skin": "Calf Skin",
-      "price": 2.62
+      "price": 2.62,
+      "link": "https://i.postimg.cc/DyWNrQ4H/4.webp"
     },
     {
       "string": "MAC-10, Candy Apple, 1,78 kr.webp",
       "id": 5,
       "type": "MAC-10",
       "skin": "Candy Apple",
-      "price": 1.78
+      "price": 1.78,
+      "link": "https://i.postimg.cc/x884FMxk/5.webp"
     },
     {
       "string": "MAC-10, Carnivore, 3,98 kr.webp",
       "id": 6,
       "type": "MAC-10",
       "skin": "Carnivore",
-      "price": 3.98
+      "price": 3.98,
+      "link": "https://i.postimg.cc/mr46W0pW/6.webp"
     },
     {
       "string": "MAC-10, Case Hardened, 1204,90 kr.webp",
       "id": 7,
       "type": "MAC-10",
       "skin": "Case Hardened",
-      "price": 1204.9
+      "price": 1204.9,
+      "link": "https://i.postimg.cc/02LBc6pQ/7.webp"
     },
     {
       "string": "MAC-10, Classic Crate, 3,77 kr.webp",
       "id": 8,
       "type": "MAC-10",
       "skin": "Classic Crate",
-      "price": 3.77
+      "price": 3.77,
+      "link": "https://i.postimg.cc/L4Q7gQ5j/8.webp"
     },
     {
       "string": "MAC-10, Communer, 180,90 kr.webp",
       "id": 9,
       "type": "MAC-10",
       "skin": "Communer",
-      "price": 180.9
+      "price": 180.9,
+      "link": "https://i.postimg.cc/0Q2Wb7qt/9.webp"
     },
     {
       "string": "MAC-10, Copper Borre, 1227,75 kr.webp",
       "id": 10,
       "type": "MAC-10",
       "skin": "Copper Borre",
-      "price": 1227.75
+      "price": 1227.75,
+      "link": "https://i.postimg.cc/Qt465V8j/10.webp"
     },
     {
       "string": "MAC-10, Curse, 105,75 kr.webp",
       "id": 11,
       "type": "MAC-10",
       "skin": "Curse",
-      "price": 105.75
+      "price": 105.75,
+      "link": "https://i.postimg.cc/wM1wkHML/11.webp"
     },
     {
       "string": "MAC-10, Disco Tech, 131,33 kr.webp",
       "id": 12,
       "type": "MAC-10",
       "skin": "Disco Tech",
-      "price": 131.33
+      "price": 131.33,
+      "link": "https://i.postimg.cc/RCYsZ3pR/12.webp"
     },
     {
       "string": "MAC-10, Echoing Sands, 5,87 kr.webp",
       "id": 13,
       "type": "MAC-10",
       "skin": "Echoing Sands",
-      "price": 5.87
+      "price": 5.87,
+      "link": "https://i.postimg.cc/3NznS606/13.webp"
     },
     {
       "string": "MAC-10, Ensnared, 2,41 kr.webp",
       "id": 14,
       "type": "MAC-10",
       "skin": "Ensnared",
-      "price": 2.41
+      "price": 2.41,
+      "link": "https://i.postimg.cc/t4QBFKjn/14.webp"
     },
     {
       "string": "MAC-10, Fade, 327,22 kr.webp",
       "id": 15,
       "type": "MAC-10",
       "skin": "Fade",
-      "price": 327.22
+      "price": 327.22,
+      "link": "https://i.postimg.cc/3w995WD2/15.webp"
     },
     {
       "string": "MAC-10, Gold Brick, 723,19 kr.webp",
       "id": 16,
       "type": "MAC-10",
       "skin": "Gold Brick",
-      "price": 723.19
+      "price": 723.19,
+      "link": "https://i.postimg.cc/9MMbWVGK/16.webp"
     },
     {
       "string": "MAC-10, Graven, 426,58 kr.webp",
       "id": 17,
       "type": "MAC-10",
       "skin": "Graven",
-      "price": 426.58
+      "price": 426.58,
+      "link": "https://i.postimg.cc/1tjHXTBt/17.webp"
     },
     {
       "string": "MAC-10, Heat, 62,05 kr.webp",
       "id": 18,
       "type": "MAC-10",
       "skin": "Heat",
-      "price": 62.05
+      "price": 62.05,
+      "link": "https://i.postimg.cc/mgyKkLHg/18.webp"
     },
     {
       "string": "MAC-10, Hot Snakes, 3147,66 kr.webp",
       "id": 19,
       "type": "MAC-10",
       "skin": "Hot Snakes",
-      "price": 3147.66
+      "price": 3147.66,
+      "link": "https://i.postimg.cc/c4YpqM1Y/19.webp"
     },
     {
       "string": "MAC-10, Indigo, 176,29 kr.webp",
       "id": 20,
       "type": "MAC-10",
       "skin": "Indigo",
-      "price": 176.29
+      "price": 176.29,
+      "link": "https://i.postimg.cc/Hn8ty2vt/20.webp"
     },
     {
       "string": "MAC-10, Lapis Gator, 8,18 kr.webp",
       "id": 21,
       "type": "MAC-10",
       "skin": "Lapis Gator",
-      "price": 8.18
+      "price": 8.18,
+      "link": "https://i.postimg.cc/c1KqhGVF/21.webp"
     },
     {
       "string": "MAC-10, Last Dive, 26,52 kr.webp",
       "id": 22,
       "type": "MAC-10",
       "skin": "Last Dive",
-      "price": 26.52
+      "price": 26.52,
+      "link": "https://i.postimg.cc/8kx2nnGN/22.webp"
     },
     {
       "string": "MAC-10, Malachite, 28,93 kr.webp",
       "id": 23,
       "type": "MAC-10",
       "skin": "Malachite",
-      "price": 28.93
+      "price": 28.93,
+      "link": "https://i.postimg.cc/vm8k6JrL/23.webp"
     },
     {
       "string": "MAC-10, Monkeyflage, 2,41 kr.webp",
       "id": 24,
       "type": "MAC-10",
       "skin": "Monkeyflage",
-      "price": 2.41
+      "price": 2.41,
+      "link": "https://i.postimg.cc/6qZmXtKw/24.webp"
     },
     {
       "string": "MAC-10, Neon Rider, 122,42 kr.webp",
       "id": 25,
       "type": "MAC-10",
       "skin": "Neon Rider",
-      "price": 122.42
+      "price": 122.42,
+      "link": "https://i.postimg.cc/rphbGfg6/25.webp"
     },
     {
       "string": "MAC-10, Nuclear Garden, 108,27 kr.webp",
       "id": 26,
       "type": "MAC-10",
       "skin": "Nuclear Garden",
-      "price": 108.27
+      "price": 108.27,
+      "link": "https://i.postimg.cc/Y9ZsZjJb/26.webp"
     },
     {
       "string": "MAC-10, Oceanic, 1,68 kr.webp",
       "id": 27,
       "type": "MAC-10",
       "skin": "Oceanic",
-      "price": 1.68
+      "price": 1.68,
+      "link": "https://i.postimg.cc/vHRKvg7m/27.webp"
     },
     {
       "string": "MAC-10, Palm, 1,36 kr.webp",
       "id": 28,
       "type": "MAC-10",
       "skin": "Palm",
-      "price": 1.36
+      "price": 1.36,
+      "link": "https://i.postimg.cc/pXD6cWkJ/28.webp"
     },
     {
       "string": "MAC-10, Pipe Down, 18,03 kr.webp",
       "id": 29,
       "type": "MAC-10",
       "skin": "Pipe Down",
-      "price": 18.03
+      "price": 18.03,
+      "link": "https://i.postimg.cc/Vs0TMBCT/29.webp"
     },
     {
       "string": "MAC-10, Propaganda, 462,32 kr.webp",
       "id": 30,
       "type": "MAC-10",
       "skin": "Propaganda",
-      "price": 462.32
+      "price": 462.32,
+      "link": "https://i.postimg.cc/zff2fnNx/30.webp"
     },
     {
       "string": "MAC-10, Rangeen, 4,30 kr.webp",
       "id": 31,
       "type": "MAC-10",
       "skin": "Rangeen",
-      "price": 4.3
+      "price": 4.3,
+      "link": "https://i.postimg.cc/tTZr3pYP/31.webp"
     },
     {
       "string": "MAC-10, Red Filigree, 1055,75 kr.webp",
       "id": 32,
       "type": "MAC-10",
       "skin": "Red Filigree",
-      "price": 1055.75
+      "price": 1055.75,
+      "link": "https://i.postimg.cc/9QbNVL64/32.webp"
     },
     {
       "string": "MAC-10, Sakkaku, 11,21 kr.webp",
       "id": 33,
       "type": "MAC-10",
       "skin": "Sakkaku",
-      "price": 11.21
+      "price": 11.21,
+      "link": "https://i.postimg.cc/J7X6t7wC/33.webp"
     },
     {
       "string": "MAC-10, Sienna Damask, 3,46 kr.webp",
       "id": 34,
       "type": "MAC-10",
       "skin": "Sienna Damask",
-      "price": 3.46
+      "price": 3.46,
+      "link": "https://i.postimg.cc/SNpZ90q2/34.webp"
     },
     {
       "string": "MAC-10, Silver, 1,36 kr.webp",
       "id": 35,
       "type": "MAC-10",
       "skin": "Silver",
-      "price": 1.36
+      "price": 1.36,
+      "link": "https://i.postimg.cc/NM3dbSHn/35.webp"
     },
     {
       "string": "MAC-10, Stalker, 700,13 kr.webp",
       "id": 36,
       "type": "MAC-10",
       "skin": "Stalker",
-      "price": 700.13
+      "price": 700.13,
+      "link": "https://i.postimg.cc/fbk5sD7F/36.webp"
     },
     {
       "string": "MAC-10, Strats, 6,29 kr.webp",
       "id": 37,
       "type": "MAC-10",
       "skin": "Strats",
-      "price": 6.29
+      "price": 6.29,
+      "link": "https://i.postimg.cc/mk78nj3g/37.webp"
     },
     {
       "string": "MAC-10, Surfwood, 10,27 kr.webp",
       "id": 38,
       "type": "MAC-10",
       "skin": "Surfwood",
-      "price": 10.27
+      "price": 10.27,
+      "link": "https://i.postimg.cc/BnmNRXFH/38.webp"
     },
     {
       "string": "MAC-10, Tatter, 110,47 kr.webp",
       "id": 39,
       "type": "MAC-10",
       "skin": "Tatter",
-      "price": 110.47
+      "price": 110.47,
+      "link": "https://i.postimg.cc/Qxkfk6x6/39.webp"
     },
     {
       "string": "MAC-10, Tornado, 340,11 kr.webp",
       "id": 40,
       "type": "MAC-10",
       "skin": "Tornado",
-      "price": 340.11
+      "price": 340.11,
+      "link": "https://i.postimg.cc/524nPwXf/40.webp"
     },
     {
       "string": "MAC-10, Toybox, 157,11 kr.webp",
       "id": 41,
       "type": "MAC-10",
       "skin": "Toybox",
-      "price": 157.11
+      "price": 157.11,
+      "link": "https://i.postimg.cc/kGPyW8r3/41.webp"
     },
     {
       "string": "MAC-10, Ultraviolet, 374,28 kr.webp",
       "id": 42,
       "type": "MAC-10",
       "skin": "Ultraviolet",
-      "price": 374.28
+      "price": 374.28,
+      "link": "https://i.postimg.cc/6QSc5gYQ/42.webp"
     },
     {
       "string": "MAC-10, Urban DDPAT, 169,37 kr.webp",
       "id": 43,
       "type": "MAC-10",
       "skin": "Urban DDPAT",
-      "price": 169.37
+      "price": 169.37,
+      "link": "https://i.postimg.cc/d1yB76xj/43.webp"
     },
     {
       "string": "MAC-10, Whitefish, 3,98 kr.webp",
       "id": 44,
       "type": "MAC-10",
       "skin": "Whitefish",
-      "price": 3.98
+      "price": 3.98,
+      "link": "https://i.postimg.cc/GtPxK2rB/44.webp"
     }
   ],
   "MP5-SD": [
@@ -1557,112 +1777,128 @@
       "id": 0,
       "type": "MP5-SD",
       "skin": "Acid Wash",
-      "price": 17.51
+      "price": 17.51,
+      "link": "https://i.postimg.cc/RVN0wYRm/0.webp"
     },
     {
       "string": "MP5-SD, Agent, 33,67 kr.webp",
       "id": 1,
       "type": "MP5-SD",
       "skin": "Agent",
-      "price": 33.67
+      "price": 33.67,
+      "link": "https://i.postimg.cc/HkMsh7RP/1.webp"
     },
     {
       "string": "MP5-SD, Autumn Twilly, 76,94 kr.webp",
       "id": 2,
       "type": "MP5-SD",
       "skin": "Autumn Twilly",
-      "price": 76.94
+      "price": 76.94,
+      "link": "https://i.postimg.cc/jjrd0Srq/2.webp"
     },
     {
       "string": "MP5-SD, Bamboo Garden, 35,65 kr.webp",
       "id": 3,
       "type": "MP5-SD",
       "skin": "Bamboo Garden",
-      "price": 35.65
+      "price": 35.65,
+      "link": "https://i.postimg.cc/LX995QXr/3.webp"
     },
     {
       "string": "MP5-SD, Co-Processor, 5,73 kr.webp",
       "id": 4,
       "type": "MP5-SD",
       "skin": "Co-Processor",
-      "price": 5.73
+      "price": 5.73,
+      "link": "https://i.postimg.cc/7LMPxrx3/4.webp"
     },
     {
       "string": "MP5-SD, Condition Zero, 9,38 kr.webp",
       "id": 5,
       "type": "MP5-SD",
       "skin": "Condition Zero",
-      "price": 9.38
+      "price": 9.38,
+      "link": "https://i.postimg.cc/PxStwbvN/5.webp"
     },
     {
       "string": "MP5-SD, Desert Strike, 2,09 kr.webp",
       "id": 6,
       "type": "MP5-SD",
       "skin": "Desert Strike",
-      "price": 2.09
+      "price": 2.09,
+      "link": "https://i.postimg.cc/0j3Pt8fs/6.webp"
     },
     {
       "string": "MP5-SD, Dirt Drop, 0,52 kr.webp",
       "id": 7,
       "type": "MP5-SD",
       "skin": "Dirt Drop",
-      "price": 0.52
+      "price": 0.52,
+      "link": "https://i.postimg.cc/02FynCWw/7.webp"
     },
     {
       "string": "MP5-SD, Gauss, 12,72 kr.webp",
       "id": 8,
       "type": "MP5-SD",
       "skin": "Gauss",
-      "price": 12.72
+      "price": 12.72,
+      "link": "https://i.postimg.cc/1X4ycgDB/8.webp"
     },
     {
       "string": "MP5-SD, Kitbash, 13,55 kr.webp",
       "id": 9,
       "type": "MP5-SD",
       "skin": "Kitbash",
-      "price": 13.55
+      "price": 13.55,
+      "link": "https://i.postimg.cc/FH0NZXkM/9.webp"
     },
     {
       "string": "MP5-SD, Lab Rats, 1,46 kr (Souvenir).webp",
       "id": 10,
       "type": "MP5-SD",
       "skin": "Lab Rats",
-      "price": 1.46
+      "price": 1.46,
+      "link": "https://i.postimg.cc/SQtSQrpv/10.webp"
     },
     {
       "string": "MP5-SD, Liquidation, 2,92 kr.webp",
       "id": 11,
       "type": "MP5-SD",
       "skin": "Liquidation",
-      "price": 2.92
+      "price": 2.92,
+      "link": "https://i.postimg.cc/fTtwV9zT/11.webp"
     },
     {
       "string": "MP5-SD, Necro jr., 2,19 kr.webp",
       "id": 12,
       "type": "MP5-SD",
       "skin": "Necro jr.",
-      "price": 2.19
+      "price": 2.19,
+      "link": "https://i.postimg.cc/xdRQwGRg/12.webp"
     },
     {
       "string": "MP5-SD, Nitro, 113,32 kr.webp",
       "id": 13,
       "type": "MP5-SD",
       "skin": "Nitro",
-      "price": 113.32
+      "price": 113.32,
+      "link": "https://i.postimg.cc/vHJGfZT7/13.webp"
     },
     {
       "string": "MP5-SD, Oxide Oasis, 3384,30 kr.webp",
       "id": 14,
       "type": "MP5-SD",
       "skin": "Oxide Oasis",
-      "price": 3384.3
+      "price": 3384.3,
+      "link": "https://i.postimg.cc/9fVVggGr/14.webp"
     },
     {
       "string": "MP5-SD, Phosphor, 98,73 kr.webp",
       "id": 15,
       "type": "MP5-SD",
       "skin": "Phosphor",
-      "price": 98.73
+      "price": 98.73,
+      "link": "https://i.postimg.cc/76Z4wCt4/15.webp"
     }
   ],
   "MP7": [
@@ -1671,231 +1907,264 @@
       "id": 0,
       "type": "MP7",
       "skin": "Abyssal Apparition",
-      "price": 74.33
+      "price": 74.33,
+      "link": "https://i.postimg.cc/Gpq07LL5/0.webp"
     },
     {
       "string": "MP7, Akoben, 3,75 kr.webp",
       "id": 1,
       "type": "MP7",
       "skin": "Akoben",
-      "price": 3.75
+      "price": 3.75,
+      "link": "https://i.postimg.cc/nV6LYkwQ/1.webp"
     },
     {
       "string": "MP7, Anodized Navy, 5,94 kr.webp",
       "id": 2,
       "type": "MP7",
       "skin": "Anodized Navy",
-      "price": 5.94
+      "price": 5.94,
+      "link": "https://i.postimg.cc/wvvCnC3T/2.webp"
     },
     {
       "string": "MP7, Armor Core, 1,56 kr.webp",
       "id": 3,
       "type": "MP7",
       "skin": "Armor Core",
-      "price": 1.56
+      "price": 1.56,
+      "link": "https://i.postimg.cc/bwPN4vPy/3.webp"
     },
     {
       "string": "MP7, Army Recon, 0,31 kr.webp",
       "id": 4,
       "type": "MP7",
       "skin": "Army Recon",
-      "price": 0.31
+      "price": 0.31,
+      "link": "https://i.postimg.cc/zBcsNxRw/4.webp"
     },
     {
       "string": "MP7, Asterion, 38,89 kr.webp",
       "id": 5,
       "type": "MP7",
       "skin": "Asterion",
-      "price": 38.89
+      "price": 38.89,
+      "link": "https://i.postimg.cc/x8NW1LKw/5.webp"
     },
     {
       "string": "MP7, Bloodsport, 39,83 kr.webp",
       "id": 6,
       "type": "MP7",
       "skin": "Bloodsport",
-      "price": 39.83
+      "price": 39.83,
+      "link": "https://i.postimg.cc/sD7gnhtH/6.webp"
     },
     {
       "string": "MP7, Cirrus, 5,53 kr.webp",
       "id": 7,
       "type": "MP7",
       "skin": "Cirrus",
-      "price": 5.53
+      "price": 5.53,
+      "link": "https://i.postimg.cc/qBtR3YQT/7.webp"
     },
     {
       "string": "MP7, Fade, 90,70 kr.webp",
       "id": 8,
       "type": "MP7",
       "skin": "Fade",
-      "price": 90.7
+      "price": 90.7,
+      "link": "https://i.postimg.cc/3WMz4W1d/8.webp"
     },
     {
       "string": "MP7, Forest DDPAT, 0,31 kr.webp",
       "id": 9,
       "type": "MP7",
       "skin": "Forest DDPAT",
-      "price": 0.31
+      "price": 0.31,
+      "link": "https://i.postimg.cc/t4zCbHRh/9.webp"
     },
     {
       "string": "MP7, Full Stop, 276,27 kr.webp",
       "id": 10,
       "type": "MP7",
       "skin": "Full Stop",
-      "price": 276.27
+      "price": 276.27,
+      "link": "https://i.postimg.cc/DzyfyYmR/10.webp"
     },
     {
       "string": "MP7, Groundwater, 235,09 kr.webp",
       "id": 11,
       "type": "MP7",
       "skin": "Groundwater",
-      "price": 235.09
+      "price": 235.09,
+      "link": "https://i.postimg.cc/Pq3XLzwJ/11.webp"
     },
     {
       "string": "MP7, Guerrilla, 15,64 kr.webp",
       "id": 12,
       "type": "MP7",
       "skin": "Guerrilla",
-      "price": 15.64
+      "price": 15.64,
+      "link": "https://i.postimg.cc/mDPb7zYw/12.webp"
     },
     {
       "string": "MP7, Gunsmoke, 88,72 kr.webp",
       "id": 13,
       "type": "MP7",
       "skin": "Gunsmoke",
-      "price": 88.72
+      "price": 88.72,
+      "link": "https://i.postimg.cc/Px0dyXKk/13.webp"
     },
     {
       "string": "MP7, Impire, 38,99 kr.webp",
       "id": 14,
       "type": "MP7",
       "skin": "Impire",
-      "price": 38.99
+      "price": 38.99,
+      "link": "https://i.postimg.cc/5NBf5MCZ/14.webp"
     },
     {
       "string": "MP7, Mischief, 4,38 kr.webp",
       "id": 15,
       "type": "MP7",
       "skin": "Mischief",
-      "price": 4.38
+      "price": 4.38,
+      "link": "https://i.postimg.cc/HW7YxMsW/15.webp"
     },
     {
       "string": "MP7, Motherboard, 0,83 kr.webp",
       "id": 16,
       "type": "MP7",
       "skin": "Motherboard",
-      "price": 0.83
+      "price": 0.83,
+      "link": "https://i.postimg.cc/zvW8PsPH/16.webp"
     },
     {
       "string": "MP7, Nemesis, 119,89 kr.webp",
       "id": 17,
       "type": "MP7",
       "skin": "Nemesis",
-      "price": 119.89
+      "price": 119.89,
+      "link": "https://i.postimg.cc/Nfqgr056/17.webp"
     },
     {
       "string": "MP7, Neon Ply, 59,42 kr.webp",
       "id": 18,
       "type": "MP7",
       "skin": "Neon Ply",
-      "price": 59.42
+      "price": 59.42,
+      "link": "https://i.postimg.cc/13MPTcMB/18.webp"
     },
     {
       "string": "MP7, Ocean Foam, 38,89 kr.webp",
       "id": 19,
       "type": "MP7",
       "skin": "Ocean Foam",
-      "price": 38.89
+      "price": 38.89,
+      "link": "https://i.postimg.cc/qvp4jZcg/19.webp"
     },
     {
       "string": "MP7, Olive Plaid, 37,53 kr.webp",
       "id": 20,
       "type": "MP7",
       "skin": "Olive Plaid",
-      "price": 37.53
+      "price": 37.53,
+      "link": "https://i.postimg.cc/hGjgqz5B/20.webp"
     },
     {
       "string": "MP7, Orange Peel, 170,25 kr.webp",
       "id": 21,
       "type": "MP7",
       "skin": "Orange Peel",
-      "price": 170.25
+      "price": 170.25,
+      "link": "https://i.postimg.cc/9fn2Xm6q/21.webp"
     },
     {
       "string": "MP7, Powercore, 29,50 kr.webp",
       "id": 22,
       "type": "MP7",
       "skin": "Powercore",
-      "price": 29.5
+      "price": 29.5,
+      "link": "https://i.postimg.cc/tJ0HPrCq/22.webp"
     },
     {
       "string": "MP7, Prey, 6,26 kr.webp",
       "id": 23,
       "type": "MP7",
       "skin": "Prey",
-      "price": 6.26
+      "price": 6.26,
+      "link": "https://i.postimg.cc/50QVXcJK/23.webp"
     },
     {
       "string": "MP7, Scorched, 70,68 kr.webp",
       "id": 24,
       "type": "MP7",
       "skin": "Scorched",
-      "price": 70.68
+      "price": 70.68,
+      "link": "https://i.postimg.cc/qq8HG8z8/24.webp"
     },
     {
       "string": "MP7, Skulls, 177,13 kr.webp",
       "id": 25,
       "type": "MP7",
       "skin": "Skulls",
-      "price": 177.13
+      "price": 177.13,
+      "link": "https://i.postimg.cc/CMD0YVmz/25.webp"
     },
     {
       "string": "MP7, Special Delivery, 34,93 kr.webp",
       "id": 26,
       "type": "MP7",
       "skin": "Special Delivery",
-      "price": 34.93
+      "price": 34.93,
+      "link": "https://i.postimg.cc/SNhhxtvV/26.webp"
     },
     {
       "string": "MP7, Sunbaked, 1,46 kr.webp",
       "id": 27,
       "type": "MP7",
       "skin": "Sunbaked",
-      "price": 1.46
+      "price": 1.46,
+      "link": "https://i.postimg.cc/ht4R9Qgd/27.webp"
     },
     {
       "string": "MP7, Tall Grass, 35,34 kr.webp",
       "id": 28,
       "type": "MP7",
       "skin": "Tall Grass",
-      "price": 35.34
+      "price": 35.34,
+      "link": "https://i.postimg.cc/4NQT7QCG/28.webp"
     },
     {
       "string": "MP7, Teal Blossom, 937,66 kr.webp",
       "id": 29,
       "type": "MP7",
       "skin": "Teal Blossom",
-      "price": 937.66
+      "price": 937.66,
+      "link": "https://i.postimg.cc/6pHJz651/29.webp"
     },
     {
       "string": "MP7, Urban Hazard, 2,29 kr.webp",
       "id": 30,
       "type": "MP7",
       "skin": "Urban Hazard",
-      "price": 2.29
+      "price": 2.29,
+      "link": "https://i.postimg.cc/TPp8s8K2/30.webp"
     },
     {
       "string": "MP7, Vault Heist, 25,02 kr.webp",
       "id": 31,
       "type": "MP7",
       "skin": "Vault Heist",
-      "price": 25.02
+      "price": 25.02,
+      "link": "https://i.postimg.cc/jjmV08fH/31.webp"
     },
     {
       "string": "MP7, Whiteout, 6255,36 kr.webp",
       "id": 32,
       "type": "MP7",
       "skin": "Whiteout",
-      "price": 6255.36
+      "price": 6255.36,
+      "link": "https://i.postimg.cc/HxyqpQ0f/32.webp"
     }
   ],
   "P2000": [
@@ -1904,210 +2173,240 @@
       "id": 0,
       "type": "P2000",
       "skin": "Acid Etched",
-      "price": 11.42
+      "price": 11.42,
+      "link": "https://i.postimg.cc/h4dq1qmK/0.webp"
     },
     {
       "string": "P2000, Amber Fade, 104,68 kr.webp",
       "id": 1,
       "type": "P2000",
       "skin": "Amber Fade",
-      "price": 104.68
+      "price": 104.68,
+      "link": "https://i.postimg.cc/02GRhdZ3/1.webp"
     },
     {
       "string": "P2000, Chainmail, 1192,71 kr.webp",
       "id": 2,
       "type": "P2000",
       "skin": "Chainmail",
-      "price": 1192.71
+      "price": 1192.71,
+      "link": "https://i.postimg.cc/3JQQLbjm/2.webp"
     },
     {
       "string": "P2000, Coach Class, 212,93 kr.webp",
       "id": 3,
       "type": "P2000",
       "skin": "Coach Class",
-      "price": 212.93
+      "price": 212.93,
+      "link": "https://i.postimg.cc/gj9QTnhm/3.webp"
     },
     {
       "string": "P2000, Corticera, 203,81 kr.webp",
       "id": 4,
       "type": "P2000",
       "skin": "Corticera",
-      "price": 203.81
+      "price": 203.81,
+      "link": "https://i.postimg.cc/P52G5XgQ/4.webp"
     },
     {
       "string": "P2000, Dispatch, 186,11 kr.webp",
       "id": 5,
       "type": "P2000",
       "skin": "Dispatch",
-      "price": 186.11
+      "price": 186.11,
+      "link": "https://i.postimg.cc/RZM5m6D0/5.webp"
     },
     {
       "string": "P2000, Fire Elemental, 288,69 kr.webp",
       "id": 6,
       "type": "P2000",
       "skin": "Fire Elemental",
-      "price": 288.69
+      "price": 288.69,
+      "link": "https://i.postimg.cc/gJL1svng/6.webp"
     },
     {
       "string": "P2000, Gnarled. 1,99 kr.webp",
       "id": 7,
       "type": "P2000",
       "skin": "Gnarled. 1",
-      "price": 99
+      "price": 99,
+      "link": "https://i.postimg.cc/pdTwhNxb/7.webp"
     },
     {
       "string": "P2000, Granite Marbleized, 4,30 kr.webp",
       "id": 8,
       "type": "P2000",
       "skin": "Granite Marbleized",
-      "price": 4.3
+      "price": 4.3,
+      "link": "https://i.postimg.cc/W4HQ09bD/8.webp"
     },
     {
       "string": "P2000, Grasland, 274,65 kr.webp",
       "id": 9,
       "type": "P2000",
       "skin": "Grasland",
-      "price": 274.65
+      "price": 274.65,
+      "link": "https://i.postimg.cc/dQdzTjM1/9.webp"
     },
     {
       "string": "P2000, Grassland Leaves, 1991,20 kr.webp",
       "id": 10,
       "type": "P2000",
       "skin": "Grassland Leaves",
-      "price": 1991.2
+      "price": 1991.2,
+      "link": "https://i.postimg.cc/VL82901F/10.webp"
     },
     {
       "string": "P2000, Handgun, 60,88 kr.webp",
       "id": 11,
       "type": "P2000",
       "skin": "Handgun",
-      "price": 60.88
+      "price": 60.88,
+      "link": "https://i.postimg.cc/hP1624tR/11.webp"
     },
     {
       "string": "P2000, Imperial Dragon, 76,39 kr.webp",
       "id": 12,
       "type": "P2000",
       "skin": "Imperial Dragon",
-      "price": 76.39
+      "price": 76.39,
+      "link": "https://i.postimg.cc/4dcFVsSM/12.webp"
     },
     {
       "string": "P2000, Imperial, 3,56 kr.webp",
       "id": 13,
       "type": "P2000",
       "skin": "Imperial",
-      "price": 3.56
+      "price": 3.56,
+      "link": "https://i.postimg.cc/fRWFp4Vt/13.webp"
     },
     {
       "string": "P2000, Ivory, 4,72 kr.webp",
       "id": 14,
       "type": "P2000",
       "skin": "Ivory",
-      "price": 4.72
+      "price": 4.72,
+      "link": "https://i.postimg.cc/MGvLZybz/14.webp"
     },
     {
       "string": "P2000, Lifted Spirits, 1,89 kr.webp",
       "id": 15,
       "type": "P2000",
       "skin": "Lifted Spirits",
-      "price": 1.89
+      "price": 1.89,
+      "link": "https://i.postimg.cc/3wVckdnm/15.webp"
     },
     {
       "string": "P2000, Obsidian, 109,30 kr.webp",
       "id": 16,
       "type": "P2000",
       "skin": "Obsidian",
-      "price": 109.3
+      "price": 109.3,
+      "link": "https://i.postimg.cc/P56ck6D6/16.webp"
     },
     {
       "string": "P2000, Ocean Foam, 1138,43 kr.webp",
       "id": 17,
       "type": "P2000",
       "skin": "Ocean Foam",
-      "price": 1138.43
+      "price": 1138.43,
+      "link": "https://i.postimg.cc/x8SpPBrd/17.webp"
     },
     {
       "string": "P2000, Oceanic, 2,41 kr.webp",
       "id": 18,
       "type": "P2000",
       "skin": "Oceanic",
-      "price": 2.41
+      "price": 2.41,
+      "link": "https://i.postimg.cc/66dmQ6R4/18.webp"
     },
     {
       "string": "P2000, Panther Camo, 36,57 kr.webp",
       "id": 19,
       "type": "P2000",
       "skin": "Panther Camo",
-      "price": 36.57
+      "price": 36.57,
+      "link": "https://i.postimg.cc/RhQspG9L/19.webp"
     },
     {
       "string": "P2000, Pathfinder, 165,99 kr.webp",
       "id": 20,
       "type": "P2000",
       "skin": "Pathfinder",
-      "price": 165.99
+      "price": 165.99,
+      "link": "https://i.postimg.cc/zX8PHmSt/20.webp"
     },
     {
       "string": "P2000, Pulse, 29,34 kr.webp",
       "id": 21,
       "type": "P2000",
       "skin": "Pulse",
-      "price": 29.34
+      "price": 29.34,
+      "link": "https://i.postimg.cc/HLcS1Tdx/21.webp"
     },
     {
       "string": "P2000, Red FragCam, 26,09 kr.webp",
       "id": 22,
       "type": "P2000",
       "skin": "Red FragCam",
-      "price": 26.09
+      "price": 26.09,
+      "link": "https://i.postimg.cc/Wb8YM952/22.webp"
     },
     {
       "string": "P2000, Scorpion, 73,14 kr.webp",
       "id": 23,
       "type": "P2000",
       "skin": "Scorpion",
-      "price": 73.14
+      "price": 73.14,
+      "link": "https://i.postimg.cc/y8rfGDqt/23.webp"
     },
     {
       "string": "P2000, Silver, 365,40 kr.webp",
       "id": 24,
       "type": "P2000",
       "skin": "Silver",
-      "price": 365.4
+      "price": 365.4,
+      "link": "https://i.postimg.cc/6pQjzdPC/24.webp"
     },
     {
       "string": "P2000, Space Race, 57,01 kr.webp",
       "id": 25,
       "type": "P2000",
       "skin": "Space Race",
-      "price": 57.01
+      "price": 57.01,
+      "link": "https://i.postimg.cc/GtrzDYY8/25.webp"
     },
     {
       "string": "P2000, Turf, 8,38 kr.webp",
       "id": 26,
       "type": "P2000",
       "skin": "Turf",
-      "price": 8.38
+      "price": 8.38,
+      "link": "https://i.postimg.cc/3wstKzxZ/26.webp"
     },
     {
       "string": "P2000, Urban Hazard, 2,62 kr.webp",
       "id": 27,
       "type": "P2000",
       "skin": "Urban Hazard",
-      "price": 2.62
+      "price": 2.62,
+      "link": "https://i.postimg.cc/Y9Qbj84B/27.webp"
     },
     {
       "string": "P2000, Wicked Sick, 145,45 kr.webp",
       "id": 28,
       "type": "P2000",
       "skin": "Wicked Sick",
-      "price": 145.45
+      "price": 145.45,
+      "link": "https://i.postimg.cc/0jfn0Qdt/28.webp"
     },
     {
       "string": "P2000, Woodsman, 111,18 kr.webp",
       "id": 29,
       "type": "P2000",
       "skin": "Woodsman",
-      "price": 111.18
+      "price": 111.18,
+      "link": "https://i.postimg.cc/2jF0DcR4/29.webp"
     }
   ],
   "P250": [
@@ -2116,329 +2415,376 @@
       "id": 0,
       "type": "P250",
       "skin": "Apep's Curse",
-      "price": 1358.7
+      "price": 1358.7,
+      "link": "https://i.postimg.cc/DyNyyc1z/0.webp"
     },
     {
       "string": "P250, Asiimov, 221,84 kr.webp",
       "id": 1,
       "type": "P250",
       "skin": "Asiimov",
-      "price": 221.84
+      "price": 221.84,
+      "link": "https://i.postimg.cc/ZnR4J9R3/1.webp"
     },
     {
       "string": "P250, Bengal Tiger, 304,83 kr.webp",
       "id": 2,
       "type": "P250",
       "skin": "Bengal Tiger",
-      "price": 304.83
+      "price": 304.83,
+      "link": "https://i.postimg.cc/x84Y80JZ/2.webp"
     },
     {
       "string": "P250, Black & Tan, 251,60 kr.webp",
       "id": 3,
       "type": "P250",
       "skin": "Black & Tan",
-      "price": 251.6
+      "price": 251.6,
+      "link": "https://i.postimg.cc/dVTQ7T9j/3.webp"
     },
     {
       "string": "P250, Bone Mask, 53,97 kr.webp",
       "id": 4,
       "type": "P250",
       "skin": "Bone Mask",
-      "price": 53.97
+      "price": 53.97,
+      "link": "https://i.postimg.cc/sX330HCT/4.webp"
     },
     {
       "string": "P250, Boreal Forest, 1,05 kr.webp",
       "id": 5,
       "type": "P250",
       "skin": "Boreal Forest",
-      "price": 1.05
+      "price": 1.05,
+      "link": "https://i.postimg.cc/8kKTtbKb/5.webp"
     },
     {
       "string": "P250, Cartel, 160,01 kr.webp",
       "id": 6,
       "type": "P250",
       "skin": "Cartel",
-      "price": 160.01
+      "price": 160.01,
+      "link": "https://i.postimg.cc/c4v0j8PG/6.webp"
     },
     {
       "string": "P250, Cassette, 1,78 kr.webp",
       "id": 7,
       "type": "P250",
       "skin": "Cassette",
-      "price": 1.78
+      "price": 1.78,
+      "link": "https://i.postimg.cc/50pfc5xb/7.webp"
     },
     {
       "string": "P250, Contaminant, 7,44 kr.webp",
       "id": 8,
       "type": "P250",
       "skin": "Contaminant",
-      "price": 7.44
+      "price": 7.44,
+      "link": "https://i.postimg.cc/25QzGRMq/8.webp"
     },
     {
       "string": "P250, Contamination, 30,81 kr.webp",
       "id": 9,
       "type": "P250",
       "skin": "Contamination",
-      "price": 30.81
+      "price": 30.81,
+      "link": "https://i.postimg.cc/hGWDVPyW/9.webp"
     },
     {
       "string": "P250, Crimson Kimono, 230,54 kr.webp",
       "id": 10,
       "type": "P250",
       "skin": "Crimson Kimono",
-      "price": 230.54
+      "price": 230.54,
+      "link": "https://i.postimg.cc/vHCbdZdg/10.webp"
     },
     {
       "string": "P250, Cyber Shell, 13,52 kr.webp",
       "id": 11,
       "type": "P250",
       "skin": "Cyber Shell",
-      "price": 13.52
+      "price": 13.52,
+      "link": "https://i.postimg.cc/fbNsJqyM/11.webp"
     },
     {
       "string": "P250, Dark Filigree, 66,96 kr.webp",
       "id": 12,
       "type": "P250",
       "skin": "Dark Filigree",
-      "price": 66.96
+      "price": 66.96,
+      "link": "https://i.postimg.cc/CxDYMpFv/12.webp"
     },
     {
       "string": "P250, Digital Architect, 605,26 kr.webp",
       "id": 13,
       "type": "P250",
       "skin": "Digital",
-      "price": 605.26
+      "price": 605.26,
+      "link": "https://i.postimg.cc/HL9g508X/13.webp"
     },
     {
       "string": "P250, Drought, 4,19 kr.webp",
       "id": 14,
       "type": "P250",
       "skin": "Drought",
-      "price": 4.19
+      "price": 4.19,
+      "link": "https://i.postimg.cc/hvfWHHy1/14.webp"
     },
     {
       "string": "P250, Exchanger, 5,76 kr.webp",
       "id": 15,
       "type": "P250",
       "skin": "Exchanger",
-      "price": 5.76
+      "price": 5.76,
+      "link": "https://i.postimg.cc/0Qt1X8fN/15.webp"
     },
     {
       "string": "P250, Facets, 172,38 kr.webp",
       "id": 16,
       "type": "P250",
       "skin": "Facets",
-      "price": 172.38
+      "price": 172.38,
+      "link": "https://i.postimg.cc/FRFQxf0q/16.webp"
     },
     {
       "string": "P250, Facility, 0,31 kr.webp",
       "id": 17,
       "type": "P250",
       "skin": "Facility",
-      "price": 0.31
+      "price": 0.31,
+      "link": "https://i.postimg.cc/2yMRm2gR/17.webp"
     },
     {
       "string": "P250, Forest Night, 19,60 kr.webp",
       "id": 18,
       "type": "P250",
       "skin": "Forest Night",
-      "price": 19.6
+      "price": 19.6,
+      "link": "https://i.postimg.cc/mZ5GQgkX/18.webp"
     },
     {
       "string": "P250, Franklin, 16,03 kr.webp",
       "id": 19,
       "type": "P250",
       "skin": "Franklin",
-      "price": 16.03
+      "price": 16.03,
+      "link": "https://i.postimg.cc/YCcKsD1Q/19.webp"
     },
     {
       "string": "P250, Gunsmoke, 188,62 kr.webp",
       "id": 20,
       "type": "P250",
       "skin": "Gunsmoke",
-      "price": 188.62
+      "price": 188.62,
+      "link": "https://i.postimg.cc/kgx33Ncz/20.webp"
     },
     {
       "string": "P250, Hive, 63,92 kr.webp",
       "id": 21,
       "type": "P250",
       "skin": "Hive",
-      "price": 63.92
+      "price": 63.92,
+      "link": "https://i.postimg.cc/sDGCKCZV/21.webp"
     },
     {
       "string": "P250, Inferno, 16,56 kr.webp",
       "id": 22,
       "type": "P250",
       "skin": "Inferno",
-      "price": 16.56
+      "price": 16.56,
+      "link": "https://i.postimg.cc/rmZ7CfV0/22.webp"
     },
     {
       "string": "P250, Iron Clad, 4,93 kr.webp",
       "id": 23,
       "type": "P250",
       "skin": "Iron Clad",
-      "price": 4.93
+      "price": 4.93,
+      "link": "https://i.postimg.cc/CKN3dF94/23.webp"
     },
     {
       "string": "P250, Mehndi, 239,02 kr.webp",
       "id": 24,
       "type": "P250",
       "skin": "Mehndi",
-      "price": 239.02
+      "price": 239.02,
+      "link": "https://i.postimg.cc/MTphQCSJ/24.webp"
     },
     {
       "string": "P250, Metallic DDPAT, 1,89 kr.webp",
       "id": 25,
       "type": "P250",
       "skin": "Metallic DDPAT",
-      "price": 1.89
+      "price": 1.89,
+      "link": "https://i.postimg.cc/FKNt9fCR/25.webp"
     },
     {
       "string": "P250, Mint Kimono, 11,42 kr.webp",
       "id": 26,
       "type": "P250",
       "skin": "Mint Kimono",
-      "price": 11.42
+      "price": 11.42,
+      "link": "https://i.postimg.cc/qqtSm2qm/26.webp"
     },
     {
       "string": "P250, Modern Hunter, 2098,51 kr.webp",
       "id": 27,
       "type": "P250",
       "skin": "Modern Hunter",
-      "price": 2098.51
+      "price": 2098.51,
+      "link": "https://i.postimg.cc/3r6Pkffz/27.webp"
     },
     {
       "string": "P250, Muertos, 91,17 kr.webp",
       "id": 28,
       "type": "P250",
       "skin": "Muertos",
-      "price": 91.17
+      "price": 91.17,
+      "link": "https://i.postimg.cc/Zn1gX0yJ/28.webp"
     },
     {
       "string": "P250, Nevermore, 12,99 kr.webp",
       "id": 29,
       "type": "P250",
       "skin": "Nevermore",
-      "price": 12.99
+      "price": 12.99,
+      "link": "https://i.postimg.cc/bNt4k0Kr/29.webp"
     },
     {
       "string": "P250, Nuclear Theat, 5822,19 kr.webp",
       "id": 30,
       "type": "P250",
       "skin": "Nuclear Theat",
-      "price": 5822.19
+      "price": 5822.19,
+      "link": "https://i.postimg.cc/nhfgkjJk/30.webp"
     },
     {
       "string": "P250, Re.Build, 3,04 kr.webp",
       "id": 31,
       "type": "P250",
       "skin": "Re.Build",
-      "price": 3.04
+      "price": 3.04,
+      "link": "https://i.postimg.cc/CKF233dn/31.webp"
     },
     {
       "string": "P250, Red Rock, 151,00 kr.webp",
       "id": 32,
       "type": "P250",
       "skin": "Red Rock",
-      "price": 151
+      "price": 151,
+      "link": "https://i.postimg.cc/jjZ1tMJg/32.webp"
     },
     {
       "string": "P250, Ripple, 3,14 kr.webp",
       "id": 33,
       "type": "P250",
       "skin": "Ripple",
-      "price": 3.14
+      "price": 3.14,
+      "link": "https://i.postimg.cc/sgP80jfR/33.webp"
     },
     {
       "string": "P250, Sand Dune, 2,20 kr.webp",
       "id": 34,
       "type": "P250",
       "skin": "Sand Dune",
-      "price": 2.2
+      "price": 2.2,
+      "link": "https://i.postimg.cc/gJjTJ3VY/34.webp"
     },
     {
       "string": "P250, See Ya Later, 103,64 kr.webp",
       "id": 35,
       "type": "P250",
       "skin": "See Ya Later",
-      "price": 103.64
+      "price": 103.64,
+      "link": "https://i.postimg.cc/zDbq2gsZ/35.webp"
     },
     {
       "string": "P250, Splash, 464,01 kr.webp",
       "id": 36,
       "type": "P250",
       "skin": "Splash",
-      "price": 464.01
+      "price": 464.01,
+      "link": "https://i.postimg.cc/nzWwQM2q/36.webp"
     },
     {
       "string": "P250, Steel Disruption, 20,64 kr.webp",
       "id": 37,
       "type": "P250",
       "skin": "Steel Disruption",
-      "price": 20.64
+      "price": 20.64,
+      "link": "https://i.postimg.cc/yxSphBpt/37.webp"
     },
     {
       "string": "P250, Supernova, 13,62 kr.webp",
       "id": 38,
       "type": "P250",
       "skin": "Supernova",
-      "price": 13.62
+      "price": 13.62,
+      "link": "https://i.postimg.cc/vH5bbd80/38.webp"
     },
     {
       "string": "P250, Undertow, 655,88 kr.webp",
       "id": 39,
       "type": "P250",
       "skin": "Undertow",
-      "price": 655.88
+      "price": 655.88,
+      "link": "https://i.postimg.cc/14hCJTLt/39.webp"
     },
     {
       "string": "P250, Valance, 5,87 kr.webp",
       "id": 40,
       "type": "P250",
       "skin": "Valance",
-      "price": 5.87
+      "price": 5.87,
+      "link": "https://i.postimg.cc/L4c2csSq/40.webp"
     },
     {
       "string": "P250, Verdigris, 5,34 kr.webp",
       "id": 41,
       "type": "P250",
       "skin": "Verdigris",
-      "price": 5.34
+      "price": 5.34,
+      "link": "https://i.postimg.cc/hGtBLzLY/41.webp"
     },
     {
       "string": "P250, Vino Primo, 165,88 kr.webp",
       "id": 42,
       "type": "P250",
       "skin": "Vino Primo",
-      "price": 165.88
+      "price": 165.88,
+      "link": "https://i.postimg.cc/pLZv5YF8/42.webp"
     },
     {
       "string": "P250, Visions, 91,80 kr.webp",
       "id": 43,
       "type": "P250",
       "skin": "Visions",
-      "price": 91.8
+      "price": 91.8,
+      "link": "https://i.postimg.cc/4dKR0DFb/43.webp"
     },
     {
       "string": "P250, Whiteout, 1873,21 kr.webp",
       "id": 44,
       "type": "P250",
       "skin": "Whiteout",
-      "price": 1873.21
+      "price": 1873.21,
+      "link": "https://i.postimg.cc/s2HRwjKg/44.webp"
     },
     {
       "string": "P250, Wingshot, 26,20 kr.webp",
       "id": 45,
       "type": "P250",
       "skin": "Wingshot",
-      "price": 26.2
+      "price": 26.2,
+      "link": "https://i.postimg.cc/NFmqs1tK/45.webp"
     },
     {
       "string": "P250, X-Ray, 4,61 kr.webp",
       "id": 46,
       "type": "P250",
       "skin": "X-Ray",
-      "price": 4.61
+      "price": 4.61,
+      "link": "https://i.postimg.cc/NMWvvd3h/46.webp"
     }
   ],
   "R8 Revolver": [
@@ -2447,147 +2793,168 @@
       "id": 0,
       "type": "R8 Revolver",
       "skin": "Amber Fade",
-      "price": 8.53
+      "price": 8.53,
+      "link": "https://i.postimg.cc/mgxkywk5/0.webp"
     },
     {
       "string": "R8 Revolver, Banana Cannon, 17,16 kr.webp",
       "id": 1,
       "type": "R8 Revolver",
       "skin": "Banana Cannon",
-      "price": 17.16
+      "price": 17.16,
+      "link": "https://i.postimg.cc/tJZRhZjb/1.webp"
     },
     {
       "string": "R8 Revolver, Blaze, 13,83 kr.webp",
       "id": 2,
       "type": "R8 Revolver",
       "skin": "Blaze",
-      "price": 13.83
+      "price": 13.83,
+      "link": "https://i.postimg.cc/cLQH9n84/2.webp"
     },
     {
       "string": "R8 Revolver, Bone Forged, 2,08 kr.webp",
       "id": 3,
       "type": "R8 Revolver",
       "skin": "Bone Forged",
-      "price": 2.08
+      "price": 2.08,
+      "link": "https://i.postimg.cc/tgkgyG5K/3.webp"
     },
     {
       "string": "R8 Revolver, Bone Mask, 0,83 kr.webp",
       "id": 4,
       "type": "R8 Revolver",
       "skin": "Bone Mask",
-      "price": 0.83
+      "price": 0.83,
+      "link": "https://i.postimg.cc/B6vnn77X/4.webp"
     },
     {
       "string": "R8 Revolver, Canal Spray, 54,17 kr.webp",
       "id": 5,
       "type": "R8 Revolver",
       "skin": "Canal Spray",
-      "price": 54.17
+      "price": 54.17,
+      "link": "https://i.postimg.cc/L5c9v991/5.webp"
     },
     {
       "string": "R8 Revolver, Crazy-8, 23,29 kr.webp",
       "id": 6,
       "type": "R8 Revolver",
       "skin": "Crazy-8",
-      "price": 23.29
+      "price": 23.29,
+      "link": "https://i.postimg.cc/t4tqtGLs/6.webp"
     },
     {
       "string": "R8 Revolver, Crimson Web, 37,85 kr.webp",
       "id": 7,
       "type": "R8 Revolver",
       "skin": "Crimson Web",
-      "price": 37.85
+      "price": 37.85,
+      "link": "https://i.postimg.cc/R040jZc1/7.webp"
     },
     {
       "string": "R8 Revolver, Desert Brush, 6,86 kr.webp",
       "id": 8,
       "type": "R8 Revolver",
       "skin": "Desert Brush",
-      "price": 6.86
+      "price": 6.86,
+      "link": "https://i.postimg.cc/TwHYLjBQ/8.webp"
     },
     {
       "string": "R8 Revolver, Fade, 174,06 kr.webp",
       "id": 9,
       "type": "R8 Revolver",
       "skin": "Fade",
-      "price": 174.06
+      "price": 174.06,
+      "link": "https://i.postimg.cc/kMzg7cQg/9.webp"
     },
     {
       "string": "R8 Revolver, Grip, 2,18 kr.webp",
       "id": 10,
       "type": "R8 Revolver",
       "skin": "Grip",
-      "price": 2.18
+      "price": 2.18,
+      "link": "https://i.postimg.cc/9QjX7QN3/10.webp"
     },
     {
       "string": "R8 Revolver, Inlay, 1,14 kr.webp",
       "id": 11,
       "type": "R8 Revolver",
       "skin": "Inlay",
-      "price": 1.14
+      "price": 1.14,
+      "link": "https://i.postimg.cc/43fJWFgB/11.webp"
     },
     {
       "string": "R8 Revolver, Junk Yard, 4,68 kr.webp",
       "id": 12,
       "type": "R8 Revolver",
       "skin": "Junk Yard",
-      "price": 4.68
+      "price": 4.68,
+      "link": "https://i.postimg.cc/yNL7tX6B/12.webp"
     },
     {
       "string": "R8 Revolver, Llama Cannon, 94,72 kr.webp",
       "id": 13,
       "type": "R8 Revolver",
       "skin": "Llama Cannon",
-      "price": 94.72
+      "price": 94.72,
+      "link": "https://i.postimg.cc/dtCt3y6m/13.webp"
     },
     {
       "string": "R8 Revolver, Memento, 19,86 kr.webp",
       "id": 14,
       "type": "R8 Revolver",
       "skin": "Memento",
-      "price": 19.86
+      "price": 19.86,
+      "link": "https://i.postimg.cc/hjwcPD75/14.webp"
     },
     {
       "string": "R8 Revolver, Night, 52,72 kr.webp",
       "id": 15,
       "type": "R8 Revolver",
       "skin": "Night",
-      "price": 52.72
+      "price": 52.72,
+      "link": "https://i.postimg.cc/ydW7HgWR/15.webp"
     },
     {
       "string": "R8 Revolver, Nitro, 3,85 kr.webp",
       "id": 16,
       "type": "R8 Revolver",
       "skin": "Nitro",
-      "price": 3.85
+      "price": 3.85,
+      "link": "https://i.postimg.cc/RhH9Wk7V/16.webp"
     },
     {
       "string": "R8 Revolver, Phoenix Marker, 27,66 kr.webp",
       "id": 17,
       "type": "R8 Revolver",
       "skin": "Phoenix Marker",
-      "price": 27.66
+      "price": 27.66,
+      "link": "https://i.postimg.cc/dQbZ5vS6/17.webp"
     },
     {
       "string": "R8 Revolver, Reboot, 30,99 kr.webp",
       "id": 18,
       "type": "R8 Revolver",
       "skin": "Reboot",
-      "price": 30.99
+      "price": 30.99,
+      "link": "https://i.postimg.cc/rz2TxfjG/18.webp"
     },
     {
       "string": "R8 Revolver, Skull Crusher, 14,87 kr.webp",
       "id": 19,
       "type": "R8 Revolver",
       "skin": "Skull Crusher",
-      "price": 14.87
+      "price": 14.87,
+      "link": "https://i.postimg.cc/sfQZP1K1/19.webp"
     },
     {
       "string": "R8 Revolver, Survivalist, 3,54 kr.webp",
       "id": 20,
       "type": "R8 Revolver",
       "skin": "Survivalist",
-      "price": 3.54
+      "price": 3.54,
+      "link": "https://i.postimg.cc/NfR9VV3c/20.webp"
     }
   ],
   "Tec-9": [
@@ -2596,266 +2963,304 @@
       "id": 0,
       "type": "Tec-9",
       "skin": "Army Mesh",
-      "price": 0.31
+      "price": 0.31,
+      "link": "https://i.postimg.cc/RZNrq5vr/0.webp"
     },
     {
       "string": "Tec-9, Avalanche, 37,05 kr.webp",
       "id": 1,
       "type": "Tec-9",
       "skin": "Avalanche",
-      "price": 37.05
+      "price": 37.05,
+      "link": "https://i.postimg.cc/mDWKdPCR/1.webp"
     },
     {
       "string": "Tec-9, Bamboo Forest, 59,37 kr.webp",
       "id": 2,
       "type": "Tec-9",
       "skin": "Bamboo Forest",
-      "price": 59.37
+      "price": 59.37,
+      "link": "https://i.postimg.cc/xCGhB93m/2.webp"
     },
     {
       "string": "Tec-9, Bamboozle, 11,45 kr.webp",
       "id": 3,
       "type": "Tec-9",
       "skin": "Bamboozle",
-      "price": 11.45
+      "price": 11.45,
+      "link": "https://i.postimg.cc/tJ2fCDfC/3.webp"
     },
     {
       "string": "Tec-9, Blast From The Past, 165,27 kr.webp",
       "id": 4,
       "type": "Tec-9",
       "skin": "Blast From The Past",
-      "price": 165.27
+      "price": 165.27,
+      "link": "https://i.postimg.cc/2yzMDg0K/4.webp"
     },
     {
       "string": "Tec-9, Blue Titanium, 83,36 kr.webp",
       "id": 5,
       "type": "Tec-9",
       "skin": "Blue Titanium",
-      "price": 83.36
+      "price": 83.36,
+      "link": "https://i.postimg.cc/YSWJf64b/5.webp"
     },
     {
       "string": "Tec-9, Brass, 728,52 kr.webp",
       "id": 6,
       "type": "Tec-9",
       "skin": "Brass",
-      "price": 728.52
+      "price": 728.52,
+      "link": "https://i.postimg.cc/qBLWLMRV/6.webp"
     },
     {
       "string": "Tec-9, Brother, 11,24 kr.webp",
       "id": 7,
       "type": "Tec-9",
       "skin": "Brother",
-      "price": 11.24
+      "price": 11.24,
+      "link": "https://i.postimg.cc/J4zvdVDy/7.webp"
     },
     {
       "string": "Tec-9, Cracked Opal, 2,39 kr.webp",
       "id": 8,
       "type": "Tec-9",
       "skin": "Cracked Opal",
-      "price": 2.39
+      "price": 2.39,
+      "link": "https://i.postimg.cc/t4fKxSgs/8.webp"
     },
     {
       "string": "Tec-9, Cut Out, 95,85 kr.webp",
       "id": 9,
       "type": "Tec-9",
       "skin": "Cut Out",
-      "price": 95.85
+      "price": 95.85,
+      "link": "https://i.postimg.cc/P5LcTWMT/9.webp"
     },
     {
       "string": "Tec-9, Decimator, 433,57 kr.webp",
       "id": 10,
       "type": "Tec-9",
       "skin": "Decimator",
-      "price": 433.57
+      "price": 433.57,
+      "link": "https://i.postimg.cc/QdRztF65/10.webp"
     },
     {
       "string": "Tec-9, Flash Out, 2,08 kr.webp",
       "id": 11,
       "type": "Tec-9",
       "skin": "Flash Out",
-      "price": 2.08
+      "price": 2.08,
+      "link": "https://i.postimg.cc/02X3TWDV/11.webp"
     },
     {
       "string": "Tec-9, Fubar, 14,05 kr.webp",
       "id": 12,
       "type": "Tec-9",
       "skin": "Fubar",
-      "price": 14.05
+      "price": 14.05,
+      "link": "https://i.postimg.cc/NMtP6Wvj/12.webp"
     },
     {
       "string": "Tec-9, Fuel Injector, 156,74 kr.webp",
       "id": 13,
       "type": "Tec-9",
       "skin": "Fuel Injector",
-      "price": 156.74
+      "price": 156.74,
+      "link": "https://i.postimg.cc/76NtmmqM/13.webp"
     },
     {
       "string": "Tec-9, Groundwater, 0,83 kr.webp",
       "id": 14,
       "type": "Tec-9",
       "skin": "Groundwater",
-      "price": 0.83
+      "price": 0.83,
+      "link": "https://i.postimg.cc/nLBPQn5W/14.webp"
     },
     {
       "string": "Tec-9, Hades, 189,42 kr.webp",
       "id": 15,
       "type": "Tec-9",
       "skin": "Hades",
-      "price": 189.42
+      "price": 189.42,
+      "link": "https://i.postimg.cc/BbQYyH6W/15.webp"
     },
     {
       "string": "Tec-9, Ice Cap, 4,27 kr.webp",
       "id": 16,
       "type": "Tec-9",
       "skin": "Ice Cap",
-      "price": 4.27
+      "price": 4.27,
+      "link": "https://i.postimg.cc/Y0nnw0Gv/16.webp"
     },
     {
       "string": "Tec-9, Isaac, 224,59 kr.webp",
       "id": 17,
       "type": "Tec-9",
       "skin": "Isaac",
-      "price": 224.59
+      "price": 224.59,
+      "link": "https://i.postimg.cc/2j2XWccC/17.webp"
     },
     {
       "string": "Tec-9, Jambiya, 10,51 kr.webp",
       "id": 18,
       "type": "Tec-9",
       "skin": "Jambiya",
-      "price": 10.51
+      "price": 10.51,
+      "link": "https://i.postimg.cc/X7PHHZ6h/18.webp"
     },
     {
       "string": "Tec-9, Mummy's Rot, 23,83 kr.webp",
       "id": 19,
       "type": "Tec-9",
       "skin": "Mummy's Rot",
-      "price": 23.83
+      "price": 23.83,
+      "link": "https://i.postimg.cc/d1nn8395/19.webp"
     },
     {
       "string": "Tec-9, Nuclear Threat, 9017,84 kr.webp",
       "id": 20,
       "type": "Tec-9",
       "skin": "Nuclear Threat",
-      "price": 9017.84
+      "price": 9017.84,
+      "link": "https://i.postimg.cc/Vkb73YYN/20.webp"
     },
     {
       "string": "Tec-9, Orange Murano, 73,79 kr.webp",
       "id": 21,
       "type": "Tec-9",
       "skin": "Orange Murano",
-      "price": 73.79
+      "price": 73.79,
+      "link": "https://i.postimg.cc/hGWCnHj1/21.webp"
     },
     {
       "string": "Tec-9, Ossified, 13,32 kr.webp",
       "id": 22,
       "type": "Tec-9",
       "skin": "Ossified",
-      "price": 13.32
+      "price": 13.32,
+      "link": "https://i.postimg.cc/k47f6KWV/22.webp"
     },
     {
       "string": "Tec-9, Phoenix Chalk, 6,03 kr.webp",
       "id": 23,
       "type": "Tec-9",
       "skin": "Phoenix Chalk",
-      "price": 6.03
+      "price": 6.03,
+      "link": "https://i.postimg.cc/FKyTHDk5/23.webp"
     },
     {
       "string": "Tec-9, Re-Entry, 13,95 kr.webp",
       "id": 24,
       "type": "Tec-9",
       "skin": "Re-Entry",
-      "price": 13.95
+      "price": 13.95,
+      "link": "https://i.postimg.cc/tJTkDbSp/24.webp"
     },
     {
       "string": "Tec-9, Rebel, 1,56 kr.webp",
       "id": 25,
       "type": "Tec-9",
       "skin": "Rebel",
-      "price": 1.56
+      "price": 1.56,
+      "link": "https://i.postimg.cc/7LnNkhjq/25.webp"
     },
     {
       "string": "Tec-9, Red Quartz, 1,35 kr.webp",
       "id": 26,
       "type": "Tec-9",
       "skin": "Red Quartz",
-      "price": 1.35
+      "price": 1.35,
+      "link": "https://i.postimg.cc/1zQK2wCW/26.webp"
     },
     {
       "string": "Tec-9, Remote Control, 76,29 kr.webp",
       "id": 27,
       "type": "Tec-9",
       "skin": "Remote Control",
-      "price": 76.29
+      "price": 76.29,
+      "link": "https://i.postimg.cc/CxDNcmNB/27.webp"
     },
     {
       "string": "Tec-9, Rust Leaf, 237,39 kr.webp",
       "id": 28,
       "type": "Tec-9",
       "skin": "Rust Leaf",
-      "price": 237.39
+      "price": 237.39,
+      "link": "https://i.postimg.cc/xjxt8k8C/28.webp"
     },
     {
       "string": "Tec-9, Safety Net, 11,24 kr.webp",
       "id": 29,
       "type": "Tec-9",
       "skin": "Safety Net",
-      "price": 11.24
+      "price": 11.24,
+      "link": "https://i.postimg.cc/NfZD8W1v/29.webp"
     },
     {
       "string": "Tec-9, Sandstorm, 11,86 kr.webp",
       "id": 30,
       "type": "Tec-9",
       "skin": "Sandstorm",
-      "price": 11.86
+      "price": 11.86,
+      "link": "https://i.postimg.cc/x84R4ZhH/30.webp"
     },
     {
       "string": "Tec-9, Snek-9, 4,16 kr.webp",
       "id": 31,
       "type": "Tec-9",
       "skin": "Snek-9",
-      "price": 4.16
+      "price": 4.16,
+      "link": "https://i.postimg.cc/c4vTnstc/31.webp"
     },
     {
       "string": "Tec-9, Terrace, 1266,27 kr.webp",
       "id": 32,
       "type": "Tec-9",
       "skin": "Terrace",
-      "price": 1266.27
+      "price": 1266.27,
+      "link": "https://i.postimg.cc/3RrFJ7Hm/32.webp"
     },
     {
       "string": "Tec-9, Titanium Bit, 83,88 kr.webp",
       "id": 33,
       "type": "Tec-9",
       "skin": "Titanium Bit",
-      "price": 83.88
+      "price": 83.88,
+      "link": "https://i.postimg.cc/1tWc8T9T/33.webp"
     },
     {
       "string": "Tec-9, Tornado, 269,60 kr.webp",
       "id": 34,
       "type": "Tec-9",
       "skin": "Tornado",
-      "price": 269.6
+      "price": 269.6,
+      "link": "https://i.postimg.cc/BbX5Hgbv/34.webp"
     },
     {
       "string": "Tec-9, Toxic, 77,43 kr.webp",
       "id": 35,
       "type": "Tec-9",
       "skin": "Toxic",
-      "price": 77.43
+      "price": 77.43,
+      "link": "https://i.postimg.cc/3J0CwnzS/35.webp"
     },
     {
       "string": "Tec-9, Urban DDPAT, 1,14 kr.webp",
       "id": 36,
       "type": "Tec-9",
       "skin": "Urban DDPAT",
-      "price": 1.14
+      "price": 1.14,
+      "link": "https://i.postimg.cc/kGzQcbRv/36.webp"
     },
     {
       "string": "Tec-9, VariCamo, 1,66 kr.webp",
       "id": 37,
       "type": "Tec-9",
       "skin": "VariCamo",
-      "price": 1.66
+      "price": 1.66,
+      "link": "https://i.postimg.cc/bYB98KVS/37.webp"
     }
   ],
   "USP-S": [
@@ -2864,245 +3269,280 @@
       "id": 0,
       "type": "USP-S",
       "skin": "Ancient Visions",
-      "price": 535.27
+      "price": 535.27,
+      "link": "https://i.postimg.cc/Pqy17c8x/0.webp"
     },
     {
       "string": "USP-S, Black Lotus, 58,13 kr.webp",
       "id": 1,
       "type": "USP-S",
       "skin": "Black Lotus",
-      "price": 58.13
+      "price": 58.13,
+      "link": "https://i.postimg.cc/qqhnzvDh/1.webp"
     },
     {
       "string": "USP-S, Blood Tiger, 57,92 kr.webp",
       "id": 2,
       "type": "USP-S",
       "skin": "Blood Tiger",
-      "price": 57.92
+      "price": 57.92,
+      "link": "https://i.postimg.cc/RF0wxRcT/2.webp"
     },
     {
       "string": "USP-S, Blueprint, 387,94 kr.webp",
       "id": 3,
       "type": "USP-S",
       "skin": "Blueprint",
-      "price": 387.94
+      "price": 387.94,
+      "link": "https://i.postimg.cc/vZd9ZMrT/3.webp"
     },
     {
       "string": "USP-S, Business Class, 566,12 kr.webp",
       "id": 4,
       "type": "USP-S",
       "skin": "Business Class",
-      "price": 566.12
+      "price": 566.12,
+      "link": "https://i.postimg.cc/3Rbm8v1Q/4.webp"
     },
     {
       "string": "USP-S, Caiman, 590,15 kr.webp",
       "id": 5,
       "type": "USP-S",
       "skin": "Caiman",
-      "price": 590.15
+      "price": 590.15,
+      "link": "https://i.postimg.cc/T3qbyS09/5.webp"
     },
     {
       "string": "USP-S, Check Engine, 15,43 kr.webp",
       "id": 6,
       "type": "USP-S",
       "skin": "Check Engine",
-      "price": 15.43
+      "price": 15.43,
+      "link": "https://i.postimg.cc/DfHLR1mq/6.webp"
     },
     {
       "string": "USP-S, Cortex, 110,81 kr.webp",
       "id": 7,
       "type": "USP-S",
       "skin": "Cortex",
-      "price": 110.81
+      "price": 110.81,
+      "link": "https://i.postimg.cc/BQFH3t1R/7.webp"
     },
     {
       "string": "USP-S, Cyrex, 32,53 kr.webp",
       "id": 8,
       "type": "USP-S",
       "skin": "Cyrex",
-      "price": 32.53
+      "price": 32.53,
+      "link": "https://i.postimg.cc/J0fXJCST/8.webp"
     },
     {
       "string": "USP-S, Dark Water, 854,90 kr.webp",
       "id": 9,
       "type": "USP-S",
       "skin": "Dark Water",
-      "price": 854.9
+      "price": 854.9,
+      "link": "https://i.postimg.cc/zfzgTjP1/9.webp"
     },
     {
       "string": "USP-S, Desert Tactical, 7,03 kr.webp",
       "id": 10,
       "type": "USP-S",
       "skin": "Desert Tactical",
-      "price": 7.03
+      "price": 7.03,
+      "link": "https://i.postimg.cc/9Mzwnfh8/10.webp"
     },
     {
       "string": "USP-S, Flashback, 12,07 kr.webp",
       "id": 11,
       "type": "USP-S",
       "skin": "Flashback",
-      "price": 12.07
+      "price": 12.07,
+      "link": "https://i.postimg.cc/26JLRfjz/11.webp"
     },
     {
       "string": "USP-S, Forest Leaves, 10,18 kr.webp",
       "id": 12,
       "type": "USP-S",
       "skin": "Forest Leaves",
-      "price": 10.18
+      "price": 10.18,
+      "link": "https://i.postimg.cc/W45J8kQq/12.webp"
     },
     {
       "string": "USP-S, Guardian, 11,44 kr.webp",
       "id": 13,
       "type": "USP-S",
       "skin": "Guardian",
-      "price": 11.44
+      "price": 11.44,
+      "link": "https://i.postimg.cc/Z0z9nFy2/13.webp"
     },
     {
       "string": "USP-S, Kill Confirmed, 1763,64 kr.webp",
       "id": 14,
       "type": "USP-S",
       "skin": "Kill Confirmed",
-      "price": 1763.64
+      "price": 1763.64,
+      "link": "https://i.postimg.cc/SRM2mtjc/14.webp"
     },
     {
       "string": "USP-S, Lead Conduit, 28,23 kr.webp",
       "id": 15,
       "type": "USP-S",
       "skin": "Lead Conduit",
-      "price": 28.23
+      "price": 28.23,
+      "link": "https://i.postimg.cc/jqmFx8M2/15.webp"
     },
     {
       "string": "USP-S, Monster Mashup, 398,23 kr.webp",
       "id": 16,
       "type": "USP-S",
       "skin": "Monster Mashup",
-      "price": 398.23
+      "price": 398.23,
+      "link": "https://i.postimg.cc/05b4qgdh/16.webp"
     },
     {
       "string": "USP-S, Neo-Noir, 382,49 kr.webp",
       "id": 17,
       "type": "USP-S",
       "skin": "Neo-Noir",
-      "price": 382.49
+      "price": 382.49,
+      "link": "https://i.postimg.cc/vHnScWKz/17.webp"
     },
     {
       "string": "USP-S, Night Ops, 6,40 kr.webp",
       "id": 18,
       "type": "USP-S",
       "skin": "Night Ops",
-      "price": 6.4
+      "price": 6.4,
+      "link": "https://i.postimg.cc/Gm1gY4w1/18.webp"
     },
     {
       "string": "USP-S, Orange Anolis, 896,67 kr.webp",
       "id": 19,
       "type": "USP-S",
       "skin": "Orange Anolis",
-      "price": 896.67
+      "price": 896.67,
+      "link": "https://i.postimg.cc/mgNXSTB1/19.webp"
     },
     {
       "string": "USP-S, Orion, 598,13 kr.webp",
       "id": 20,
       "type": "USP-S",
       "skin": "Orion",
-      "price": 598.13
+      "price": 598.13,
+      "link": "https://i.postimg.cc/Zqbf7X57/20.webp"
     },
     {
       "string": "USP-S, Overgrowth, 461,71 kr.webp",
       "id": 21,
       "type": "USP-S",
       "skin": "Overgrowth",
-      "price": 461.71
+      "price": 461.71,
+      "link": "https://i.postimg.cc/PxNShZZ1/21.webp"
     },
     {
       "string": "USP-S, Para Green, 168 kr.webp",
       "id": 22,
       "type": "USP-S",
       "skin": "Para Green",
-      "price": 168
+      "price": 168,
+      "link": "https://i.postimg.cc/TPttZQyR/22.webp"
     },
     {
       "string": "USP-S, Pathfinder, 261,81 kr.webp",
       "id": 23,
       "type": "USP-S",
       "skin": "Pathfinder",
-      "price": 261.81
+      "price": 261.81,
+      "link": "https://i.postimg.cc/mkHV1smD/23.webp"
     },
     {
       "string": "USP-S, Printstream, 1121,75 kr.webp",
       "id": 24,
       "type": "USP-S",
       "skin": "Printstream",
-      "price": 1121.75
+      "price": 1121.75,
+      "link": "https://i.postimg.cc/1tTJztc2/24.webp"
     },
     {
       "string": "USP-S, Purple DDPAT, 148,27 kr.webp",
       "id": 25,
       "type": "USP-S",
       "skin": "Purple DDPAT",
-      "price": 148.27
+      "price": 148.27,
+      "link": "https://i.postimg.cc/VsxKQJNb/25.webp"
     },
     {
       "string": "USP-S, Road Rash, 609,88 kr.webp",
       "id": 26,
       "type": "USP-S",
       "skin": "Road Rash",
-      "price": 609.88
+      "price": 609.88,
+      "link": "https://i.postimg.cc/wjV2mFQh/26.webp"
     },
     {
       "string": "USP-S, Royal Blue, 708,31 kr.webp",
       "id": 27,
       "type": "USP-S",
       "skin": "Royal Blue",
-      "price": 708.31
+      "price": 708.31,
+      "link": "https://i.postimg.cc/y6gLbm7H/27.webp"
     },
     {
       "string": "USP-S, Serum, 615,65 kr.webp",
       "id": 28,
       "type": "USP-S",
       "skin": "Serum",
-      "price": 615.65
+      "price": 615.65,
+      "link": "https://i.postimg.cc/mgRVkKCL/28.webp"
     },
     {
       "string": "USP-S, Stainless, 225,09 kr.webp",
       "id": 29,
       "type": "USP-S",
       "skin": "Stainless",
-      "price": 225.09
+      "price": 225.09,
+      "link": "https://i.postimg.cc/0NyfdmVh/29.webp"
     },
     {
       "string": "USP-S, Target Acquired, 2560,62 kr.webp",
       "id": 30,
       "type": "USP-S",
       "skin": "Target Acquired",
-      "price": 2560.62
+      "price": 2560.62,
+      "link": "https://i.postimg.cc/0NXCtQ3j/30.webp"
     },
     {
       "string": "USP-S, The Traitor, 486,90 kr.webp",
       "id": 31,
       "type": "USP-S",
       "skin": "The Traitor",
-      "price": 486.9
+      "price": 486.9,
+      "link": "https://i.postimg.cc/PxBQj7dk/31.webp"
     },
     {
       "string": "USP-S, Ticket to Hell, 19,94 kr.webp",
       "id": 32,
       "type": "USP-S",
       "skin": "Ticket to Hell",
-      "price": 19.94
+      "price": 19.94,
+      "link": "https://i.postimg.cc/j5W4BT0X/32.webp"
     },
     {
       "string": "USP-S, Torque, 14,17 kr.webp",
       "id": 33,
       "type": "USP-S",
       "skin": "Torque",
-      "price": 14.17
+      "price": 14.17,
+      "link": "https://i.postimg.cc/KjBrv5Y3/33.webp"
     },
     {
       "string": "USP-S, Whiteout, 2336,80 kr.webp",
       "id": 34,
       "type": "USP-S",
       "skin": "Whiteout",
-      "price": 2336.8
+      "price": 2336.8,
+      "link": "https://i.postimg.cc/Y2Wx3tx2/34.webp"
     }
   ],
   "MP9": [
@@ -3111,231 +3551,264 @@
       "id": 0,
       "type": "MP9",
       "skin": "Airlock",
-      "price": 113.22
+      "price": 113.22,
+      "link": "https://i.postimg.cc/43CvDVdK/0.webp"
     },
     {
       "string": "MP9, Army Sheen, 6,05 kr.webp",
       "id": 1,
       "type": "MP9",
       "skin": "Army Sheen",
-      "price": 6.05
+      "price": 6.05,
+      "link": "https://i.postimg.cc/kG5WQyjH/1.webp"
     },
     {
       "string": "MP9, Bioleak, 2,81 kr.webp",
       "id": 2,
       "type": "MP9",
       "skin": "Bioleak",
-      "price": 2.81
+      "price": 2.81,
+      "link": "https://i.postimg.cc/BQk2FH2h/2.webp"
     },
     {
       "string": "MP9, Black Sand, 2,50 kr.webp",
       "id": 3,
       "type": "MP9",
       "skin": "Black Sand",
-      "price": 2.5
+      "price": 2.5,
+      "link": "https://i.postimg.cc/L8PL35Tm/3.webp"
     },
     {
       "string": "MP9, Bulldozer, 5942,86 kr.webp",
       "id": 4,
       "type": "MP9",
       "skin": "Bulldozer",
-      "price": 5942.86
+      "price": 5942.86,
+      "link": "https://i.postimg.cc/W4MmTzF5/4.webp"
     },
     {
       "string": "MP9, Capillary, 4,38 kr.webp",
       "id": 5,
       "type": "MP9",
       "skin": "Capillary",
-      "price": 4.38
+      "price": 4.38,
+      "link": "https://i.postimg.cc/g0PRSpS8/5.webp"
     },
     {
       "string": "MP9, Dark Age, 1092,26 kr.webp",
       "id": 6,
       "type": "MP9",
       "skin": "Dark Age",
-      "price": 1092.26
+      "price": 1092.26,
+      "link": "https://i.postimg.cc/HWSwpfn1/6.webp"
     },
     {
       "string": "MP9, Dart, 8,34 kr.webp",
       "id": 7,
       "type": "MP9",
       "skin": "Dart",
-      "price": 8.34
+      "price": 8.34,
+      "link": "https://i.postimg.cc/5ykLnFT2/7.webp"
     },
     {
       "string": "MP9, Deadly Poison, 17,41 kr.webp",
       "id": 8,
       "type": "MP9",
       "skin": "Deadly Poison",
-      "price": 17.41
+      "price": 17.41,
+      "link": "https://i.postimg.cc/Dy8qmB4J/8.webp"
     },
     {
       "string": "MP9, Dry Season, 521,27 kr.webp",
       "id": 9,
       "type": "MP9",
       "skin": "Dry Season",
-      "price": 521.27
+      "price": 521.27,
+      "link": "https://i.postimg.cc/C17jn24D/9.webp"
     },
     {
       "string": "MP9, Featherweight, 3,13 kr.webp",
       "id": 10,
       "type": "MP9",
       "skin": "Featherweight",
-      "price": 3.13
+      "price": 3.13,
+      "link": "https://i.postimg.cc/pTsFLF2J/10.webp"
     },
     {
       "string": "MP9, Food Chain, 89,13 kr.webp",
       "id": 11,
       "type": "MP9",
       "skin": "Food Chain",
-      "price": 89.13
+      "price": 89.13,
+      "link": "https://i.postimg.cc/YSfFTPZV/11.webp"
     },
     {
       "string": "MP9, Goo, 15,12 kr.webp",
       "id": 12,
       "type": "MP9",
       "skin": "Goo",
-      "price": 15.12
+      "price": 15.12,
+      "link": "https://i.postimg.cc/MT6BwD8G/12.webp"
     },
     {
       "string": "MP9, Green Plaid, 50,46 kr.webp",
       "id": 13,
       "type": "MP9",
       "skin": "Green Plaid",
-      "price": 50.46
+      "price": 50.46,
+      "link": "https://i.postimg.cc/hvh7ztvW/13.webp"
     },
     {
       "string": "MP9, Hot Rod, 878,54 kr.webp",
       "id": 14,
       "type": "MP9",
       "skin": "Hot Rod",
-      "price": 878.54
+      "price": 878.54,
+      "link": "https://i.postimg.cc/GtNTknTB/14.webp"
     },
     {
       "string": "MP9, Hydra, 166,28 kr.webp",
       "id": 15,
       "type": "MP9",
       "skin": "Hydra",
-      "price": 166.28
+      "price": 166.28,
+      "link": "https://i.postimg.cc/KvkMmjCt/15.webp"
     },
     {
       "string": "MP9, Hypnotic, 117,18 kr.webp",
       "id": 16,
       "type": "MP9",
       "skin": "Hypnotic",
-      "price": 117.18
+      "price": 117.18,
+      "link": "https://i.postimg.cc/h43mFTZS/16.webp"
     },
     {
       "string": "MP9, Modest Threat, 2,61 kr.webp",
       "id": 17,
       "type": "MP9",
       "skin": "Modest Threat",
-      "price": 2.61
+      "price": 2.61,
+      "link": "https://i.postimg.cc/wTCsMHdZ/17.webp"
     },
     {
       "string": "MP9, Mount Fuji, 92,99 kr.webp",
       "id": 18,
       "type": "MP9",
       "skin": "Mount Fuji",
-      "price": 92.99
+      "price": 92.99,
+      "link": "https://i.postimg.cc/528QFG40/18.webp"
     },
     {
       "string": "MP9, Music Box, 169,62 kr.webp",
       "id": 19,
       "type": "MP9",
       "skin": "Music Box",
-      "price": 169.62
+      "price": 169.62,
+      "link": "https://i.postimg.cc/MGxM0DHY/19.webp"
     },
     {
       "string": "MP9, Old Roots, 55,05 kr.webp",
       "id": 20,
       "type": "MP9",
       "skin": "Old Roots",
-      "price": 55.05
+      "price": 55.05,
+      "link": "https://i.postimg.cc/1t3823pn/20.webp"
     },
     {
       "string": "MP9, Orange Peel, 3,44 kr.webp",
       "id": 21,
       "type": "MP9",
       "skin": "Orange Peel",
-      "price": 3.44
+      "price": 3.44,
+      "link": "https://i.postimg.cc/W4nD5kJc/21.webp"
     },
     {
       "string": "MP9, Pandora's Box, 1644,60 kr.webp",
       "id": 22,
       "type": "MP9",
       "skin": "Pandora's Box",
-      "price": 1644.6
+      "price": 1644.6,
+      "link": "https://i.postimg.cc/mZqPpRhk/22.webp"
     },
     {
       "string": "MP9, Rose Iron, 87,05 kr.webp",
       "id": 23,
       "type": "MP9",
       "skin": "Rose Iron",
-      "price": 87.05
+      "price": 87.05,
+      "link": "https://i.postimg.cc/bJVZhfT6/23.webp"
     },
     {
       "string": "MP9, Ruby Poison Dart, 20,43 kr.webp",
       "id": 24,
       "type": "MP9",
       "skin": "Ruby Poison Dart",
-      "price": 20.43
+      "price": 20.43,
+      "link": "https://i.postimg.cc/904rXggc/24.webp"
     },
     {
       "string": "MP9, Sand Dashed, 0,73 kr.webp",
       "id": 25,
       "type": "MP9",
       "skin": "Sand Dashed",
-      "price": 0.73
+      "price": 0.73,
+      "link": "https://i.postimg.cc/WzQtdmxg/25.webp"
     },
     {
       "string": "MP9, Sand Scale, 3,54 kr.webp",
       "id": 26,
       "type": "MP9",
       "skin": "Sand Scale",
-      "price": 3.54
+      "price": 3.54,
+      "link": "https://i.postimg.cc/7Y2fpcTV/26.webp"
     },
     {
       "string": "MP9, Setting Sun, 90,07 kr.webp",
       "id": 27,
       "type": "MP9",
       "skin": "Setting Sun",
-      "price": 90.07
+      "price": 90.07,
+      "link": "https://i.postimg.cc/nhfCZk4t/27.webp"
     },
     {
       "string": "MP9, Slide, 0,63 kr.webp",
       "id": 28,
       "type": "MP9",
       "skin": "Slide",
-      "price": 0.63
+      "price": 0.63,
+      "link": "https://i.postimg.cc/Jz3thkxH/28.webp"
     },
     {
       "string": "MP9, Stained Glass, 1344,24 kr.webp",
       "id": 29,
       "type": "MP9",
       "skin": "Stained Glass",
-      "price": 1344.24
+      "price": 1344.24,
+      "link": "https://i.postimg.cc/cJsCtLk9/29.webp"
     },
     {
       "string": "MP9, Starlight Protector, 211,67 kr.webp",
       "id": 30,
       "type": "MP9",
       "skin": "Starlight Protector",
-      "price": 211.67
+      "price": 211.67,
+      "link": "https://i.postimg.cc/qRq7QZT2/30.webp"
     },
     {
       "string": "MP9, Storm, 119,89 kr.webp",
       "id": 31,
       "type": "MP9",
       "skin": "Storm",
-      "price": 119.89
+      "price": 119.89,
+      "link": "https://i.postimg.cc/MGdT7JhW/31.webp"
     },
     {
       "string": "MP9, Wild Lily, 18765,59 kr.webp",
       "id": 32,
       "type": "MP9",
       "skin": "Wild Lily",
-      "price": 18765.59
+      "price": 18765.59,
+      "link": "https://i.postimg.cc/wvrjrcqZ/32.webp"
     }
   ],
   "P90": [
@@ -3344,287 +3817,328 @@
       "id": 0,
       "type": "P90",
       "skin": "Ancient Earth",
-      "price": 6.98
+      "price": 6.98,
+      "link": "https://i.postimg.cc/DZ4PH6Qb/0.webp"
     },
     {
       "string": "P90, Ash Wood, 1,67 kr.webp",
       "id": 1,
       "type": "P90",
       "skin": "Ash Wood",
-      "price": 1.67
+      "price": 1.67,
+      "link": "https://i.postimg.cc/5t6BQgRk/1.webp"
     },
     {
       "string": "P90, Asiimov, 391,22 kr.webp",
       "id": 2,
       "type": "P90",
       "skin": "Asiimov",
-      "price": 391.22
+      "price": 391.22,
+      "link": "https://i.postimg.cc/XY2KvmQC/2.webp"
     },
     {
       "string": "P90, Astral Jörmungandr, 2853,91 kr.webp",
       "id": 3,
       "type": "P90",
       "skin": "Astral Jörmungandr",
-      "price": 2853.91
+      "price": 2853.91,
+      "link": "https://i.postimg.cc/287FsVWT/3.webp"
     },
     {
       "string": "P90, Baroque Red, 261,16 kr.webp",
       "id": 4,
       "type": "P90",
       "skin": "Baroque Red",
-      "price": 261.16
+      "price": 261.16,
+      "link": "https://i.postimg.cc/0NFpYmg5/4.webp"
     },
     {
       "string": "P90, Blind Spot, 122,45 kr.webp",
       "id": 5,
       "type": "P90",
       "skin": "Blind Spot",
-      "price": 122.45
+      "price": 122.45,
+      "link": "https://i.postimg.cc/1XxrQFM7/5.webp"
     },
     {
       "string": "P90, Chopper, 19,07 kr.webp",
       "id": 6,
       "type": "P90",
       "skin": "Chopper",
-      "price": 19.07
+      "price": 19.07,
+      "link": "https://i.postimg.cc/yYHypFDk/6.webp"
     },
     {
       "string": "P90, Cocoa Rampage, 7,19 kr.webp",
       "id": 7,
       "type": "P90",
       "skin": "Cocoa Rampage",
-      "price": 7.19
+      "price": 7.19,
+      "link": "https://i.postimg.cc/mgZNBBN4/7.webp"
     },
     {
       "string": "P90, Cold Blooded, 584,02 kr.webp",
       "id": 8,
       "type": "P90",
       "skin": "Cold Blooded",
-      "price": 584.02
+      "price": 584.02,
+      "link": "https://i.postimg.cc/RCfTTPVk/8.webp"
     },
     {
       "string": "P90, Death By Kitty, 539,31 kr.webp",
       "id": 9,
       "type": "P90",
       "skin": "Death By Kitty",
-      "price": 539.31
+      "price": 539.31,
+      "link": "https://i.postimg.cc/SRW7NKvS/9.webp"
     },
     {
       "string": "P90, Death Grip, 139,86 kr.webp",
       "id": 10,
       "type": "P90",
       "skin": "Death Grip",
-      "price": 139.86
+      "price": 139.86,
+      "link": "https://i.postimg.cc/d1CG41v2/10.webp"
     },
     {
       "string": "P90, Desert DDPAT, 7,19 kr.webp",
       "id": 11,
       "type": "P90",
       "skin": "Desert DDPAT",
-      "price": 7.19
+      "price": 7.19,
+      "link": "https://i.postimg.cc/L5ML7p6r/11.webp"
     },
     {
       "string": "P90, Desert Warfare, 39,08 kr.webp",
       "id": 12,
       "type": "P90",
       "skin": "Desert Warfare",
-      "price": 39.08
+      "price": 39.08,
+      "link": "https://i.postimg.cc/gcvvhngd/12.webp"
     },
     {
       "string": "P90, Elite Build, 11,98 kr.webp",
       "id": 13,
       "type": "P90",
       "skin": "Elite Build",
-      "price": 11.98
+      "price": 11.98,
+      "link": "https://i.postimg.cc/tJtWGMs7/13.webp"
     },
     {
       "string": "P90, Emerald Dragon, 2339,93 kr.webp",
       "id": 14,
       "type": "P90",
       "skin": "Emerald Dragon",
-      "price": 2339.93
+      "price": 2339.93,
+      "link": "https://i.postimg.cc/3xbphpxj/14.webp"
     },
     {
       "string": "P90, Facility Negative, 5,73 kr.webp",
       "id": 15,
       "type": "P90",
       "skin": "Facility Negative",
-      "price": 5.73
+      "price": 5.73,
+      "link": "https://i.postimg.cc/TYfnJfsb/15.webp"
     },
     {
       "string": "P90, Fallout Warning, 2797,01 kr.webp",
       "id": 16,
       "type": "P90",
       "skin": "Fallout Warning",
-      "price": 2797.01
+      "price": 2797.01,
+      "link": "https://i.postimg.cc/jdcP8BVF/16.webp"
     },
     {
       "string": "P90, Freight, 2,08 kr.webp",
       "id": 17,
       "type": "P90",
       "skin": "Freight",
-      "price": 2.08
+      "price": 2.08,
+      "link": "https://i.postimg.cc/BnvDRN4Q/17.webp"
     },
     {
       "string": "P90, Glacier Mesh, 226,67 kr.webp",
       "id": 18,
       "type": "P90",
       "skin": "Glacier Mesh",
-      "price": 226.67
+      "price": 226.67,
+      "link": "https://i.postimg.cc/HLcMkxrq/18.webp"
     },
     {
       "string": "P90, Grim, 6,67 kr.webp",
       "id": 19,
       "type": "P90",
       "skin": "Grim",
-      "price": 6.67
+      "price": 6.67,
+      "link": "https://i.postimg.cc/1XPVBrvS/19.webp"
     },
     {
       "string": "P90, Leather, 202,80 kr.webp",
       "id": 20,
       "type": "P90",
       "skin": "Leather",
-      "price": 202.8
+      "price": 202.8,
+      "link": "https://i.postimg.cc/NMRrRz7b/20.webp"
     },
     {
       "string": "P90, Moduel, 28,35 kr.webp",
       "id": 21,
       "type": "P90",
       "skin": "Moduel",
-      "price": 28.35
+      "price": 28.35,
+      "link": "https://i.postimg.cc/43D97gtm/21.webp"
     },
     {
       "string": "P90, Neoqueen, 18,76 kr.webp",
       "id": 22,
       "type": "P90",
       "skin": "Neoqueen",
-      "price": 18.76
+      "price": 18.76,
+      "link": "https://i.postimg.cc/K84k0zD1/22.webp"
     },
     {
       "string": "P90, Nostalgia, 117,97 kr.webp",
       "id": 23,
       "type": "P90",
       "skin": "Nostalgia",
-      "price": 117.97
+      "price": 117.97,
+      "link": "https://i.postimg.cc/GhXTPYG0/23.webp"
     },
     {
       "string": "P90, Off World, 3,02 kr.webp",
       "id": 24,
       "type": "P90",
       "skin": "Off World",
-      "price": 3.02
+      "price": 3.02,
+      "link": "https://i.postimg.cc/y6XZd2N8/24.webp"
     },
     {
       "string": "P90, Run And Hide, 3135,71 kr.webp",
       "id": 25,
       "type": "P90",
       "skin": "Run And Hide",
-      "price": 3135.71
+      "price": 3135.71,
+      "link": "https://i.postimg.cc/HsY773J4/25.webp"
     },
     {
       "string": "P90, Sand Spray, 0,73 kr.webp",
       "id": 26,
       "type": "P90",
       "skin": "Sand Spray",
-      "price": 0.73
+      "price": 0.73,
+      "link": "https://i.postimg.cc/vTzgNxKV/26.webp"
     },
     {
       "string": "P90, ScaraB Rush, 154,34 kr.webp",
       "id": 27,
       "type": "P90",
       "skin": "ScaraB Rush",
-      "price": 154.34
+      "price": 154.34,
+      "link": "https://i.postimg.cc/W3cdp7LZ/27.webp"
     },
     {
       "string": "P90, Schematic, 137,98 kr.webp",
       "id": 28,
       "type": "P90",
       "skin": "Schematic",
-      "price": 137.98
+      "price": 137.98,
+      "link": "https://i.postimg.cc/rprdLPbc/28.webp"
     },
     {
       "string": "P90, Scorched, 56,07 kr.webp",
       "id": 29,
       "type": "P90",
       "skin": "Scorched",
-      "price": 56.07
+      "price": 56.07,
+      "link": "https://i.postimg.cc/P5cL9jS2/29.webp"
     },
     {
       "string": "P90, Shallow Grave, 57,94 kr.webp",
       "id": 30,
       "type": "P90",
       "skin": "Shallow Grave",
-      "price": 57.94
+      "price": 57.94,
+      "link": "https://i.postimg.cc/Hx0Vr7dh/30.webp"
     },
     {
       "string": "P90, Shapewood, 106,09 kr.webp",
       "id": 31,
       "type": "P90",
       "skin": "Shapewood",
-      "price": 106.09
+      "price": 106.09,
+      "link": "https://i.postimg.cc/c4LrJHjF/31.webp"
     },
     {
       "string": "P90, Storm, 126,10 kr.webp",
       "id": 32,
       "type": "P90",
       "skin": "Storm",
-      "price": 126.1
+      "price": 126.1,
+      "link": "https://i.postimg.cc/SRyjCNKN/32.webp"
     },
     {
       "string": "P90, Sunset Lily, 213,33 kr.webp",
       "id": 33,
       "type": "P90",
       "skin": "Sunset Lily",
-      "price": 213.33
+      "price": 213.33,
+      "link": "https://i.postimg.cc/sxwxcdBP/33.webp"
     },
     {
       "string": "P90, Teardown, 5,52 kr.webp",
       "id": 34,
       "type": "P90",
       "skin": "Teardown",
-      "price": 5.52
+      "price": 5.52,
+      "link": "https://i.postimg.cc/XN8r3F2Z/34.webp"
     },
     {
       "string": "P90, Tiger Pit, 120,16 kr.webp",
       "id": 35,
       "type": "P90",
       "skin": "Tiger Pit",
-      "price": 120.16
+      "price": 120.16,
+      "link": "https://i.postimg.cc/MK3XfwJq/35.webp"
     },
     {
       "string": "P90, Traction, 9,28 kr.webp",
       "id": 36,
       "type": "P90",
       "skin": "Traction",
-      "price": 9.28
+      "price": 9.28,
+      "link": "https://i.postimg.cc/rmTp2FxC/36.webp"
     },
     {
       "string": "P90, Trigon, 133,81 kr.webp",
       "id": 37,
       "type": "P90",
       "skin": "Trigon",
-      "price": 133.81
+      "price": 133.81,
+      "link": "https://i.postimg.cc/cLVHTcJz/37.webp"
     },
     {
       "string": "P90, Vent Rush, 15,11 kr.webp",
       "id": 38,
       "type": "P90",
       "skin": "Vent Rush",
-      "price": 15.11
+      "price": 15.11,
+      "link": "https://i.postimg.cc/d0r0fTkV/38.webp"
     },
     {
       "string": "P90, Verdant Growth, 30,22 kr.webp",
       "id": 39,
       "type": "P90",
       "skin": "Verdant Growth",
-      "price": 30.22
+      "price": 30.22,
+      "link": "https://i.postimg.cc/ydT814Tq/39.webp"
     },
     {
       "string": "P90, Virus, 42,73 kr.webp",
       "id": 40,
       "type": "P90",
       "skin": "Virus",
-      "price": 42.73
+      "price": 42.73,
+      "link": "https://i.postimg.cc/qqMMgbmN/40.webp"
     }
   ],
   "PP-Bizon": [
@@ -3633,231 +4147,264 @@
       "id": 0,
       "type": "PP-Bizon",
       "skin": "Anolis",
-      "price": 3.97
+      "price": 3.97,
+      "link": "https://i.postimg.cc/NjV44Zmw/0.webp"
     },
     {
       "string": "PP-Bizon, Antique, 96,95 kr.webp",
       "id": 1,
       "type": "PP-Bizon",
       "skin": "Antique",
-      "price": 96.95
+      "price": 96.95,
+      "link": "https://i.postimg.cc/7PVnc509/1.webp"
     },
     {
       "string": "PP-Bizon, Bamboo Print, 54,68 kr.webp",
       "id": 2,
       "type": "PP-Bizon",
       "skin": "Bamboo Print",
-      "price": 54.68
+      "price": 54.68,
+      "link": "https://i.postimg.cc/CLxsVw4g/2.webp"
     },
     {
       "string": "PP-Bizon, Blue Streak, 66,37 kr.webp",
       "id": 3,
       "type": "PP-Bizon",
       "skin": "Blue Streak",
-      "price": 66.37
+      "price": 66.37,
+      "link": "https://i.postimg.cc/rpr9YgNR/3.webp"
     },
     {
       "string": "PP-Bizon, Brass, 27,65 kr.webp",
       "id": 4,
       "type": "PP-Bizon",
       "skin": "Brass",
-      "price": 27.65
+      "price": 27.65,
+      "link": "https://i.postimg.cc/157cmbWN/4.webp"
     },
     {
       "string": "PP-Bizon, Breaker Box, 32,04 kr.webp",
       "id": 5,
       "type": "PP-Bizon",
       "skin": "Breaker Box",
-      "price": 32.04
+      "price": 32.04,
+      "link": "https://i.postimg.cc/j564R59s/5.webp"
     },
     {
       "string": "PP-Bizon, Candy Apple, 1,15 kr.webp",
       "id": 6,
       "type": "PP-Bizon",
       "skin": "Candy Apple",
-      "price": 1.15
+      "price": 1.15,
+      "link": "https://i.postimg.cc/Y0bNmPMZ/6.webp"
     },
     {
       "string": "PP-Bizon, Carbon Fiber, 116,15 kr.webp",
       "id": 7,
       "type": "PP-Bizon",
       "skin": "Carbon Fiber",
-      "price": 116.15
+      "price": 116.15,
+      "link": "https://i.postimg.cc/V6PFyMKG/7.webp"
     },
     {
       "string": "PP-Bizon, Chemical Green, 47,59 kr.webp",
       "id": 8,
       "type": "PP-Bizon",
       "skin": "Chemical Green",
-      "price": 47.59
+      "price": 47.59,
+      "link": "https://i.postimg.cc/D02d0hk1/8.webp"
     },
     {
       "string": "PP-Bizon, Cobalt Halftone, 23,48 kr.webp",
       "id": 9,
       "type": "PP-Bizon",
       "skin": "Cobalt Halftone",
-      "price": 23.48
+      "price": 23.48,
+      "link": "https://i.postimg.cc/9Q4Pr1Sg/9.webp"
     },
     {
       "string": "PP-Bizon, Death Rattle, 3,86 kr.webp",
       "id": 10,
       "type": "PP-Bizon",
       "skin": "Death Rattle",
-      "price": 3.86
+      "price": 3.86,
+      "link": "https://i.postimg.cc/QdRQ51Z8/10.webp"
     },
     {
       "string": "PP-Bizon, Embargo, 56,04 kr.webp",
       "id": 11,
       "type": "PP-Bizon",
       "skin": "Embargo",
-      "price": 56.04
+      "price": 56.04,
+      "link": "https://i.postimg.cc/wvzD4zBn/11.webp"
     },
     {
       "string": "PP-Bizon, Facility Sketch, 0,31 kr.webp",
       "id": 12,
       "type": "PP-Bizon",
       "skin": "Facility Sketch",
-      "price": 0.31
+      "price": 0.31,
+      "link": "https://i.postimg.cc/MGVyYHzy/12.webp"
     },
     {
       "string": "PP-Bizon, Forest Leaves, 313,18 kr.webp",
       "id": 13,
       "type": "PP-Bizon",
       "skin": "Forest Leaves",
-      "price": 313.18
+      "price": 313.18,
+      "link": "https://i.postimg.cc/k4yKkH6G/13.webp"
     },
     {
       "string": "PP-Bizon, Fuel Rod, 24,63 kr.webp",
       "id": 14,
       "type": "PP-Bizon",
       "skin": "Fuel Rod",
-      "price": 24.63
+      "price": 24.63,
+      "link": "https://i.postimg.cc/2ycv5Bxf/14.webp"
     },
     {
       "string": "PP-Bizon, Harvester, 7,20 kr.webp",
       "id": 15,
       "type": "PP-Bizon",
       "skin": "Harvester",
-      "price": 7.2
+      "price": 7.2,
+      "link": "https://i.postimg.cc/ht7xSvzH/15.webp"
     },
     {
       "string": "PP-Bizon, High Roller, 107,28 kr.webp",
       "id": 16,
       "type": "PP-Bizon",
       "skin": "High Roller",
-      "price": 107.28
+      "price": 107.28,
+      "link": "https://i.postimg.cc/cC4wZcwm/16.webp"
     },
     {
       "string": "PP-Bizon, Irraditaded Alert, 159,97 kr.webp",
       "id": 17,
       "type": "PP-Bizon",
       "skin": "Irraditaded Alert",
-      "price": 159.97
+      "price": 159.97,
+      "link": "https://i.postimg.cc/8c5JxzgX/17.webp"
     },
     {
       "string": "PP-Bizon, Judgement Of Anubis, 97,99 kr.webp",
       "id": 18,
       "type": "PP-Bizon",
       "skin": "Judgement Of Anubis",
-      "price": 97.99
+      "price": 97.99,
+      "link": "https://i.postimg.cc/wTMLG06x/18.webp"
     },
     {
       "string": "PP-Bizon, Jungle Slipstream, 2,92 kr.webp",
       "id": 19,
       "type": "PP-Bizon",
       "skin": "Jungle Slipstream",
-      "price": 2.92
+      "price": 2.92,
+      "link": "https://i.postimg.cc/qBj2w9HZ/19.webp"
     },
     {
       "string": "PP-Bizon, Lumen, 14,30 kr.webp",
       "id": 20,
       "type": "PP-Bizon",
       "skin": "Lumen",
-      "price": 14.3
+      "price": 14.3,
+      "link": "https://i.postimg.cc/5NrLdL0B/20.webp"
     },
     {
       "string": "PP-Bizon, Modern Hunter, 1321,49 kr.webp",
       "id": 21,
       "type": "PP-Bizon",
       "skin": "Modern Hunter",
-      "price": 1321.49
+      "price": 1321.49,
+      "link": "https://i.postimg.cc/XvS5XW9X/21.webp"
     },
     {
       "string": "PP-Bizon, Night Ops, 0,83 kr.webp",
       "id": 22,
       "type": "PP-Bizon",
       "skin": "Night Ops",
-      "price": 0.83
+      "price": 0.83,
+      "link": "https://i.postimg.cc/1zGqqdKB/22.webp"
     },
     {
       "string": "PP-Bizon, Night Riot, 2,19 kr.webp",
       "id": 23,
       "type": "PP-Bizon",
       "skin": "Night Riot",
-      "price": 2.19
+      "price": 2.19,
+      "link": "https://i.postimg.cc/RFGJPnyn/23.webp"
     },
     {
       "string": "PP-Bizon, Osiris, 13,88 kr.webp",
       "id": 24,
       "type": "PP-Bizon",
       "skin": "Osiris",
-      "price": 13.88
+      "price": 13.88,
+      "link": "https://i.postimg.cc/qRpCXGbT/24.webp"
     },
     {
       "string": "PP-Bizon, Photic Zone, 16,49 kr.webp",
       "id": 25,
       "type": "PP-Bizon",
       "skin": "Photic Zone",
-      "price": 16.49
+      "price": 16.49,
+      "link": "https://i.postimg.cc/QCy9DZX8/25.webp"
     },
     {
       "string": "PP-Bizon, Runic, 2,30 kr.webp",
       "id": 26,
       "type": "PP-Bizon",
       "skin": "Runic",
-      "price": 2.3
+      "price": 2.3,
+      "link": "https://i.postimg.cc/L6JgT5Tn/26.webp"
     },
     {
       "string": "PP-Bizon, Rust Coat, 369,11 kr.webp",
       "id": 27,
       "type": "PP-Bizon",
       "skin": "Rust Coat",
-      "price": 369.11
+      "price": 369.11,
+      "link": "https://i.postimg.cc/fW20mmYG/27.webp"
     },
     {
       "string": "PP-Bizon, Sand Dashed, 0,63 kr.webp",
       "id": 28,
       "type": "PP-Bizon",
       "skin": "Sand Dashed",
-      "price": 0.63
+      "price": 0.63,
+      "link": "https://i.postimg.cc/JzJyfFS8/28.webp"
     },
     {
       "string": "PP-Bizon, Seabird, 39,86 kr.webp",
       "id": 29,
       "type": "PP-Bizon",
       "skin": "Seabird",
-      "price": 39.86
+      "price": 39.86,
+      "link": "https://i.postimg.cc/ncNjwxRT/29.webp"
     },
     {
       "string": "PP-Bizon, Space Cat, 13,88 kr.webp",
       "id": 30,
       "type": "PP-Bizon",
       "skin": "Space Cat",
-      "price": 13.88
+      "price": 13.88,
+      "link": "https://i.postimg.cc/jjbWtXr7/30.webp"
     },
     {
       "string": "PP-Bizon, Urban Dashed, 0,73 kr.webp",
       "id": 31,
       "type": "PP-Bizon",
       "skin": "Urban Dashed",
-      "price": 0.73
+      "price": 0.73,
+      "link": "https://i.postimg.cc/q7xNR3kZ/31.webp"
     },
     {
       "string": "PP-Bizon, Water Sigil, 21,08 kr.webp",
       "id": 32,
       "type": "PP-Bizon",
       "skin": "Water Sigil",
-      "price": 21.08
+      "price": 21.08,
+      "link": "https://i.postimg.cc/PxfP85Jf/32.webp"
     }
   ],
   "MAG-7": [
@@ -3866,231 +4413,264 @@
       "id": 0,
       "type": "MAG-7",
       "skin": "BI83",
-      "price": 11.49
+      "price": 11.49,
+      "link": "https://i.postimg.cc/L8QBNGdV/0.webp"
     },
     {
       "string": "MAG-7, Bulldozer, 1499,56 kr.webp",
       "id": 1,
       "type": "MAG-7",
       "skin": "Bulldozer",
-      "price": 1499.56
+      "price": 1499.56,
+      "link": "https://i.postimg.cc/wBt5PFgY/1.webp"
     },
     {
       "string": "MAG-7, Carbon Fiber, 12,07 kr.webp",
       "id": 2,
       "type": "MAG-7",
       "skin": "Carbon Fiber",
-      "price": 12.07
+      "price": 12.07,
+      "link": "https://i.postimg.cc/bvK0jbwD/2.webp"
     },
     {
       "string": "MAG-7, Chainmail, 294,02 kr.webp",
       "id": 3,
       "type": "MAG-7",
       "skin": "Chainmail",
-      "price": 294.02
+      "price": 294.02,
+      "link": "https://i.postimg.cc/V6nqs6J7/3.webp"
     },
     {
       "string": "MAG-7, Cinquedea, 7410,82 kr.webp",
       "id": 4,
       "type": "MAG-7",
       "skin": "Cinquedea",
-      "price": 7410.82
+      "price": 7410.82,
+      "link": "https://i.postimg.cc/prvDmH8P/4.webp"
     },
     {
       "string": "MAG-7, Cobalt Core, 16,45 kr.webp",
       "id": 5,
       "type": "MAG-7",
       "skin": "Cobalt Core",
-      "price": 16.45
+      "price": 16.45,
+      "link": "https://i.postimg.cc/mDf9nsm7/5.webp"
     },
     {
       "string": "MAG-7, Copper Coated, 24,88 kr.webp",
       "id": 6,
       "type": "MAG-7",
       "skin": "Copper Coated",
-      "price": 24.88
+      "price": 24.88,
+      "link": "https://i.postimg.cc/ZKT8ZJ4c/6.webp"
     },
     {
       "string": "MAG-7, Core Breach, 47,66 kr.webp",
       "id": 7,
       "type": "MAG-7",
       "skin": "Core Breach",
-      "price": 47.66
+      "price": 47.66,
+      "link": "https://i.postimg.cc/sDwpgb2R/7.webp"
     },
     {
       "string": "MAG-7, Counter Terrace, 1159,84 kr.webp",
       "id": 8,
       "type": "MAG-7",
       "skin": "Counter Terrace",
-      "price": 1159.84
+      "price": 1159.84,
+      "link": "https://i.postimg.cc/Kc7Pd1Sj/8.webp"
     },
     {
       "string": "MAG-7, Firestarter, 45,13 kr.webp",
       "id": 9,
       "type": "MAG-7",
       "skin": "Firestarter",
-      "price": 45.13
+      "price": 45.13,
+      "link": "https://i.postimg.cc/1XKD6jcw/9.webp"
     },
     {
       "string": "MAG-7, Foresight, 2,11 kr.webp",
       "id": 10,
       "type": "MAG-7",
       "skin": "Foresight",
-      "price": 2.11
+      "price": 2.11,
+      "link": "https://i.postimg.cc/NjFR9by2/10.webp"
     },
     {
       "string": "MAG-7, Hard Water, 42,91 kr.webp",
       "id": 11,
       "type": "MAG-7",
       "skin": "Hard Water",
-      "price": 42.91
+      "price": 42.91,
+      "link": "https://i.postimg.cc/52rLwvv7/11.webp"
     },
     {
       "string": "MAG-7, Hazard, 1848,90 kr.webp",
       "id": 12,
       "type": "MAG-7",
       "skin": "Hazard",
-      "price": 1848.9
+      "price": 1848.9,
+      "link": "https://i.postimg.cc/MGjRtTmW/12.webp"
     },
     {
       "string": "MAG-7, Heat, 26,15 kr.webp",
       "id": 13,
       "type": "MAG-7",
       "skin": "Heat",
-      "price": 26.15
+      "price": 26.15,
+      "link": "https://i.postimg.cc/tJ9xXzQT/13.webp"
     },
     {
       "string": "MAG-7, Heaven Guard, 4,53 kr.webp",
       "id": 14,
       "type": "MAG-7",
       "skin": "Heaven Guard",
-      "price": 4.53
+      "price": 4.53,
+      "link": "https://i.postimg.cc/RhGnqn4T/14.webp"
     },
     {
       "string": "MAG-7, Insomnia, 2,74 kr.webp",
       "id": 15,
       "type": "MAG-7",
       "skin": "Insomnia",
-      "price": 2.74
+      "price": 2.74,
+      "link": "https://i.postimg.cc/zBChZcQ6/15.webp"
     },
     {
       "string": "MAG-7, Irradiated Alert, 148,23 kr.webp",
       "id": 16,
       "type": "MAG-7",
       "skin": "Irradiated Alert",
-      "price": 148.23
+      "price": 148.23,
+      "link": "https://i.postimg.cc/h40m2NT7/16.webp"
     },
     {
       "string": "MAG-7, Justice, 106,60 kr.webp",
       "id": 17,
       "type": "MAG-7",
       "skin": "Justice",
-      "price": 106.6
+      "price": 106.6,
+      "link": "https://i.postimg.cc/m22HJVyp/17.webp"
     },
     {
       "string": "MAG-7, Memento, 69,91 kr.webp",
       "id": 18,
       "type": "MAG-7",
       "skin": "Memento",
-      "price": 69.91
+      "price": 69.91,
+      "link": "https://i.postimg.cc/9F87hTxm/18.webp"
     },
     {
       "string": "MAG-7, Metallic DDPAT, 1,91 kr.webp",
       "id": 19,
       "type": "MAG-7",
       "skin": "Metallic DDPAT",
-      "price": 1.91
+      "price": 1.91,
+      "link": "https://i.postimg.cc/138N5tTp/19.webp"
     },
     {
       "string": "MAG-7, Monster Call, 17,61 kr.webp",
       "id": 20,
       "type": "MAG-7",
       "skin": "Monster Call",
-      "price": 17.61
+      "price": 17.61,
+      "link": "https://i.postimg.cc/j5bWXhjX/20.webp"
     },
     {
       "string": "MAG-7, Navy Sheen, 4,34 kr.webp",
       "id": 21,
       "type": "MAG-7",
       "skin": "Navy Sheen",
-      "price": 4.34
+      "price": 4.34,
+      "link": "https://i.postimg.cc/9Qsw425s/21.webp"
     },
     {
       "string": "MAG-7, Petroglyph, 16,76 kr.webp",
       "id": 22,
       "type": "MAG-7",
       "skin": "Petroglyph",
-      "price": 16.76
+      "price": 16.76,
+      "link": "https://i.postimg.cc/JhJDZFR0/22.webp"
     },
     {
       "string": "MAG-7, Popdog, 3,06 kr.webp",
       "id": 23,
       "type": "MAG-7",
       "skin": "Popdog",
-      "price": 3.06
+      "price": 3.06,
+      "link": "https://i.postimg.cc/cC1vq4wt/23.webp"
     },
     {
       "string": "MAG-7, Praetorian, 26,68 kr.webp",
       "id": 24,
       "type": "MAG-7",
       "skin": "Praetorian",
-      "price": 26.68
+      "price": 26.68,
+      "link": "https://i.postimg.cc/xC3XFbJS/24.webp"
     },
     {
       "string": "MAG-7, Prism Terrace, 495,78 kr.webp",
       "id": 25,
       "type": "MAG-7",
       "skin": "Prism Terrace",
-      "price": 495.78
+      "price": 495.78,
+      "link": "https://i.postimg.cc/Kj9RmSDq/25.webp"
     },
     {
       "string": "MAG-7, Rust Coat, 0,42 kr.webp",
       "id": 26,
       "type": "MAG-7",
       "skin": "Rust Coat",
-      "price": 0.42
+      "price": 0.42,
+      "link": "https://i.postimg.cc/PfKLWYnW/26.webp"
     },
     {
       "string": "MAG-7, Sand Dune, 97,09 kr.webp",
       "id": 27,
       "type": "MAG-7",
       "skin": "Sand Dune",
-      "price": 97.09
+      "price": 97.09,
+      "link": "https://i.postimg.cc/qMRNjqp9/27.webp"
     },
     {
       "string": "MAG-7, Seabird, 42,35 kr.webp",
       "id": 28,
       "type": "MAG-7",
       "skin": "Seabird",
-      "price": 42.35
+      "price": 42.35,
+      "link": "https://i.postimg.cc/RVDN8mFq/28.webp"
     },
     {
       "string": "MAG-7, Silver, 267,86 kr.webp",
       "id": 29,
       "type": "MAG-7",
       "skin": "Silver",
-      "price": 267.86
+      "price": 267.86,
+      "link": "https://i.postimg.cc/W1qhcyF8/29.webp"
     },
     {
       "string": "MAG-7, Sonar, 2,21 kr.webp",
       "id": 30,
       "type": "MAG-7",
       "skin": "Sonar",
-      "price": 2.21
+      "price": 2.21,
+      "link": "https://i.postimg.cc/PqmJP8M8/30.webp"
     },
     {
       "string": "MAG-7, Storm, 89,68 kr.webp",
       "id": 31,
       "type": "MAG-7",
       "skin": "Storm",
-      "price": 89.68
+      "price": 89.68,
+      "link": "https://i.postimg.cc/R0rqSTwB/31.webp"
     },
     {
       "string": "MAG-7, SWAG-7, 11,49 kr.webp",
       "id": 32,
       "type": "MAG-7",
       "skin": "SWAG-7",
-      "price": 11.49
+      "price": 11.49,
+      "link": "https://i.postimg.cc/j5t5Nd83/32.webp"
     }
   ],
   "Nova": [
@@ -4099,252 +4679,288 @@
       "id": 0,
       "type": "Nova",
       "skin": "Antique",
-      "price": 105.19
+      "price": 105.19,
+      "link": "https://i.postimg.cc/8C21BkZg/0.webp"
     },
     {
       "string": "Nova, Army Sheen, 6,59 kr.webp",
       "id": 1,
       "type": "Nova",
       "skin": "Army Sheen",
-      "price": 6.59
+      "price": 6.59,
+      "link": "https://i.postimg.cc/qq04Sbfm/1.webp"
     },
     {
       "string": "Nova, Baroque Orange, 956,42 kr.webp",
       "id": 2,
       "type": "Nova",
       "skin": "Baroque Orange",
-      "price": 956.42
+      "price": 956.42,
+      "link": "https://i.postimg.cc/SRrkh6km/2.webp"
     },
     {
       "string": "Nova, Blaze Orange, 1803,53 kr.webp",
       "id": 3,
       "type": "Nova",
       "skin": "Blaze Orange",
-      "price": 1803.53
+      "price": 1803.53,
+      "link": "https://i.postimg.cc/kgZ9qX3R/3.webp"
     },
     {
       "string": "Nova, Bloomstick, 556,85 kr.webp",
       "id": 4,
       "type": "Nova",
       "skin": "Bloomstick",
-      "price": 556.85
+      "price": 556.85,
+      "link": "https://i.postimg.cc/Qx8jqyJC/4.webp"
     },
     {
       "string": "Nova, Caged Steel, 1,44 kr.webp",
       "id": 5,
       "type": "Nova",
       "skin": "Caged Steel",
-      "price": 1.44
+      "price": 1.44,
+      "link": "https://i.postimg.cc/SxjqBY5p/5.webp"
     },
     {
       "string": "Nova, Candy Apple, 0,82 kr.webp",
       "id": 6,
       "type": "Nova",
       "skin": "Candy Apple",
-      "price": 0.82
+      "price": 0.82,
+      "link": "https://i.postimg.cc/xCL9srZJ/6.webp"
     },
     {
       "string": "Nova, Clear Polymer, 55,79 kr.webp",
       "id": 7,
       "type": "Nova",
       "skin": "Clear Polymer",
-      "price": 55.79
+      "price": 55.79,
+      "link": "https://i.postimg.cc/nc3pSG3k/7.webp"
     },
     {
       "string": "Nova, Exo, 2,26 kr.webp",
       "id": 8,
       "type": "Nova",
       "skin": "Exo",
-      "price": 2.26
+      "price": 2.26,
+      "link": "https://i.postimg.cc/T2qRg6mB/8.webp"
     },
     {
       "string": "Nova, Forest Leaves, 217,08 kr.webp",
       "id": 9,
       "type": "Nova",
       "skin": "Forest Leaves",
-      "price": 217.08
+      "price": 217.08,
+      "link": "https://i.postimg.cc/q73rRV4b/9.webp"
     },
     {
       "string": "Nova, Ghost Camo, 22,03 kr.webp",
       "id": 10,
       "type": "Nova",
       "skin": "Ghost Camo",
-      "price": 22.03
+      "price": 22.03,
+      "link": "https://i.postimg.cc/tTGjnSgX/10.webp"
     },
     {
       "string": "Nova, Gila, 13,79 kr.webp",
       "id": 11,
       "type": "Nova",
       "skin": "Gila",
-      "price": 13.79
+      "price": 13.79,
+      "link": "https://i.postimg.cc/rsQXbqNm/11.webp"
     },
     {
       "string": "Nova, Graphite, 79,77 kr.webp",
       "id": 12,
       "type": "Nova",
       "skin": "Graphite",
-      "price": 79.77
+      "price": 79.77,
+      "link": "https://i.postimg.cc/hvSRpXx6/12.webp"
     },
     {
       "string": "Nova, Green Apple, 177,66 kr.webp",
       "id": 13,
       "type": "Nova",
       "skin": "Green Apple",
-      "price": 177.66
+      "price": 177.66,
+      "link": "https://i.postimg.cc/cH7NRRKf/13.webp"
     },
     {
       "string": "Nova, Hyper Beast, 376,93 kr.webp",
       "id": 14,
       "type": "Nova",
       "skin": "Hyper Beast",
-      "price": 376.93
+      "price": 376.93,
+      "link": "https://i.postimg.cc/ryJkz92k/14.webp"
     },
     {
       "string": "Nova, Interlock, 152,44 kr.webp",
       "id": 15,
       "type": "Nova",
       "skin": "Interlock",
-      "price": 152.44
+      "price": 152.44,
+      "link": "https://i.postimg.cc/3JxHGD3D/15.webp"
     },
     {
       "string": "Nova, Koi, 15,65 kr.webp",
       "id": 16,
       "type": "Nova",
       "skin": "Koi",
-      "price": 15.65
+      "price": 15.65,
+      "link": "https://i.postimg.cc/QxYZJxMY/16.webp"
     },
     {
       "string": "Nova, Mandrel, 0,31 kr.webp",
       "id": 17,
       "type": "Nova",
       "skin": "Mandrel",
-      "price": 0.31
+      "price": 0.31,
+      "link": "https://i.postimg.cc/kgV3136J/17.webp"
     },
     {
       "string": "Nova, Modern Hunter, 2573,13 kr.webp",
       "id": 18,
       "type": "Nova",
       "skin": "Modern Hunter",
-      "price": 2573.13
+      "price": 2573.13,
+      "link": "https://i.postimg.cc/DwtVRjLq/18.webp"
     },
     {
       "string": "Nova, Moon In Libra, 57,13 kr.webp",
       "id": 19,
       "type": "Nova",
       "skin": "Moon In Libra",
-      "price": 57.13
+      "price": 57.13,
+      "link": "https://i.postimg.cc/VNnywqW2/19.webp"
     },
     {
       "string": "Nova, Plume, 14,92 kr.webp",
       "id": 20,
       "type": "Nova",
       "skin": "Plume",
-      "price": 14.92
+      "price": 14.92,
+      "link": "https://i.postimg.cc/63fD2BS0/20.webp"
     },
     {
       "string": "Nova, Polar Mesh, 0,82 kr.webp",
       "id": 21,
       "type": "Nova",
       "skin": "Polar Mesh",
-      "price": 0.82
+      "price": 0.82,
+      "link": "https://i.postimg.cc/hjBktXCv/21.webp"
     },
     {
       "string": "Nova, Predator, 0,51 kr.webp",
       "id": 22,
       "type": "Nova",
       "skin": "Predator",
-      "price": 0.51
+      "price": 0.51,
+      "link": "https://i.postimg.cc/NFGZRWvw/22.webp"
     },
     {
       "string": "Nova, Quick Sand, 236,74 kr.webp",
       "id": 23,
       "type": "Nova",
       "skin": "Quick Sand",
-      "price": 236.74
+      "price": 236.74,
+      "link": "https://i.postimg.cc/L5ywDNmg/23.webp"
     },
     {
       "string": "Nova, Ranger, 6,07 kr.webp",
       "id": 24,
       "type": "Nova",
       "skin": "Ranger",
-      "price": 6.07
+      "price": 6.07,
+      "link": "https://i.postimg.cc/jqvpRdyq/24.webp"
     },
     {
       "string": "Nova, Red Quartz, 72,98 kr.webp",
       "id": 25,
       "type": "Nova",
       "skin": "Red Quartz",
-      "price": 72.98
+      "price": 72.98,
+      "link": "https://i.postimg.cc/7LvcKCr9/25.webp"
     },
     {
       "string": "Nova, Rising Skull, 75,45 kr.webp",
       "id": 26,
       "type": "Nova",
       "skin": "Rising Skull",
-      "price": 75.45
+      "price": 75.45,
+      "link": "https://i.postimg.cc/02BhJWtL/26.webp"
     },
     {
       "string": "Nova, Rust Coat, 30,88 kr.webp",
       "id": 27,
       "type": "Nova",
       "skin": "Rust Coat",
-      "price": 30.88
+      "price": 30.88,
+      "link": "https://i.postimg.cc/P5v9bW9N/27.webp"
     },
     {
       "string": "Nova, Sand Dune, 0,62 kr.webp",
       "id": 28,
       "type": "Nova",
       "skin": "Sand Dune",
-      "price": 0.62
+      "price": 0.62,
+      "link": "https://i.postimg.cc/286PyRxQ/28.webp"
     },
     {
       "string": "Nova, Sobek's Bite, 154,81 kr.webp",
       "id": 29,
       "type": "Nova",
       "skin": "Sobek's Bite",
-      "price": 154.81
+      "price": 154.81,
+      "link": "https://i.postimg.cc/DzqNH22T/29.webp"
     },
     {
       "string": "Nova, Temptest, 139,26 kr.webp",
       "id": 30,
       "type": "Nova",
       "skin": "Temptest",
-      "price": 139.26
+      "price": 139.26,
+      "link": "https://i.postimg.cc/PxT7kBx8/30.webp"
     },
     {
       "string": "Nova, Toy Soldier, 32,11 kr.webp",
       "id": 31,
       "type": "Nova",
       "skin": "Toy Soldier",
-      "price": 32.11
+      "price": 32.11,
+      "link": "https://i.postimg.cc/4dPS4B72/31.webp"
     },
     {
       "string": "Nova, Walnut, 236,74 kr.webp",
       "id": 32,
       "type": "Nova",
       "skin": "Walnut",
-      "price": 236.74
+      "price": 236.74,
+      "link": "https://i.postimg.cc/FzKnY30r/32.webp"
     },
     {
       "string": "Nova, Wild Six, 20,59 kr.webp",
       "id": 33,
       "type": "Nova",
       "skin": "Wild Six",
-      "price": 20.59
+      "price": 20.59,
+      "link": "https://i.postimg.cc/x8FpM8PK/33.webp"
     },
     {
       "string": "Nova, Windblown, 3,60 kr.webp",
       "id": 34,
       "type": "Nova",
       "skin": "Windblown",
-      "price": 3.6
+      "price": 3.6,
+      "link": "https://i.postimg.cc/ryhPvZLK/34.webp"
     },
     {
       "string": "Nova, Wood Fired, 1,34 kr.webp",
       "id": 35,
       "type": "Nova",
       "skin": "Wood Fired",
-      "price": 1.34
+      "price": 1.34,
+      "link": "https://i.postimg.cc/zXVc5wJp/35.webp"
     }
   ],
   "Sawed-Off": [
@@ -4353,217 +4969,248 @@
       "id": 0,
       "type": "Sawed-Off",
       "skin": "Amber Fade",
-      "price": 5.81
+      "price": 5.81,
+      "link": "https://i.postimg.cc/XJTq1cxq/0.webp"
     },
     {
       "string": "Sawed-Off, Apocalypto, 14,86 kr.webp",
       "id": 1,
       "type": "Sawed-Off",
       "skin": "Apocalypto",
-      "price": 14.86
+      "price": 14.86,
+      "link": "https://i.postimg.cc/qMHg8wzZ/1.webp"
     },
     {
       "string": "Sawed-Off, Bamboo Shadow, 55,06 kr.webp",
       "id": 2,
       "type": "Sawed-Off",
       "skin": "Bamboo Shadow",
-      "price": 55.06
+      "price": 55.06,
+      "link": "https://i.postimg.cc/d3r1bkSB/2.webp"
     },
     {
       "string": "Sawed-Off, Black Sand, 2,90 kr.webp",
       "id": 3,
       "type": "Sawed-Off",
       "skin": "Black Sand",
-      "price": 2.9
+      "price": 2.9,
+      "link": "https://i.postimg.cc/v8VcgkHV/3.webp"
     },
     {
       "string": "Sawed-Off, Brake Light, 10,32 kr.webp",
       "id": 4,
       "type": "Sawed-Off",
       "skin": "Brake Light",
-      "price": 10.32
+      "price": 10.32,
+      "link": "https://i.postimg.cc/XYQJ60xT/4.webp"
     },
     {
       "string": "Sawed-Off, Clay Ambush, 9,25 kr.webp",
       "id": 5,
       "type": "Sawed-Off",
       "skin": "Clay Ambush",
-      "price": 9.25
+      "price": 9.25,
+      "link": "https://i.postimg.cc/bv5wdH7g/5.webp"
     },
     {
       "string": "Sawed-Off, Copper, 1455,13 kr.webp",
       "id": 6,
       "type": "Sawed-Off",
       "skin": "Copper",
-      "price": 1455.13
+      "price": 1455.13,
+      "link": "https://i.postimg.cc/5N5ypzz9/6.webp"
     },
     {
       "string": "Sawed-Off, Devourer, 161,11 kr.webp",
       "id": 7,
       "type": "Sawed-Off",
       "skin": "Devourer",
-      "price": 161.11
+      "price": 161.11,
+      "link": "https://i.postimg.cc/jj2jskFC/7.webp"
     },
     {
       "string": "Sawed-Off, First Class, 532,43 kr.webp",
       "id": 8,
       "type": "Sawed-Off",
       "skin": "First Class",
-      "price": 532.43
+      "price": 532.43,
+      "link": "https://i.postimg.cc/Dw2ZNzQr/8.webp"
     },
     {
       "string": "Sawed-Off, Forest DDPAT, 0,43 kr.webp",
       "id": 9,
       "type": "Sawed-Off",
       "skin": "Forest DDPAT",
-      "price": 0.43
+      "price": 0.43,
+      "link": "https://i.postimg.cc/SR6ST0J1/9.webp"
     },
     {
       "string": "Sawed-Off, Fubar, 1,29 kr.webp",
       "id": 10,
       "type": "Sawed-Off",
       "skin": "Fubar",
-      "price": 1.29
+      "price": 1.29,
+      "link": "https://i.postimg.cc/KzgvT3F2/10.webp"
     },
     {
       "string": "Sawed-Off, Full Stop, 5,91 kr.webp",
       "id": 11,
       "type": "Sawed-Off",
       "skin": "Full Stop",
-      "price": 5.91
+      "price": 5.91,
+      "link": "https://i.postimg.cc/sxdf4fDZ/11.webp"
     },
     {
       "string": "Sawed-Off, Highwayman, 37,21 kr.webp",
       "id": 12,
       "type": "Sawed-Off",
       "skin": "Highwayman",
-      "price": 37.21
+      "price": 37.21,
+      "link": "https://i.postimg.cc/L4L86PNk/12.webp"
     },
     {
       "string": "Sawed-Off, Irradiated Alert, 158,73 kr.webp",
       "id": 13,
       "type": "Sawed-Off",
       "skin": "Irradiated Alert",
-      "price": 158.73
+      "price": 158.73,
+      "link": "https://i.postimg.cc/sDJf5rFv/13.webp"
     },
     {
       "string": "Sawed-Off, Jungle Thicket, 58,82 kr.webp",
       "id": 14,
       "type": "Sawed-Off",
       "skin": "Jungle Thicket",
-      "price": 58.82
+      "price": 58.82,
+      "link": "https://i.postimg.cc/zXNXLfcs/14.webp"
     },
     {
       "string": "Sawed-Off, Kiss♥Love, 119,22 kr.webp",
       "id": 15,
       "type": "Sawed-Off",
       "skin": "Kiss♥Love",
-      "price": 119.22
+      "price": 119.22,
+      "link": "https://i.postimg.cc/LXf25dB4/15.webp"
     },
     {
       "string": "Sawed-Off, Limelight, 11,23 kr.webp",
       "id": 16,
       "type": "Sawed-Off",
       "skin": "Limelight",
-      "price": 11.23
+      "price": 11.23,
+      "link": "https://i.postimg.cc/fRTzKrZ5/16.webp"
     },
     {
       "string": "Sawed-Off, Morris, 3,33 kr.webp",
       "id": 17,
       "type": "Sawed-Off",
       "skin": "Morris",
-      "price": 3.33
+      "price": 3.33,
+      "link": "https://i.postimg.cc/43jXX4cF/17.webp"
     },
     {
       "string": "Sawed-Off, Mosaico, 387,25 kr.webp",
       "id": 18,
       "type": "Sawed-Off",
       "skin": "Mosaico",
-      "price": 387.25
+      "price": 387.25,
+      "link": "https://i.postimg.cc/N0Kgh2KH/18.webp"
     },
     {
       "string": "Sawed-Off, Orange DDPAT, 440,16 kr.webp",
       "id": 19,
       "type": "Sawed-Off",
       "skin": "Orange DDPAT",
-      "price": 440.16
+      "price": 440.16,
+      "link": "https://i.postimg.cc/pLG21JLv/19.webp"
     },
     {
       "string": "Sawed-Off, Origami, 3,33 kr.webp",
       "id": 20,
       "type": "Sawed-Off",
       "skin": "Origami",
-      "price": 3.33
+      "price": 3.33,
+      "link": "https://i.postimg.cc/bYxqjhw3/20.webp"
     },
     {
       "string": "Sawed-Off, Parched, 12,90 kr.webp",
       "id": 21,
       "type": "Sawed-Off",
       "skin": "Parched",
-      "price": 12.9
+      "price": 12.9,
+      "link": "https://i.postimg.cc/J0583b29/21.webp"
     },
     {
       "string": "Sawed-Off, Rust Coat, 262,72 kr.webp",
       "id": 22,
       "type": "Sawed-Off",
       "skin": "Rust Coat",
-      "price": 262.72
+      "price": 262.72,
+      "link": "https://i.postimg.cc/zvr5Rd0C/22.webp"
     },
     {
       "string": "Sawed-Off, Sage Spray, 69,26 kr.webp",
       "id": 23,
       "type": "Sawed-Off",
       "skin": "Sage Spray",
-      "price": 69.26
+      "price": 69.26,
+      "link": "https://i.postimg.cc/fTMDzr3Z/23.webp"
     },
     {
       "string": "Sawed-Off, Serenity, 35,55 kr.webp",
       "id": 24,
       "type": "Sawed-Off",
       "skin": "Serenity",
-      "price": 35.55
+      "price": 35.55,
+      "link": "https://i.postimg.cc/qvRrn6X5/24.webp"
     },
     {
       "string": "Sawed-Off, Snake Camo, 2,04 kr.webp",
       "id": 25,
       "type": "Sawed-Off",
       "skin": "Snake Camo",
-      "price": 2.04
+      "price": 2.04,
+      "link": "https://i.postimg.cc/28TmV7vW/25.webp"
     },
     {
       "string": "Sawed-Off, Spirit Board, 2,58 kr.webp",
       "id": 26,
       "type": "Sawed-Off",
       "skin": "Spirit Board",
-      "price": 2.58
+      "price": 2.58,
+      "link": "https://i.postimg.cc/VkV8FsKL/26.webp"
     },
     {
       "string": "Sawed-Off, The Kraken, 62,26 kr.webp",
       "id": 27,
       "type": "Sawed-Off",
       "skin": "The Kraken",
-      "price": 62.26
+      "price": 62.26,
+      "link": "https://i.postimg.cc/CKnVry2C/27.webp"
     },
     {
       "string": "Sawed-Off, Wasteland Princess, 78,79 kr.webp",
       "id": 28,
       "type": "Sawed-Off",
       "skin": "Wasteland Princess",
-      "price": 78.79
+      "price": 78.79,
+      "link": "https://i.postimg.cc/cHqGV9qp/28.webp"
     },
     {
       "string": "Sawed-Off, Yorick, 4,95 kr.webp",
       "id": 29,
       "type": "Sawed-Off",
       "skin": "Yorick",
-      "price": 4.95
+      "price": 4.95,
+      "link": "https://i.postimg.cc/HxQ1HwdV/29.webp"
     },
     {
       "string": "Sawed-Off, Zander, 5,91 kr.webp",
       "id": 30,
       "type": "Sawed-Off",
       "skin": "Zander",
-      "price": 5.91
+      "price": 5.91,
+      "link": "https://i.postimg.cc/mkBfrPgV/30.webp"
     }
   ],
   "M249": [
@@ -4572,147 +5219,168 @@
       "id": 0,
       "type": "M249",
       "skin": "Aztec",
-      "price": 20.76
+      "price": 20.76,
+      "link": "https://i.postimg.cc/rm1VwXMG/0.webp"
     },
     {
       "string": "M249, Blizzard Marbleized, 1052,07 kr.webp",
       "id": 1,
       "type": "M249",
       "skin": "Blizzard Marbleized",
-      "price": 1052.07
+      "price": 1052.07,
+      "link": "https://i.postimg.cc/GtzbvFBH/1.webp"
     },
     {
       "string": "M249, Contrast Spray, 62,59 kr.webp",
       "id": 2,
       "type": "M249",
       "skin": "Contrast Spray",
-      "price": 62.59
+      "price": 62.59,
+      "link": "https://i.postimg.cc/kXXJqpZ8/2.webp"
     },
     {
       "string": "M249, Deep Relief, 10,00 kr.webp",
       "id": 3,
       "type": "M249",
       "skin": "Deep Relief",
-      "price": 10
+      "price": 10,
+      "link": "https://i.postimg.cc/CM4MygvS/3.webp"
     },
     {
       "string": "M249, Downtown, 21,72 kr.webp",
       "id": 4,
       "type": "M249",
       "skin": "Downtown",
-      "price": 21.72
+      "price": 21.72,
+      "link": "https://i.postimg.cc/Ssh45TCn/4.webp"
     },
     {
       "string": "M249, Emerald Poison Dart, 35,92 kr.webp",
       "id": 5,
       "type": "M249",
       "skin": "Emerald Poison Dart",
-      "price": 35.92
+      "price": 35.92,
+      "link": "https://i.postimg.cc/zG48wXfS/5.webp"
     },
     {
       "string": "M249, Gator Mesh, 1,29 kr.webp",
       "id": 6,
       "type": "M249",
       "skin": "Gator Mesh",
-      "price": 1.29
+      "price": 1.29,
+      "link": "https://i.postimg.cc/Zq3ZwtBk/6.webp"
     },
     {
       "string": "M249, Humidor, 215,30 kr.webp",
       "id": 7,
       "type": "M249",
       "skin": "Humidor",
-      "price": 215.3
+      "price": 215.3,
+      "link": "https://i.postimg.cc/jSDRJJRS/7.webp"
     },
     {
       "string": "M249, Impact Drill, 65,49 kr.webp",
       "id": 8,
       "type": "M249",
       "skin": "Impact Drill",
-      "price": 65.49
+      "price": 65.49,
+      "link": "https://i.postimg.cc/hPySj0WY/8.webp"
     },
     {
       "string": "M249, Jungle DDPAT, 258,10 kr.webp",
       "id": 9,
       "type": "M249",
       "skin": "Jungle DDPAT",
-      "price": 258.1
+      "price": 258.1,
+      "link": "https://i.postimg.cc/B6B3GTBM/9.webp"
     },
     {
       "string": "M249, Jungle, 65,28 kr.webp",
       "id": 10,
       "type": "M249",
       "skin": "Jungle",
-      "price": 65.28
+      "price": 65.28,
+      "link": "https://i.postimg.cc/j2qbqD8K/10.webp"
     },
     {
       "string": "M249, Magma, 93,13 kr.webp",
       "id": 11,
       "type": "M249",
       "skin": "Magma",
-      "price": 93.13
+      "price": 93.13,
+      "link": "https://i.postimg.cc/4y8TYXMc/11.webp"
     },
     {
       "string": "M249, Midnight Palm, 71,08 kr.webp",
       "id": 12,
       "type": "M249",
       "skin": "Midnight Palm",
-      "price": 71.08
+      "price": 71.08,
+      "link": "https://i.postimg.cc/8kwGKb5C/12.webp"
     },
     {
       "string": "M249, Nebula Crusader, 50,65 kr.webp",
       "id": 13,
       "type": "M249",
       "skin": "Nebula Crusader",
-      "price": 50.65
+      "price": 50.65,
+      "link": "https://i.postimg.cc/TYw6ZWLJ/13.webp"
     },
     {
       "string": "M249, O.S.I.P.R, 4,84 kr.webp",
       "id": 14,
       "type": "M249",
       "skin": "O.S.I.P.R",
-      "price": 4.84
+      "price": 4.84,
+      "link": "https://i.postimg.cc/Gh5Crhvw/14.webp"
     },
     {
       "string": "M249, Predator, 14,63 kr.webp",
       "id": 15,
       "type": "M249",
       "skin": "Predator",
-      "price": 14.63
+      "price": 14.63,
+      "link": "https://i.postimg.cc/6QdJdrgt/15.webp"
     },
     {
       "string": "M249, Shipping Forecast, 238,63 kr.webp",
       "id": 16,
       "type": "M249",
       "skin": "Shipping Forecast",
-      "price": 238.63
+      "price": 238.63,
+      "link": "https://i.postimg.cc/BvWfLYhm/16.webp"
     },
     {
       "string": "M249, Spectre, 2,90 kr.webp",
       "id": 17,
       "type": "M249",
       "skin": "Spectre",
-      "price": 2.9
+      "price": 2.9,
+      "link": "https://i.postimg.cc/RZJz05T3/17.webp"
     },
     {
       "string": "M249, Submerged, 1,29 kr.webp",
       "id": 18,
       "type": "M249",
       "skin": "Submerged",
-      "price": 1.29
+      "price": 1.29,
+      "link": "https://i.postimg.cc/RF4rG3xf/18.webp"
     },
     {
       "string": "M249, System Lock, 6,24 kr.webp",
       "id": 19,
       "type": "M249",
       "skin": "System Lock",
-      "price": 6.24
+      "price": 6.24,
+      "link": "https://i.postimg.cc/0QfT4894/19.webp"
     },
     {
       "string": "M249, Warbird, 13,01 kr.webp",
       "id": 20,
       "type": "M249",
       "skin": "Warbird",
-      "price": 13.01
+      "price": 13.01,
+      "link": "https://i.postimg.cc/nrhyb6zh/20.webp"
     }
   ],
   "XM1014": [
@@ -4721,238 +5389,272 @@
       "id": 0,
       "type": "XM1014",
       "skin": "Ancient Lore",
-      "price": 583.3
+      "price": 583.3,
+      "link": "https://i.postimg.cc/MH7V8Ksy/0.webp"
     },
     {
       "string": "XM1014, Banana Leaf, 263,15 kr.webp",
       "id": 1,
       "type": "XM1014",
       "skin": "Banana Leaf",
-      "price": 263.15
+      "price": 263.15,
+      "link": "https://i.postimg.cc/zXkKtvHN/1.webp"
     },
     {
       "string": "XM1014, Black Tie, 27,64 kr.webp",
       "id": 2,
       "type": "XM1014",
       "skin": "Black Tie",
-      "price": 27.64
+      "price": 27.64,
+      "link": "https://i.postimg.cc/4dthzxRr/2.webp"
     },
     {
       "string": "XM1014, Blaze Orange, 490,17 kr.webp",
       "id": 3,
       "type": "XM1014",
       "skin": "Blaze Orange",
-      "price": 490.17
+      "price": 490.17,
+      "link": "https://i.postimg.cc/bNP19kJL/3.webp"
     },
     {
       "string": "XM1014, Blue Spruce, 2,37 kr.webp",
       "id": 4,
       "type": "XM1014",
       "skin": "Blue Spruce",
-      "price": 2.37
+      "price": 2.37,
+      "link": "https://i.postimg.cc/T3YmZxnD/4.webp"
     },
     {
       "string": "XM1014, Blue Steel, 2,37 kr.webp",
       "id": 5,
       "type": "XM1014",
       "skin": "Blue Steel",
-      "price": 2.37
+      "price": 2.37,
+      "link": "https://i.postimg.cc/nhR7xW1w/5.webp"
     },
     {
       "string": "XM1014, Blue Tire, 13,23 kr.webp",
       "id": 6,
       "type": "XM1014",
       "skin": "Blue Tire",
-      "price": 13.23
+      "price": 13.23,
+      "link": "https://i.postimg.cc/gc8vhNYn/6.webp"
     },
     {
       "string": "XM1014, Bone Machine, 92,91 kr.webp",
       "id": 7,
       "type": "XM1014",
       "skin": "Bone Machine",
-      "price": 92.91
+      "price": 92.91,
+      "link": "https://i.postimg.cc/YSvFCxn2/7.webp"
     },
     {
       "string": "XM1014, CaliCamo, 1,08 kr.webp",
       "id": 8,
       "type": "XM1014",
       "skin": "CaliCamo",
-      "price": 1.08
+      "price": 1.08,
+      "link": "https://i.postimg.cc/7Lj2GTd3/8.webp"
     },
     {
       "string": "XM1014, Charter, 10,11 kr.webp",
       "id": 9,
       "type": "XM1014",
       "skin": "Charter",
-      "price": 10.11
+      "price": 10.11,
+      "link": "https://i.postimg.cc/fyNS5Qwk/9.webp"
     },
     {
       "string": "XM1014, Elegant Vines, 797,84 kr.webp",
       "id": 10,
       "type": "XM1014",
       "skin": "Elegant Vines",
-      "price": 797.84
+      "price": 797.84,
+      "link": "https://i.postimg.cc/d3jkxN16/10.webp"
     },
     {
       "string": "XM1014, Entombed, 105,60 kr.webp",
       "id": 11,
       "type": "XM1014",
       "skin": "Entombed",
-      "price": 105.6
+      "price": 105.6,
+      "link": "https://i.postimg.cc/BZTKbbgF/11.webp"
     },
     {
       "string": "XM1014, Fallout Warning, 1097,02 kr.webp",
       "id": 12,
       "type": "XM1014",
       "skin": "Fallout Warning",
-      "price": 1097.02
+      "price": 1097.02,
+      "link": "https://i.postimg.cc/Gm5BVycW/12.webp"
     },
     {
       "string": "XM1014, Frost Borre, 1355,44 kr.webp",
       "id": 13,
       "type": "XM1014",
       "skin": "Frost Borre",
-      "price": 1355.44
+      "price": 1355.44,
+      "link": "https://i.postimg.cc/8PTr6GK0/13.webp"
     },
     {
       "string": "XM1014, Grassland, 451,88 kr.webp",
       "id": 14,
       "type": "XM1014",
       "skin": "Grassland",
-      "price": 451.88
+      "price": 451.88,
+      "link": "https://i.postimg.cc/5tQHV2y6/14.webp"
     },
     {
       "string": "XM1014, Heaven Guard, 144,86 kr.webp",
       "id": 15,
       "type": "XM1014",
       "skin": "Heaven Guard",
-      "price": 144.86
+      "price": 144.86,
+      "link": "https://i.postimg.cc/fRLt8Kh7/15.webp"
     },
     {
       "string": "XM1014, Hieroglyph, 1,29 kr.webp",
       "id": 16,
       "type": "XM1014",
       "skin": "Hieroglyph",
-      "price": 1.29
+      "price": 1.29,
+      "link": "https://i.postimg.cc/xTgNGZBT/16.webp"
     },
     {
       "string": "XM1014, Incinegator, 138,94 kr.webp",
       "id": 17,
       "type": "XM1014",
       "skin": "Incinegator",
-      "price": 138.94
+      "price": 138.94,
+      "link": "https://i.postimg.cc/zBmyXYHp/17.webp"
     },
     {
       "string": "XM1014, Jungle, 806,55 kr.webp",
       "id": 18,
       "type": "XM1014",
       "skin": "Jungle",
-      "price": 806.55
+      "price": 806.55,
+      "link": "https://i.postimg.cc/QtpHFYpD/18.webp"
     },
     {
       "string": "XM1014, Oxide Blaze, 2,15 kr.webp",
       "id": 19,
       "type": "XM1014",
       "skin": "Oxide Blaze",
-      "price": 2.15
+      "price": 2.15,
+      "link": "https://i.postimg.cc/QChV1gbT/19.webp"
     },
     {
       "string": "XM1014, Quicksilver, 4,52 kr.webp",
       "id": 20,
       "type": "XM1014",
       "skin": "Quicksilver",
-      "price": 4.52
+      "price": 4.52,
+      "link": "https://i.postimg.cc/prCrZ9G1/20.webp"
     },
     {
       "string": "XM1014, Red Leather, 548,24 kr.webp",
       "id": 21,
       "type": "XM1014",
       "skin": "Red Leather",
-      "price": 548.24
+      "price": 548.24,
+      "link": "https://i.postimg.cc/rFhzRrtD/21.webp"
     },
     {
       "string": "XM1014, Red Python, 29,25 kr.webp",
       "id": 22,
       "type": "XM1014",
       "skin": "Red Python",
-      "price": 29.25
+      "price": 29.25,
+      "link": "https://i.postimg.cc/Nj5F6j1p/22.webp"
     },
     {
       "string": "XM1014, Scumbria, 9,46 kr.webp",
       "id": 23,
       "type": "XM1014",
       "skin": "Scumbria",
-      "price": 9.46
+      "price": 9.46,
+      "link": "https://i.postimg.cc/y6yDB51X/23.webp"
     },
     {
       "string": "XM1014, Seasons, 39,47 kr.webp",
       "id": 24,
       "type": "XM1014",
       "skin": "Seasons",
-      "price": 39.47
+      "price": 39.47,
+      "link": "https://i.postimg.cc/MKZvGDXk/24.webp"
     },
     {
       "string": "XM1014, Slipstream, 4,09 kr.webp",
       "id": 25,
       "type": "XM1014",
       "skin": "Slipstream",
-      "price": 4.09
+      "price": 4.09,
+      "link": "https://i.postimg.cc/zG6B0Y75/25.webp"
     },
     {
       "string": "XM1014, Teclu Burner, 27,53 kr.webp",
       "id": 26,
       "type": "XM1014",
       "skin": "Teclu Burner",
-      "price": 27.53
+      "price": 27.53,
+      "link": "https://i.postimg.cc/GpDpfggD/26.webp"
     },
     {
       "string": "XM1014, Tranquility, 268,96 kr.webp",
       "id": 27,
       "type": "XM1014",
       "skin": "Tranquility",
-      "price": 268.96
+      "price": 268.96,
+      "link": "https://i.postimg.cc/gjgchCjC/27.webp"
     },
     {
       "string": "XM1014, Urban Perforated, 97,97 kr.webp",
       "id": 28,
       "type": "XM1014",
       "skin": "Urban Perforated",
-      "price": 97.97
+      "price": 97.97,
+      "link": "https://i.postimg.cc/PJXrPXXb/28.webp"
     },
     {
       "string": "XM1014, VariCamo Blue, 251,54 kr.webp",
       "id": 29,
       "type": "XM1014",
       "skin": "VariCamo Blue",
-      "price": 251.54
+      "price": 251.54,
+      "link": "https://i.postimg.cc/W361NFvb/29.webp"
     },
     {
       "string": "XM1014, Watchdog, 51,19 kr.webp",
       "id": 30,
       "type": "XM1014",
       "skin": "Watchdog",
-      "price": 51.19
+      "price": 51.19,
+      "link": "https://i.postimg.cc/DwJfWYTN/30.webp"
     },
     {
       "string": "XM1014, XOXO, 112,70 kr.webp",
       "id": 31,
       "type": "XM1014",
       "skin": "XOXO",
-      "price": 112.7
+      "price": 112.7,
+      "link": "https://i.postimg.cc/65QpKp1t/31.webp"
     },
     {
       "string": "XM1014, Ziggy, 16,88 kr.webp",
       "id": 32,
       "type": "XM1014",
       "skin": "Ziggy",
-      "price": 16.88
+      "price": 16.88,
+      "link": "https://i.postimg.cc/44Pxj9PW/32.webp"
     },
     {
       "string": "XM1014, Zombie Offensive, 14,20 kr.webp",
       "id": 33,
       "type": "XM1014",
       "skin": "Zombie Offensive",
-      "price": 14.2
+      "price": 14.2,
+      "link": "https://i.postimg.cc/zXPXGY9W/33.webp"
     }
   ],
   "Negev": [
@@ -4961,154 +5663,176 @@
       "id": 0,
       "type": "Negev",
       "skin": "Anodized Navy",
-      "price": 5080.41
+      "price": 5080.41,
+      "link": "https://i.postimg.cc/BvQD9p3n/0.webp"
     },
     {
       "string": "Negev, Army Sheen, 0,33 kr.webp",
       "id": 1,
       "type": "Negev",
       "skin": "Army Sheen",
-      "price": 0.33
+      "price": 0.33,
+      "link": "https://i.postimg.cc/zXZgX8NM/1.webp"
     },
     {
       "string": "Negev, Boroque Sand, 52,82 kr.webp",
       "id": 2,
       "type": "Negev",
       "skin": "Boroque Sand",
-      "price": 52.82
+      "price": 52.82,
+      "link": "https://i.postimg.cc/L6tZJw6s/2.webp"
     },
     {
       "string": "Negev, Bratatat, 86,33 kr.webp",
       "id": 3,
       "type": "Negev",
       "skin": "Bratatat",
-      "price": 86.33
+      "price": 86.33,
+      "link": "https://i.postimg.cc/Jh6X1X7c/3.webp"
     },
     {
       "string": "Negev, Bulkhead, 1,09 kr.webp",
       "id": 4,
       "type": "Negev",
       "skin": "Bulkhead",
-      "price": 1.09
+      "price": 1.09,
+      "link": "https://i.postimg.cc/50XCjt6c/4.webp"
     },
     {
       "string": "Negev, CaliCamo, 162,72 kr.webp",
       "id": 5,
       "type": "Negev",
       "skin": "CaliCamo",
-      "price": 162.72
+      "price": 162.72,
+      "link": "https://i.postimg.cc/9QcwZbrY/5.webp"
     },
     {
       "string": "Negev, Dazzle, 6,33 kr.webp",
       "id": 6,
       "type": "Negev",
       "skin": "Dazzle",
-      "price": 6.33
+      "price": 6.33,
+      "link": "https://i.postimg.cc/QNW73V21/6.webp"
     },
     {
       "string": "Negev, Desert-Strike, 2,95 kr.webp",
       "id": 7,
       "type": "Negev",
       "skin": "Desert-Strike",
-      "price": 2.95
+      "price": 2.95,
+      "link": "https://i.postimg.cc/90TwtNdJ/7.webp"
     },
     {
       "string": "Negev, dev_texture, 14,52 kr.webp",
       "id": 8,
       "type": "Negev",
       "skin": "dev_texture",
-      "price": 14.52
+      "price": 14.52,
+      "link": "https://i.postimg.cc/SsHz9pMn/8.webp"
     },
     {
       "string": "Negev, Drop Me, 2,95 kr.webp",
       "id": 9,
       "type": "Negev",
       "skin": "Drop Me",
-      "price": 2.95
+      "price": 2.95,
+      "link": "https://i.postimg.cc/sgKQcWWd/9.webp"
     },
     {
       "string": "Negev, Infrastructure, 177,35 kr.webp",
       "id": 10,
       "type": "Negev",
       "skin": "Infrastructure",
-      "price": 177.35
+      "price": 177.35,
+      "link": "https://i.postimg.cc/mrDc6r3c/10.webp"
     },
     {
       "string": "Negev, Lionfish, 15,06 kr.webp",
       "id": 11,
       "type": "Negev",
       "skin": "Lionfish",
-      "price": 15.06
+      "price": 15.06,
+      "link": "https://i.postimg.cc/rmRDMYPM/11.webp"
     },
     {
       "string": "Negev, Loudmouth, 60,35 kr.webp",
       "id": 12,
       "type": "Negev",
       "skin": "Loudmouth",
-      "price": 60.35
+      "price": 60.35,
+      "link": "https://i.postimg.cc/q75tfdQ1/12.webp"
     },
     {
       "string": "Negev, Man-o'-war, 1,64 kr.webp",
       "id": 13,
       "type": "Negev",
       "skin": "Man-o'-war",
-      "price": 1.64
+      "price": 1.64,
+      "link": "https://i.postimg.cc/rs6KmCBW/13.webp"
     },
     {
       "string": "Negev, Mjölnir, 19644,57 kr.webp",
       "id": 14,
       "type": "Negev",
       "skin": "Mjölnir",
-      "price": 19644.57
+      "price": 19644.57,
+      "link": "https://i.postimg.cc/nrvMQ9xW/14.webp"
     },
     {
       "string": "Negev, Nuclear Waste, 35,14 kr.webp",
       "id": 15,
       "type": "Negev",
       "skin": "Nuclear Waste",
-      "price": 35.14
+      "price": 35.14,
+      "link": "https://i.postimg.cc/4NgYRPbR/15.webp"
     },
     {
       "string": "Negev, Palm, 486,42 kr.webp",
       "id": 16,
       "type": "Negev",
       "skin": "Palm",
-      "price": 486.42
+      "price": 486.42,
+      "link": "https://i.postimg.cc/05mz4FSC/16.webp"
     },
     {
       "string": "Negev, Phoenix Stencil, 163,05 kr.webp",
       "id": 17,
       "type": "Negev",
       "skin": "Phoenix Stencil",
-      "price": 163.05
+      "price": 163.05,
+      "link": "https://i.postimg.cc/dtjLsC4k/17.webp"
     },
     {
       "string": "Negev, Power Loader, 82,83 kr.webp",
       "id": 18,
       "type": "Negev",
       "skin": "Power Loader",
-      "price": 82.83
+      "price": 82.83,
+      "link": "https://i.postimg.cc/y86WkNbf/18.webp"
     },
     {
       "string": "Negev, Terrain, 7,09 kr.webp",
       "id": 19,
       "type": "Negev",
       "skin": "Terrain",
-      "price": 7.09
+      "price": 7.09,
+      "link": "https://i.postimg.cc/g0nJHTd8/19.webp"
     },
     {
       "string": "Negev, Ultralight, 2,18 kr.webp",
       "id": 20,
       "type": "Negev",
       "skin": "Ultralight",
-      "price": 2.18
+      "price": 2.18,
+      "link": "https://i.postimg.cc/x1s8H2r9/20.webp"
     },
     {
       "string": "Negev, Prototype, 1,96 kr.webp",
       "id": 21,
       "type": "Negev",
       "skin": "Prototype",
-      "price": 1.96
+      "price": 1.96,
+      "link": "https://i.postimg.cc/mrJrXy2q/21.webp"
     }
   ],
   "AK-47": [
@@ -5117,315 +5841,360 @@
       "id": 0,
       "type": "AK-47",
       "skin": "Aquamarine Revenge",
-      "price": 1200.61
+      "price": 1200.61,
+      "link": "https://i.postimg.cc/HkSnVXXn/0.webp"
     },
     {
       "string": "AK-47, Asiimov, 2524,55 kr.webp",
       "id": 1,
       "type": "AK-47",
       "skin": "Asiimov",
-      "price": 2524.55
+      "price": 2524.55,
+      "link": "https://i.postimg.cc/PqPxZJQ4/1.webp"
     },
     {
       "string": "AK-47, Baroque, 297,18 kr.webp",
       "id": 2,
       "type": "AK-47",
       "skin": "Baroque",
-      "price": 297.18
+      "price": 297.18,
+      "link": "https://i.postimg.cc/yxXYBZ7V/2.webp"
     },
     {
       "string": "AK-47, Black Laminate, 1821,49 kr.webp",
       "id": 3,
       "type": "AK-47",
       "skin": "Black Laminate",
-      "price": 1821.49
+      "price": 1821.49,
+      "link": "https://i.postimg.cc/ZK45HVL0/3.webp"
     },
     {
       "string": "AK-47, Bloodsport, 1658,98 kr.webp",
       "id": 4,
       "type": "AK-47",
       "skin": "Bloodsport",
-      "price": 1658.98
+      "price": 1658.98,
+      "link": "https://i.postimg.cc/nVvLq6B6/4.webp"
     },
     {
       "string": "AK-47, Blue Laminate, 579,30 kr.webp",
       "id": 5,
       "type": "AK-47",
       "skin": "Blue Laminate",
-      "price": 579.3
+      "price": 579.3,
+      "link": "https://i.postimg.cc/gkskT8Ms/5.webp"
     },
     {
       "string": "AK-47, Cartel, 316,50 kr.webp",
       "id": 6,
       "type": "AK-47",
       "skin": "Cartel",
-      "price": 316.5
+      "price": 316.5,
+      "link": "https://i.postimg.cc/nhLcbrgJ/6.webp"
     },
     {
       "string": "AK-47, Case Hardened, 5396,80 kr.webp",
       "id": 7,
       "type": "AK-47",
       "skin": "Case Hardened",
-      "price": 5396.8
+      "price": 5396.8,
+      "link": "https://i.postimg.cc/rsLFvJXn/7.webp"
     },
     {
       "string": "AK-47, Elite Build, 69,30 kr.webp",
       "id": 8,
       "type": "AK-47",
       "skin": "Elite Build",
-      "price": 69.3
+      "price": 69.3,
+      "link": "https://i.postimg.cc/sXWg6L8G/8.webp"
     },
     {
       "string": "AK-47, Emerald Pinstripe, 104,66 kr.webp",
       "id": 9,
       "type": "AK-47",
       "skin": "Emerald Pinstripe",
-      "price": 104.66
+      "price": 104.66,
+      "link": "https://i.postimg.cc/N0S0xtNw/9.webp"
     },
     {
       "string": "AK-47, Fire Serpent, 20762,67 kr.webp",
       "id": 10,
       "type": "AK-47",
       "skin": "Fire Serpent",
-      "price": 20762.67
+      "price": 20762.67,
+      "link": "https://i.postimg.cc/d0ks3XJN/10.webp"
     },
     {
       "string": "AK-47, First Class, 1800,75 kr.webp",
       "id": 11,
       "type": "AK-47",
       "skin": "First Class",
-      "price": 1800.75
+      "price": 1800.75,
+      "link": "https://i.postimg.cc/zGPDJ5YR/11.webp"
     },
     {
       "string": "AK-47, Frontside Misty, 838,06 kr.webp",
       "id": 12,
       "type": "AK-47",
       "skin": "Frontside Misty",
-      "price": 838.06
+      "price": 838.06,
+      "link": "https://i.postimg.cc/SQ7yncp4/12.webp"
     },
     {
       "string": "AK-47, Fuel Injector, 5584,73 kr.webp",
       "id": 13,
       "type": "AK-47",
       "skin": "Fuel Injector",
-      "price": 5584.73
+      "price": 5584.73,
+      "link": "https://i.postimg.cc/pdw2FZTW/13.webp"
     },
     {
       "string": "AK-47, Gold Arabesque, 18544,47 kr.webp",
       "id": 14,
       "type": "AK-47",
       "skin": "Gold Arabesque",
-      "price": 18544.47
+      "price": 18544.47,
+      "link": "https://i.postimg.cc/d3vwWVrg/14.webp"
     },
     {
       "string": "AK-47, Green Laminate, 290,85 kr.webp",
       "id": 15,
       "type": "AK-47",
       "skin": "Green Laminate",
-      "price": 290.85
+      "price": 290.85,
+      "link": "https://i.postimg.cc/RFwvQH6c/15.webp"
     },
     {
       "string": "AK-47, Head Shot, 916,75 kr.webp",
       "id": 16,
       "type": "AK-47",
       "skin": "Head Shot",
-      "price": 916.75
+      "price": 916.75,
+      "link": "https://i.postimg.cc/28kCh3zZ/16.webp"
     },
     {
       "string": "AK-47, Hydroponic, 17621,94 kr.webp",
       "id": 17,
       "type": "AK-47",
       "skin": "Hydroponic",
-      "price": 17621.94
+      "price": 17621.94,
+      "link": "https://i.postimg.cc/15vsHPtY/17.webp"
     },
     {
       "string": "AK-47, Ice Coaled, 368,12 kr.webp",
       "id": 18,
       "type": "AK-47",
       "skin": "Ice Coaled",
-      "price": 368.12
+      "price": 368.12,
+      "link": "https://i.postimg.cc/90pVsHB0/18.webp"
     },
     {
       "string": "AK-47, Jaguar, 2933,81 kr.webp",
       "id": 19,
       "type": "AK-47",
       "skin": "Jaguar",
-      "price": 2933.81
+      "price": 2933.81,
+      "link": "https://i.postimg.cc/kgD9YZRM/19.webp"
     },
     {
       "string": "AK-47, Jet Set, 9357,58 kr.webp",
       "id": 20,
       "type": "AK-47",
       "skin": "Jet Set",
-      "price": 9357.58
+      "price": 9357.58,
+      "link": "https://i.postimg.cc/yNZKsZTw/20.webp"
     },
     {
       "string": "AK-47, Jungle Spray, 1884,68 kr.webp",
       "id": 21,
       "type": "AK-47",
       "skin": "Jungle Spray",
-      "price": 1884.68
+      "price": 1884.68,
+      "link": "https://i.postimg.cc/Cxt03NbG/21.webp"
     },
     {
       "string": "AK-47, Leet Museo, 887,50 kr.webp",
       "id": 22,
       "type": "AK-47",
       "skin": "Leet Museo",
-      "price": 887.5
+      "price": 887.5,
+      "link": "https://i.postimg.cc/Jn3WBCvx/22.webp"
     },
     {
       "string": "AK-47, Legion of Anubis, 227,44 kr.webp",
       "id": 23,
       "type": "AK-47",
       "skin": "Legion of Anubis",
-      "price": 227.44
+      "price": 227.44,
+      "link": "https://i.postimg.cc/tJXG3mHj/23.webp"
     },
     {
       "string": "AK-47, Neon Revolution, 789,17 kr.webp",
       "id": 24,
       "type": "AK-47",
       "skin": "Neon Revolution",
-      "price": 789.17
+      "price": 789.17,
+      "link": "https://i.postimg.cc/X7Y0Xh8K/24.webp"
     },
     {
       "string": "AK-47, Neon Rider, 1859,03 kr.webp",
       "id": 25,
       "type": "AK-47",
       "skin": "Neon Rider",
-      "price": 1859.03
+      "price": 1859.03,
+      "link": "https://i.postimg.cc/26ND6Sc3/25.webp"
     },
     {
       "string": "AK-47, Nightwish, 927,77 kr.webp",
       "id": 26,
       "type": "AK-47",
       "skin": "Nightwish",
-      "price": 927.77
+      "price": 927.77,
+      "link": "https://i.postimg.cc/fWKNzZxT/26.webp"
     },
     {
       "string": "AK-47, Orbit Mk01, 284,52 kr.webp",
       "id": 27,
       "type": "AK-47",
       "skin": "Orbit Mk01",
-      "price": 284.52
+      "price": 284.52,
+      "link": "https://i.postimg.cc/vT3F3LQ6/27.webp"
     },
     {
       "string": "AK-47, Panthera onca, 4188,11 kr.webp",
       "id": 28,
       "type": "AK-47",
       "skin": "Panthera onca",
-      "price": 4188.11
+      "price": 4188.11,
+      "link": "https://i.postimg.cc/xTpVmRxw/28.webp"
     },
     {
       "string": "AK-47, Phantom Disruptor, 131,84 kr.webp",
       "id": 29,
       "type": "AK-47",
       "skin": "Phantom Disruptor",
-      "price": 131.84
+      "price": 131.84,
+      "link": "https://i.postimg.cc/QdBGJTvH/29.webp"
     },
     {
       "string": "AK-47, Point Disarray, 398,57 kr.webp",
       "id": 30,
       "type": "AK-47",
       "skin": "Point Disarray",
-      "price": 398.57
+      "price": 398.57,
+      "link": "https://i.postimg.cc/CKD3WVh0/30.webp"
     },
     {
       "string": "AK-47, Predator, 695,85 kr.webp",
       "id": 31,
       "type": "AK-47",
       "skin": "Predator",
-      "price": 695.85
+      "price": 695.85,
+      "link": "https://i.postimg.cc/3xPMSwH9/31.webp"
     },
     {
       "string": "AK-47, Rat Rod, 157,92 kr.webp",
       "id": 32,
       "type": "AK-47",
       "skin": "Rat Rod",
-      "price": 157.92
+      "price": 157.92,
+      "link": "https://i.postimg.cc/HnWFccQW/32.webp"
     },
     {
       "string": "AK-47, Red Laminate, 4669,08 kr.webp",
       "id": 33,
       "type": "AK-47",
       "skin": "Red Laminate",
-      "price": 4669.08
+      "price": 4669.08,
+      "link": "https://i.postimg.cc/ZKR1JNbV/33.webp"
     },
     {
       "string": "AK-47, Redline, 1117,99 kr.webp",
       "id": 34,
       "type": "AK-47",
       "skin": "Redline",
-      "price": 1117.99
+      "price": 1117.99,
+      "link": "https://i.postimg.cc/QtJRdkKn/34.webp"
     },
     {
       "string": "AK-47, Safari Mesh, 28,92 kr.webp",
       "id": 35,
       "type": "AK-47",
       "skin": "Safari Mesh",
-      "price": 28.92
+      "price": 28.92,
+      "link": "https://i.postimg.cc/3RTshbNv/35.webp"
     },
     {
       "string": "AK-47, Safety Net, 93,20 kr.webp",
       "id": 36,
       "type": "AK-47",
       "skin": "Safety Net",
-      "price": 93.2
+      "price": 93.2,
+      "link": "https://i.postimg.cc/L4vcdDpJ/36.webp"
     },
     {
       "string": "AK-47, Slate, 133,80 kr.webp",
       "id": 37,
       "type": "AK-47",
       "skin": "Slate",
-      "price": 133.8
+      "price": 133.8,
+      "link": "https://i.postimg.cc/5yPTw43B/37.webp"
     },
     {
       "string": "AK-47, Steel Delta, 34,49 kr.webp",
       "id": 38,
       "type": "AK-47",
       "skin": "Steel Delta",
-      "price": 34.49
+      "price": 34.49,
+      "link": "https://i.postimg.cc/TY4B1PhG/38.webp"
     },
     {
       "string": "AK-47, The Empress, 1597,43 kr.webp",
       "id": 39,
       "type": "AK-47",
       "skin": "The Empress",
-      "price": 1597.43
+      "price": 1597.43,
+      "link": "https://i.postimg.cc/9f3SPNGn/39.webp"
     },
     {
       "string": "AK-47, Uncharted, 15,06 kr.webp",
       "id": 40,
       "type": "AK-47",
       "skin": "Uncharted",
-      "price": 15.06
+      "price": 15.06,
+      "link": "https://i.postimg.cc/7LgRKM9Y/40.webp"
     },
     {
       "string": "AK-47, Vulcan, 10802,33 kr.webp",
       "id": 41,
       "type": "AK-47",
       "skin": "Vulcan",
-      "price": 10802.33
+      "price": 10802.33,
+      "link": "https://i.postimg.cc/zB8c6b2w/41.webp"
     },
     {
       "string": "AK-47, Wasteland Rebel, 3120,32 kr.webp",
       "id": 42,
       "type": "AK-47",
       "skin": "Wasteland Rebel",
-      "price": 3120.32
+      "price": 3120.32,
+      "link": "https://i.postimg.cc/VvHZJ7f4/42.webp"
     },
     {
       "string": "AK-47, Wild Lotus, 15631,18 kr.webp",
       "id": 43,
       "type": "AK-47",
       "skin": "Wild Lotus",
-      "price": 15631.18
+      "price": 15631.18,
+      "link": "https://i.postimg.cc/wv2GpqnC/43.webp"
     },
     {
       "string": "AK-47, X-ray, 21156,77 kr.webp",
       "id": 44,
       "type": "AK-47",
       "skin": "X-ray",
-      "price": 21156.77
+      "price": 21156.77,
+      "link": "https://i.postimg.cc/prd1XNHp/44.webp"
     }
   ]
 }
