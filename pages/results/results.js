@@ -6,11 +6,20 @@ if (!Score) {
     window.open("./../home/home.html", "_self");
 }
 
+let settings = JSON.parse(localStorage.getItem("settings"));
+if (settings === null) {
+    settings = {
+        currency: "USD",
+        lightmode: false,
+        items: "All items"
+    }
+}
+
 // Get the high score if all weapons are in play
-if (JSON.parse(localStorage.getItem("settings")).items === "All items") {
+if (settings.items === "All items") {
     
     let highScore = localStorage.getItem("highScore");
-    if (isNaN(highScore) || highScore === null) { highScore = 0; }
+    if (!highScore) { highScore = 0; }
 
     if (Number(Score) > Number(highScore)) { // New high score
         highScore = Score;
