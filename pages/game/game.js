@@ -93,6 +93,7 @@ function changeItems() {
     RightDisplay.querySelector(".item-type").innerHTML = RightItem.type;
     RightDisplay.querySelector(".item-skin").innerHTML = RightItem.skin;
 
+    // Check each image's size properties when their loaded
     document.querySelectorAll(".item-img").forEach((img) => {
         function imgLoaded() {
             img.style.width = "auto";

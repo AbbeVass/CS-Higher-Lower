@@ -5,6 +5,12 @@ const ShortTitle = "CS2 Higher Lower Game";
 const LongTitle = "A Higher Lower Game with CS2 Weapons and their Skins where You have to Guess which one is more Expensive<span class='sub-title'>BASED ON PRICES FROM EARLY 2024</span>";
 
 let currentTitle = "Short";
+/**
+ * Change the title of the home page.
+ * As defult it will switch between "ShortTitle" and "LongTitle".
+ * @param {String} customT Custom title
+ * @param {String} customL Custom link text
+ */
 function changeTitle(customT = null, customL = null) {
     const TitleLink = document.getElementById("title-link");
     const Title = document.getElementById("title");
