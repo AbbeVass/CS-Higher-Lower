@@ -168,7 +168,7 @@ function guess(higher) {
             const ScoreFonstSize = window.getComputedStyle(ScoreDisplay).getPropertyValue('font-size');
             ScoreDisplay.style.fontSize = parseFloat(ScoreFonstSize)*2 + "px"; // Expand
             setTimeout(() => {
-                ScoreDisplay.style.fontSize = ScoreFonstSize;                   // Retract
+                ScoreDisplay.style.fontSize = ScoreFonstSize;                  // Retract
             }, 300);
 
             // Wait and then change items and show buttons again
