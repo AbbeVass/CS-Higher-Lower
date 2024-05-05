@@ -99,7 +99,7 @@ function changeItems() {
             img.style.width = "auto";
             img.style.height = "100%";
     
-            // If the image is too wide its size depends on the display's width instead of hight 
+            // If the image is too wide its size depends on the display's width instead of height 
             if (img.offsetWidth > LeftDisplay.offsetWidth) {
                 img.style.height = "auto";
                 img.style.width = "100%";
