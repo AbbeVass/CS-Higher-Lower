@@ -12,5 +12,6 @@
 }
 
 body {
+    font-display: fallback;
     font-family: Counter-Strike, Arial;
 }

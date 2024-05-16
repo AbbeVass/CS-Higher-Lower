@@ -7,7 +7,7 @@ if (settings === null) {
         lightmode: false,
         items: "All items"
     }
-} 
+}
 
 let allItems;
 fetch(`./../../items/data/items-data.json`)
@@ -112,8 +112,6 @@ function changeItems() {
             img.addEventListener('load', imgLoaded);
         }
     });
-
-    
 }
 
 /**
