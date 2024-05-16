@@ -95,6 +95,8 @@ function changeItems() {
 
     // Check each image's size properties when their loaded
     document.querySelectorAll(".item-img").forEach((img) => {
+        img.alt = RightItem.type + " - " + RightItem.skin;
+
         function imgLoaded() {
             img.style.width = "auto";
             img.style.height = "100%";
