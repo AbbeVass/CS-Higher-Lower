@@ -1,5 +1,5 @@
 const MenuDiv = document.getElementById("weaponsMenu");
-const DataPath = "./../../items/data/";
+const DataPath = "./../../items/data/"; // Path from html file
 
 // Get all items and the category structure
 let categories;
